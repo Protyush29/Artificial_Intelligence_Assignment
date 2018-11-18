@@ -1,0 +1,21 @@
+=============================================================================================================================================
+|            ooo             ooo|                            ooo                                                                         *  |
+|   *       oo o       ooo  oo o|                           oo ooooooooo                                                                 ooo|
+|   ooooooooo oo      oo o oo oo|     ooooooooooooooooooooooo oo       ooooooo                  oooooooooo                                 o|
+|            oo ooooooo oo o oo ooooooo                      oo ooooooo      oooooooooooooooooo o        ooooooooooooooooooooooooooooooooooo|
+|ooooooooooooo oo       o oo o oo      ooooooooooooooooooooooo oo     ooooooo=================o ooooooooo==================================o|
+|o            oo oooooooo o|oo o|ooooooo                      oo ooooo      o|                o         o      |                           o|
+|oooooooooooooo oo        o|o* o|o      ooooooooooooooooooooooo oo   oooooooo|         oooooo o ooooooooo      |  *ooooooooooooooooooooooo o|
+|               o ooooooooo|oooo|oooooooo                      oo ooo        |        oo    o o o              |                         o o|
+|  oooooooooooooo o======================ooooooooooooooooooooooo oo ooooooooo|        o|ooooo o ooooooooooooooo|oooooooooooooooooooooooooo o|
+|ooo              o        |    |        o                       o s        o|        o|o     o               o|o                          o|
+|o  ooooooooooooo o  *     |  * |   *   oooooooooooooooooooooooo o o oooooooo|        o|ooooo o ooooooooooooooo|oooooooooooooooooooooooooo o|
+|oooo           o oooo     |    |   ooooo                      o o o o       |        o|    o o o    *         |                         o o|
+|    oooooooooooo o======================ooooooooooooooooooooooo o o oooooooo|        o|ooooo o ooooooooooooooo|oooooooooooooooooooooooooo o|
+|ooooo            o        |    |        o                       o o        o|        o|o     o               o|o                          o|
+|o    ooooooooooooo        |  *o|        ooooooooooooooooooooooo o o oooooooo|        o|ooooo o ooooooooooooooo|oooooooooooooooooooooooooooo|
+|oooooo                    |   o|                              o o o o       |        o|    o o o                                           |
+|======ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo o o oooooooo|        o|ooooo o oooooooooooooooooooooooooooooooooooooooooooo|
+|     |o                                                         o o        o|    *   o|o     o                                         *  o|
+|  *  |ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo oooooooooo|    ooooo|oooooooooooooooooooooooooooooooooooooooooooooooooooo|
+=============================================================================================================================================

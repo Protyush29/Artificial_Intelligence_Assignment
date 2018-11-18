@@ -1,0 +1,21 @@
+==========================================================================
+|  s                              |                                      |
+|  ooooooooooooooooooo            |                                      |
+|====================o            |                                      |
+|                    o                                                   |
+|                    oooooooooooooooooo oooooooooooooooooooooo*          |
+|                  ===================o o                                |
+|                                     o oooooooooooooooooooooooooo       |
+|                                     o                          oo      |
+|                                     ooooooooooooooooooooooooooo ooooooo|
+|                *                    ==========================o       o|
+|ooooooooooooooooo              oooooooooooooo  ooooooooooooooo o ooooooo|
+|o                             oo            o oo             o o o      |
+|ooooooooooooooooooooooooooooooo ooooooooooooo o|oooooooooooooo o ooooooo|
+|================================o             o|o              o       o|
+|                                ooooooooooooo o|oooooooooooooo o ooooooo|
+|                     *                      o o|             o o o      |
+|ooooooooooooooooooooooooooooooooooooooooooooo o|oooooooooooooo o ooooooo|
+|o                                             o|o              o       o|
+|ooooooooooooooooooooooooooooooooooooooooooooooo|oooooooooooooooooooooooo|
+==========================================================================

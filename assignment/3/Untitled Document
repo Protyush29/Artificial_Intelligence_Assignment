@@ -1,0 +1,103 @@
+import numpy as np
+from numpy import *
+np.set_printoptions(threshold=np.inf)
+from Queue import Queue
+
+#Getting Inputs Ready
+def get_content(path):
+        with  open(path) as f:
+            content = f.readlines()
+
+        content= [list(x.strip()) for x in content]
+        map_content = np.asanyarray(content)
+        return map_content
+
+#Function for Breadth first search
+
+map1_content=get_content("map1.txt")
+map2_content=get_content("map2.txt")
+map3_content=get_content("map3.txt")
+#print map1_content
+#print map1_content.shape
+
+def bfs(map_content,out):
+            
+            map_queue=Queue()
+            start_point=np.where(map_content=='s')
+            
+
+            iteration_count=map_content.shape[0]*map_content.shape[1]
+            
+            goal_count=0
+            goal_position=list()
+            
+            map_queue.put(start_point)
+            
+
+
+            while (iteration_count>0):
+
+                iteration_count-=1
+                
+                if map_queue.empty():
+                    break
+                
+                node=map_queue.get()
+                
+                if map_content[node]!='s':
+                    map_content[node]='D'
+                    
+                if map_content[node[0]-1,node[1]]=='*' or map_content[node[0]-1,node[1]]==' ':
+
+                    if map_content[node[0]-1,node[1]]=='*':
+                        goal_position.append((node[0]-1,node[1]))
+                        goal_count+=1
+                       
+                    map_content[node[0]-1,node[1]]='A'
+                    map_queue.put((node[0]-1,node[1]))
+
+                if map_content[node[0],node[1]+1]=='*' or map_content[node[0],node[1]+1]==' ':
+
+                    if map_content[node[0],node[1]+1]=='*':
+                        goal_position.append((node[0],node[1]+1))
+                        goal_count+=1
+                        
+                    map_content[node[0],node[1]+1]='A'
+                    map_queue.put((node[0],node[1]+1))
+
+                if map_content[node[0]+1,node[1]]=='*' or map_content[node[0]+1,node[1]]==' ':
+
+                    if map_content[node[0]+1,node[1]]=='*':
+                        goal_position.append((node[0]+1,node[1]))
+                        goal_count+=1
+                        
+                    map_content[node[0]+1,node[1]]='A'
+                    map_queue.put((node[0]+1,node[1]))
+
+                if map_content[node[0],node[1]-1]=='*' or map_content[node[0],node[1]-1]==' ':
+
+                    if map_content[node[0],node[1]-1]=='*':
+                        goal_position.append((node[0],node[1]-1))
+                        goal_count+=1
+                        #print ("Goal foundL")
+                    map_content[node[0],node[1]-1]='A'
+                    map_queue.put((node[0],node[1]-1))
+                    
+                print map1_content
+
+
+            for i in goal_position:
+                map_content[i]='*'
+            np.savetxt(out+'.txt', map_content,fmt= '%c',delimiter="")  
+            print ("Goals discoverable by BFS for the map is= {}".format(goal_count))
+            print ("Goal positions are={}".format(goal_position))
+            return (goal_count,goal_position)
+        
+             
+
+goal_count_1,goal_pos_1=bfs(map1_content,'out1')       
+#goal_count_2,goal_pos_2=bfs(map2_content,'out2') 
+#goal_count_3,goal_pos_3=bfs(map3_content,'out3') 
+
+
+

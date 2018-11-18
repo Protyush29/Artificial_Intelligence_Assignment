@@ -1,0 +1,138 @@
+\documentclass{beamer}
+
+\mode<presentation> {
+
+%\usetheme{default}
+%\usetheme{AnnArbor}
+%\usetheme{Antibes}
+%\usetheme{Bergen}
+%\usetheme{Berkeley}
+%\usetheme{Berlin}
+%\usetheme{Boadilla}
+%\usetheme{CambridgeUS}
+%\usetheme{Copenhagen}
+%\usetheme{Darmstadt}
+%\usetheme{Dresden}
+%\usetheme{Frankfurt}
+%\usetheme{Goettingen}
+%\usetheme{Hannover}
+%\usetheme{Ilmenau}
+%\usetheme{JuanLesPins}
+%\usetheme{Luebeck}
+%\usetheme{Madrid}
+%\usetheme{Malmoe}
+%\usetheme{Marburg}
+%\usetheme{Montpellier}
+%\usetheme{PaloAlto}
+%\usetheme{Pittsburgh}
+%\usetheme{Rochester}
+\usetheme{Singapore}
+%\usetheme{Szeged}
+%\usetheme{Warsaw}
+
+%\usecolortheme{albatross}
+%\usecolortheme{beaver}
+%\usecolortheme{beetle}
+%\usecolortheme{crane}
+%\usecolortheme{dolphin}
+%\usecolortheme{dove}
+%\usecolortheme{fly}
+%\usecolortheme{lily}
+%\usecolortheme{orchid}
+%\usecolortheme{rose}
+%\usecolortheme{seagull}
+%\usecolortheme{seahorse}
+%\usecolortheme{whale}
+%\usecolortheme{wolverine}
+
+%\setbeamertemplate{footline} % To remove the footer line in all slides uncomment this line
+%\setbeamertemplate{footline}[page number] % To replace the footer line in all slides with a simple slide count uncomment this line
+
+%\setbeamertemplate{navigation symbols}{} % To remove the navigation symbols from the bottom of all slides uncomment this line
+}
+
+\usepackage{graphicx} % Allows including images
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title[Short title]{Assignment 2 } % The short title appears at the bottom of every slide, the full title is only on the title page
+
+\author{Somesh Devagekar,Protyush Kumar  Das} % Your name
+\institute[H-BRS] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+{
+Hochschule Bonn-Rhein-Sieg \\ % Your institution for the title page
+\medskip
+\textit{somesh.devagekar@smail.inf.h-brs.de\\protyush.das@smail.inf.h-brs.de} % Your email address
+}
+\date{\today} % Date, can be changed to a custom date
+
+\begin{document}
+
+\begin{frame}
+\titlepage 
+\end{frame}
+
+\begin{frame}
+\title{question 1} 
+\begin{block}{1.>Why is a special notation needed to classify algorithms?}
+Algorithms put the science in computer science,and finding good algorithms and knowing when to apply them will allow you to write interesting and important programs.The more complex algorithms, more the effort to make the program faster. 
+How do we measure efficiency? We could time how long it takes to run the code, but that would tell us on a paticular programming language, a paticular processor with a paticular input given.So instead of this a generalised form was developed called Asymptotic analysis.
+The runtime for algorithm depends on how long it takes a computer to run the code, also it shows how fast a function grows with input size or rate of growth of a running time.
+\end{block}
+\end{frame}
+
+\begin{frame}
+\begin{block}{Explanation}
+Lets say an algorithm runs on a input size $6n^{2}+1000n+130$.
+therefore the running time grows as $n^{2}$.
+Here if we neglect the coeficients, then 100n+130.
+therefore by dropping he less significant terms and the constant coefficients, we can focus on the important part of an algorithm's running time i.e. asymptotic notation and types are big-Θ notation, big-O notation, and big- Ω notation.
+Big O specifically describes the worst-case scenario, and can be used to describe the execution time. 
+\end{block}
+
+\begin{block}{Reference:}
+\begin{itemize}
+	\item khanacademy.com
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+\begin{frame}
+\begin{block}{question 2.1}
+Prove that T(n)=$100n^{2}$ is \\
+\textbf{ANS }By proof T(n)is O$(g(n)) $if T(n)$\leq c.g(n)$ for some $n \geq n_0$\\ So T(n)=O$(n^{2}) $ if T(n)$\leq c.n^{2}   , \forall n \geq n_0$ given c,n$\geq$0
+\\Hence assuming 100$n^{2} \leq c.n^{2}$ \\
+or, 100$n^{2} \div n^{2}\leq c.n^{2}\div  n^{2}$ (dividing both sides by $n^{2}$) \\
+or, 100$\leq c$ which holds that the equation is valid $\forall$ c$\geq$100
+\\ Therefore it proved that  T(n)=$100n^{2}$ $\forall$ c$\geq$100 \\The values of n doesnot affect the coefficient of c.
+\end{block}
+\begin{block}{question 2.2}
+Prove that T(n)=$n^{6} + 100n^{5}$ O$(n^{6})$\\
+\textbf{ANS }Following the Big O definition as the above solved euation it can be said that\\ $\space$ $n^{6} + 100n^{5}\leq c.n^{6}$\\or, $1+ \frac{100}{n} \leq c$ (dividing both sides by $n^{6}$)\\
+Here Big-O holds for $n \geq n_0 = 1$ and $c\leq  (1+100)$\\
+larger the value of n results in smaller factors of c, thus the above statement is true.
+\end{block}
+\end{frame}
+
+\begin{frame}
+\begin{block}{question3}
+\begin{tabbing}
+\hspace*{1cm}\=\hspace*{1cm}\=\kill
+1.sum = 0  \\
+2.for i in range(0, J):\\3.
+\> for j in range(0, K):\\4.
+\>\> if arr[i][j] $\leq$ ANYCONST:\\5.
+\>\> sum = sum + arr[i][j]\\6.
+print(sum)
+\end{tabbing}
+\textbf{ANS} Time Complexity:\\1=O($1$)\\2=O($n$)\\3=O($n$)\\4=O($1$)\\5=O($1$)\\6=O($1$) \\
+Result=O($1$)+O($n$)*O($n$)*(O($1$)+O($1$))+O($1$)\\
+or, Result=O($1$)+O($2n^{2}$)+O($1$) since, O($n*n*(1+1)$)=O($2n^{2}$)\\
+or, Result=O($2n^{2}$) or, for worst case Result=O($n^{2}$)\\
+\end{block}
+\end{frame}
+\end{document}
