@@ -1,0 +1,4392 @@
+simple_hill_climbing output
+Distance 71099.0450682
+Distance 71096.9948981
+Distance 71077.6945635
+Distance 71015.2879373
+Distance 71005.991436
+Distance 70837.8756815
+Distance 70815.6841904
+Distance 70810.8050203
+Distance 70808.2702123
+Distance 70767.6201908
+Distance 70599.7214416
+Distance 70501.031109
+Distance 70366.334622
+Distance 70351.6249438
+Distance 70291.5355025
+Distance 70288.0513255
+Distance 70278.3853563
+Distance 70272.2601943
+Distance 70035.2642906
+Distance 69998.8640372
+Distance 69997.2816279
+Distance 69974.4048689
+Distance 69971.605962
+Distance 69961.4690191
+Distance 69957.4895009
+Distance 69945.6087371
+Distance 69877.7704206
+Distance 69808.8906039
+Distance 69799.8830638
+Distance 69770.1262755
+Distance 69646.2232611
+Distance 69640.7628193
+Distance 69589.8300552
+Distance 69558.7258591
+Distance 69524.2593296
+Distance 69481.0388525
+Distance 69347.1856714
+Distance 69346.4593127
+Distance 69287.1585633
+Distance 69283.8113658
+Distance 69278.7787378
+Distance 69277.2497832
+Distance 69202.2998307
+Distance 69114.9739378
+Distance 69052.5475277
+Distance 68982.8392543
+Distance 68981.9035207
+Distance 68922.1625003
+Distance 68843.5395008
+Distance 68838.805372
+Distance 68761.1187623
+Distance 68760.944104
+Distance 68759.0805874
+Distance 68749.3214557
+Distance 68744.6832905
+Distance 68711.1686986
+Distance 68646.3337009
+Distance 68559.2908962
+Distance 68555.5294497
+Distance 68551.7709207
+Distance 68548.4168957
+Distance 68499.5802493
+Distance 68428.5778507
+Distance 68402.4878344
+Distance 68354.6376912
+Distance 68350.5002428
+Distance 68302.7866781
+Distance 68251.1665943
+Distance 68242.8031171
+Distance 68096.1563723
+Distance 68096.0651875
+Distance 68003.2032043
+Distance 67953.7985639
+Distance 67728.6362821
+Distance 67367.2638166
+Distance 67361.19773
+Distance 67359.435175
+Distance 67350.073247
+Distance 67340.1041331
+Distance 67134.8870752
+Distance 67131.4877825
+Distance 67122.0389555
+Distance 67121.1907443
+Distance 67117.9464851
+Distance 67116.05538
+Distance 67115.9562362
+Distance 67078.4627889
+Distance 67070.9352115
+Distance 67057.5016532
+Distance 67051.3795565
+Distance 67015.5509345
+Distance 67006.5672601
+Distance 66948.4460535
+Distance 66815.2125856
+Distance 66809.8242168
+Distance 66647.3237911
+Distance 66602.3973333
+Distance 66601.9791668
+Distance 66598.7162978
+Distance 66575.0255145
+Distance 66557.6387319
+Distance 66510.2506298
+Distance 66413.2658837
+Distance 66411.3681456
+Distance 66410.6904462
+Distance 66344.892188
+Distance 66332.0380096
+Distance 66219.4021392
+Distance 66215.5449933
+Distance 66215.3231736
+Distance 66190.7267244
+Distance 66154.2616487
+Distance 66153.9515555
+Distance 66147.6444911
+Distance 66141.0895519
+Distance 66118.0429067
+Distance 66087.6625606
+Distance 66087.3524673
+Distance 66086.7696283
+Distance 66042.4864235
+Distance 66029.9813364
+Distance 66018.0813405
+Distance 66011.0193712
+Distance 66000.7122099
+Distance 65997.4826948
+Distance 65966.7176779
+Distance 65964.0312528
+Distance 65743.7172789
+Distance 65738.0422036
+Distance 65554.1315762
+Distance 65502.1166956
+Distance 65495.8945661
+Distance 65495.2714451
+Distance 65493.4770894
+Distance 65492.7782331
+Distance 65440.4593162
+Distance 65437.3051272
+Distance 65426.9743799
+Distance 65400.3713697
+Distance 65390.2569392
+Distance 65348.9377246
+Distance 65336.5860604
+Distance 65317.2543989
+Distance 65313.1601331
+Distance 65309.8861057
+Distance 65280.3238219
+Distance 65221.1161868
+Distance 65210.1874848
+Distance 65190.1536066
+Distance 65163.1672065
+Distance 65162.6692637
+Distance 65158.1536462
+Distance 65121.6888612
+Distance 65111.1807667
+Distance 65108.6563699
+Distance 65089.9246133
+Distance 65089.5073595
+Distance 65089.0891095
+Distance 65088.9406216
+Distance 65082.4838198
+Distance 65078.4572392
+Distance 65078.4049933
+Distance 65077.8145257
+Distance 65077.7841181
+Distance 65074.0411548
+Distance 65072.4677888
+Distance 64942.7929767
+Distance 64891.4417328
+Distance 64877.0845154
+Distance 64862.9737282
+Distance 64861.6085553
+Distance 64741.523988
+Distance 64740.4209036
+Distance 64625.8188775
+Distance 64622.2158803
+Distance 64599.2626777
+Distance 64599.0943445
+Distance 64418.9725077
+Distance 64417.9083428
+Distance 64409.9474945
+Distance 64204.0442212
+Distance 64190.994344
+Distance 64190.3894561
+Distance 64183.9256376
+Distance 64183.5895362
+Distance 63992.2144893
+Distance 63974.2435782
+Distance 63972.3251692
+Distance 63971.9597719
+Distance 63932.8263703
+Distance 63930.5295629
+Distance 63925.901983
+Distance 63901.5369703
+Distance 63862.9049982
+Distance 63795.3413738
+Distance 63794.5214163
+Distance 63788.617224
+Distance 63748.8765896
+Distance 63651.3320277
+Distance 63649.1233712
+Distance 63636.778291
+Distance 63586.6547844
+Distance 63504.2349489
+Distance 63501.096962
+Distance 63501.0868073
+Distance 63498.7969653
+Distance 63483.8616082
+Distance 63469.4177788
+Distance 63461.2107114
+Distance 63428.0787293
+Distance 63425.7888872
+Distance 63410.0218146
+Distance 63408.3947041
+Distance 63343.9978439
+Distance 63322.1485112
+Distance 63320.733589
+Distance 63316.4282952
+Distance 63311.4338711
+Distance 63297.4525228
+Distance 63117.4503177
+Distance 63116.7438919
+Distance 63094.5446504
+Distance 63029.3968671
+Distance 62983.6095953
+Distance 62971.5066304
+Distance 62957.639749
+Distance 62903.5938433
+Distance 62846.3843015
+Distance 62845.7654527
+Distance 62794.9730124
+Distance 62747.6286623
+Distance 62562.3658801
+Distance 62556.2538161
+Distance 62536.4114768
+Distance 62535.4161372
+Distance 62506.2792394
+Distance 62468.3082076
+Distance 62306.6003721
+Distance 62273.2610489
+Distance 62267.9134616
+Distance 62249.8705044
+Distance 62220.0262418
+Distance 62213.0310844
+Distance 62168.3520632
+Distance 62168.3241904
+Distance 62161.5058299
+Distance 62055.6549354
+Distance 62050.1993914
+Distance 62027.691632
+Distance 62024.7385665
+Distance 62021.2988442
+Distance 61986.4710166
+Distance 61863.835724
+Distance 61861.9273164
+Distance 61726.381796
+Distance 61718.7543891
+Distance 61717.6429471
+Distance 61705.0616284
+Distance 61699.3458144
+Distance 61691.3709442
+Distance 61645.8374767
+Distance 61480.0988566
+Distance 61466.2224104
+Distance 61459.5855608
+Distance 61195.8499627
+Distance 61194.8795851
+Distance 60879.6634277
+Distance 60835.229622
+Distance 60831.2138663
+Distance 60797.4445431
+Distance 60790.3117645
+Distance 60750.6396624
+Distance 60686.5829556
+Distance 60666.1771766
+Distance 60661.0624514
+Distance 60660.9859719
+Distance 60653.5665993
+Distance 60653.1229153
+Distance 60653.1062274
+Distance 60642.4861188
+Distance 60638.6205261
+Distance 60605.8162644
+Distance 60594.5006305
+Distance 60593.1757226
+Distance 60587.4281461
+Distance 60389.832605
+Distance 60380.9337599
+Distance 60358.803567
+Distance 60355.4694237
+Distance 60207.8855157
+Distance 60187.086188
+Distance 60145.477662
+Distance 60122.4518592
+Distance 60118.5387275
+Distance 60114.5908419
+Distance 60113.5623703
+Distance 60090.5486355
+Distance 60086.1929211
+Distance 60021.2366235
+Distance 60021.1894505
+Distance 60019.3340834
+Distance 60002.9036465
+Distance 60002.4035078
+Distance 59999.4649496
+Distance 59976.3017987
+Distance 59904.7513
+Distance 59902.7253392
+Distance 59774.8294489
+Distance 59774.3293102
+Distance 59679.1948807
+Distance 59606.7827019
+Distance 59606.5371734
+Distance 59605.4097984
+Distance 59493.0471467
+Distance 59399.4803604
+Distance 59320.5150986
+Distance 59221.8153775
+Distance 59205.8944248
+Distance 59196.1822841
+Distance 59192.3368293
+Distance 59096.5585065
+Distance 59094.7176607
+Distance 59084.7991613
+Distance 59081.3493746
+Distance 58888.0757005
+Distance 58886.9808228
+Distance 58703.9351467
+Distance 58703.4579666
+Distance 58544.6392172
+Distance 58365.3925084
+Distance 58163.2398765
+Distance 58161.1973985
+Distance 57899.5815466
+Distance 57896.5071071
+Distance 57883.4875376
+Distance 57879.6757647
+Distance 57879.6106409
+Distance 57756.4860619
+Distance 57756.4503408
+Distance 57672.3887376
+Distance 57671.8082771
+Distance 57651.106026
+Distance 57355.8215789
+Distance 57276.129007
+Distance 57276.0638832
+Distance 57273.3758803
+Distance 56970.2452297
+Distance 56952.4466436
+Distance 56950.4437416
+Distance 56678.9640224
+Distance 56601.6688451
+Distance 56595.1207478
+Distance 56399.1280991
+Distance 56397.1367076
+Distance 56391.2965095
+Distance 56385.9530669
+Distance 56190.6472769
+Distance 56012.0527703
+Distance 56003.722863
+Distance 56003.077949
+Distance 56002.879526
+Distance 56001.7914633
+Distance 55998.9403004
+Distance 55984.5988579
+Distance 55807.2238518
+Distance 55743.7553006
+Distance 55640.5015298
+Distance 55630.4944316
+Distance 55614.508995
+Distance 55613.9366512
+Distance 55573.9710039
+Distance 55474.2719158
+Distance 55437.3452978
+Distance 55437.3204369
+Distance 55410.1193221
+Distance 55403.7391489
+Distance 55218.5144789
+Distance 55102.9789022
+Distance 55085.4494819
+Distance 55084.982652
+Distance 54987.3785855
+Distance 54986.0879942
+Distance 54950.5122189
+Distance 54854.8633826
+Distance 54854.1296725
+Distance 54848.1027595
+Distance 54845.7545217
+Distance 54748.3241427
+Distance 54745.88636
+Distance 54652.9134028
+Distance 54649.8387153
+Distance 54643.4259838
+Distance 54641.3387322
+Distance 54640.0133534
+Distance 54501.1595943
+Distance 54484.5098041
+Distance 54481.2332878
+Distance 54480.4234905
+Distance 54371.7334463
+Distance 54345.2254522
+Distance 54136.1077221
+Distance 53914.5246182
+Distance 53905.1260271
+Distance 53903.2523123
+Distance 53770.2979271
+Distance 53765.4109979
+Distance 53761.5943545
+Distance 53741.2608499
+Distance 53739.3776247
+Distance 53739.3132293
+Distance 53723.1122522
+Distance 53712.40097
+Distance 53652.0686893
+Distance 53387.3074249
+Distance 53387.3046259
+Distance 53223.224538
+Distance 53068.4225585
+Distance 53068.1016771
+Distance 52957.7132599
+Distance 52948.2880812
+Distance 52839.6450201
+Distance 52838.2488013
+Distance 52817.7826066
+Distance 52811.2586067
+Distance 52649.7360407
+Distance 52590.3678764
+Distance 52586.8502086
+Distance 52586.7708387
+Distance 52453.6086514
+Distance 52451.3353046
+Distance 52306.9441238
+Distance 52306.9116863
+Distance 52299.9217637
+Distance 52170.6805518
+Distance 52123.4635918
+Distance 52119.9099244
+Distance 52114.6993428
+Distance 52112.2233806
+Distance 52061.2243517
+Distance 52054.1028865
+Distance 52050.1728915
+Distance 52043.7807789
+Distance 52016.946134
+Distance 52010.9866639
+Distance 52010.695551
+Distance 52000.6149719
+Distance 51998.7909256
+Distance 51997.5808672
+Distance 51957.0037656
+Distance 51949.6091389
+Distance 51791.2888001
+Distance 51775.4196257
+Distance 51775.0396746
+Distance 51773.2008228
+Distance 51771.6260649
+Distance 51607.2538833
+Distance 51603.592139
+Distance 51495.0239706
+Distance 51494.7604623
+Distance 51492.6638694
+Distance 51445.2123179
+Distance 51412.5785009
+Distance 51334.2955539
+Distance 51331.0856221
+Distance 51218.3125752
+Distance 51213.093561
+Distance 51189.9841494
+Distance 51170.8156664
+Distance 51165.7914217
+Distance 51164.995427
+Distance 51159.1458359
+Distance 51158.7907663
+Distance 51141.0438982
+Distance 51103.984053
+Distance 51098.9598083
+Distance 50964.1935425
+Distance 50954.6759001
+Distance 50948.3130388
+Distance 50931.74792
+Distance 50878.8671379
+Distance 50866.0360974
+Distance 50747.4890814
+Distance 50739.4397353
+Distance 50706.4462234
+Distance 50696.9670858
+Distance 50694.3370014
+count is:5
+Best case recieved is:
+[('Bombay',  7.2820e+01,  18.96) ('Shanghai',  1.2147e+02,  31.23)
+ ('Karachi',  6.7010e+01,  24.86) ('Buenos Aires', -5.8370e+01, -34.61)
+ ('Istanbul',  2.9000e+01,  41.1 ) ('Delhi',  7.7210e+01,  28.67)
+ ('Manila',  1.2097e+02,  14.62) ('Sao Paulo', -4.6630e+01, -23.53)
+ ('Moscow',  3.7620e+01,  55.75) ('Soul',  1.2699e+02,  37.56)
+ ('Dhaka',  9.0390e+01,  23.7 ) ('Kinshasa',  1.5320e+01,  -4.31)
+ ('Mexico City', -9.9140e+01,  19.43) ('Lagos',  3.3500e+00,   6.5 )
+ ('Jakarta',  1.0683e+02,  -6.18) ('Tokyo',  1.3977e+02,  35.67)
+ ('Tehran',  5.1430e+01,  35.67) ('Cairo',  3.1250e+01,  30.06)
+ ('Lima', -7.7050e+01, -12.07) ('New York', -7.3940e+01,  40.67)
+ ('London', -1.0000e-01,  51.52) ('Peking',  1.1640e+02,  39.93)
+ ('Lahore',  7.4350e+01,  31.56) ('Rio de Janeiro', -4.3200e+01, -22.91)
+ ('Bogota', -7.4090e+01,   4.63) ('Bagdad',  4.4440e+01,  33.33)
+ ('Bangalore',  7.7560e+01,  12.97) ('Bangkok',  1.0050e+02,  13.73)
+ ('Singapore',  1.0385e+02,   1.3 ) ('Santiago', -7.0640e+01, -33.46)
+ ('Toronto', -7.9380e+01,  43.65) ('Calcutta',  8.8360e+01,  22.57)
+ ('Rangoon',  9.6150e+01,  16.79) ('Riyadh',  4.6770e+01,  24.65)
+ ('Ibadan',  3.9300e+00,   7.38) ('Madras',  8.0270e+01,  13.09)
+ ('Ho Chi Minh Cit',  1.0669e+02,  10.78)
+ ('Chongqing',  1.0658e+02,  29.57) ('Wuhan',  1.1427e+02,  30.58)
+ ('Xian',  1.0890e+02,  34.27) ('Saint Petersbur',  3.0320e+01,  59.93)
+ ('Alexandria',  2.9950e+01,  31.22) ('Chengdu',  1.0407e+02,  30.67)
+ ('Hyderabad',  7.8480e+01,  17.4 ) ('Ahmadabad',  7.2580e+01,  23.03)
+ ('Ankara',  3.2850e+01,  39.93) ('Los Angeles', -1.1841e+02,  34.11)
+ ('Abidjan', -4.0300e+00,   5.33) ('Chattagam',  9.1810e+01,  22.33)
+ ('Tianjin',  1.1720e+02,  39.13) ('Yokohama',  1.3962e+02,  35.47)
+ ('Sydney',  1.5121e+02, -33.87) ('Melbourne',  1.4496e+02, -37.81)
+ ('Berlin',  1.3380e+01,  52.52) ('Shenyang',  1.2345e+02,  41.8 )
+ ('Pusan',  1.2903e+02,  35.11) ('Montreal', -7.3570e+01,  45.52)
+ ('Cape Town',  1.8460e+01, -33.93) ('Durban',  3.0990e+01, -29.87)
+ ('Gizeh',  3.1210e+01,  30.01) ('Harbin',  1.2665e+02,  45.75)
+ ('Nanjing',  1.1878e+02,  32.05) ('Pune',  7.3840e+01,  18.53)
+ ('Surat',  7.2820e+01,  21.2 ) ('Addis Abeba',  3.8740e+01,   9.03)
+ ('Casablanca', -7.6200e+00,  33.6 ) ('Madrid', -3.7100e+00,  40.42)
+ ('Pyongyang',  1.2575e+02,  39.02) ('Guangzhou',  1.1325e+02,  23.12)
+ ('Kanpur',  8.0330e+01,  26.47) ('Nairobi',  3.6820e+01,  -1.29)
+ ('Jiddah',  3.9170e+01,  21.5 ) ('Jaipur',  7.5800e+01,  26.92)
+ ('Dar es Salaam',  3.9280e+01,  -6.82) ('Salvador', -3.8500e+01, -12.97)
+ ('Chicago', -8.7680e+01,  41.84) ('Faisalabad',  7.3110e+01,  31.41)
+ ('al-Mawsil',  4.3140e+01,  36.34) ('Izmir',  2.7150e+01,  38.43)
+ ('Taiyuan',  1.1255e+02,  37.87) ('Taibei',  1.2145e+02,  25.02)
+ ('Osaka',  1.3550e+02,  34.68) ('Inchon',  1.2664e+02,  37.48)
+ ('Changchun',  1.2535e+02,  43.87) ('Lakhnau',  8.0920e+01,  26.85)
+ ('Luanda',  1.3240e+01,  -8.82) ('Kiev',  3.0520e+01,  50.43)
+ ('Rome',  1.2500e+01,  41.89) ('Dakar', -1.7480e+01,  14.72)
+ ('Mashhad',  5.9570e+01,  36.27) ('Kabul',  6.9170e+01,  34.53)
+ ('Fortaleza', -3.8590e+01,  -3.78)
+ ('Belo Horizonte', -4.3940e+01, -19.92)
+ ('Santo Domingo', -6.9910e+01,  18.48) ('Maracaibo', -7.1660e+01,  10.73)
+ ('Brasilia', -4.7910e+01, -15.78) ('Umm Durman',  3.2480e+01,  15.65)
+ ('Nagpur',  7.9080e+01,  21.16) ('Taegu',  1.2860e+02,  35.87)
+ ('Surabaya',  1.1274e+02,  -7.24) ('Kano',  8.5200e+00,  12.  )
+ ('Medellin', -7.5540e+01,   6.29) ('Accra', -2.0000e-01,   5.56)
+ ('Benin',  5.6200e+00,   6.34) ('Shijiazhuang',  1.1448e+02,  38.05)
+ ('Nagoya',  1.3691e+02,  35.15) ('Changsha',  1.1297e+02,  28.2 )
+ ('Khartoum',  3.2520e+01,  15.58) ('Houston', -9.5390e+01,  29.77)
+ ('Guayaquil', -7.9900e+01,  -2.21) ('Cali', -7.6520e+01,   3.44)
+ ('Jinan',  1.1700e+02,  36.67) ('Algiers',  3.0400e+00,  36.77)
+ ('Havanna', -8.2390e+01,  23.13) ('Paris',  2.3400e+00,  48.86)
+ ('Tashkent',  6.9300e+01,  41.31) ('Jilin',  1.2655e+02,  43.85)
+ ('Dalian',  1.2165e+02,  38.92) ('Zhengzhou',  1.1367e+02,  34.75)
+ ('Nanchang',  1.1588e+02,  28.68) ('Bayrut',  3.5500e+01,  33.89)
+ ('Vancouver', -1.2313e+02,  49.28) ('Douala',  9.7100e+00,   4.06)
+ ('Johannesburg',  2.8040e+01, -26.19) ('Jiulong',  1.1417e+02,  22.32)
+ ('Kaduna',  7.4400e+00,  10.52) ('Ecatepec', -9.9050e+01,  19.6 )
+ ('Caracas', -6.6930e+01,  10.54) ('Port Harcourt',  7.0100e+00,   4.81)
+ ('Bucharest',  2.6100e+01,  44.44) ('Sapporo',  1.4134e+02,  43.06)
+ ('Hangzhou',  1.2017e+02,  30.25) ('Rawalpindi',  7.3040e+01,  33.6 )
+ ("San'a",  4.4210e+01,  15.38) ('Curitiba', -4.9290e+01, -25.42)
+ ('Conakry', -1.3670e+01,   9.55) ('al-Basrah',  4.7820e+01,  30.53)
+ ('Xinyang',  1.1407e+02,  32.13) ('Brisbane',  1.5302e+02, -27.46)
+ ('Medan',  9.8670e+01,   3.59) ('Indore',  7.5860e+01,  22.72)
+ ('Kumasi', -1.6300e+00,   6.69) ('Manaus', -6.0020e+01,  -3.12)
+ ('Rabat', -6.8400e+00,  34.02) ('Minsk',  2.7550e+01,  53.91)
+ ('Hamburg',  1.0000e+01,  53.55) ('Valencia', -6.7980e+01,  10.23)
+ ('Soweto',  2.7840e+01, -26.28) ('Bhopal',  7.7400e+01,  23.24)
+ ('Patna',  8.5130e+01,  25.62) ('Qingdao',  1.2032e+02,  36.07)
+ ('Warsaw',  2.1020e+01,  52.26) ('Vienna',  1.6370e+01,  48.22)
+ ('Yaounde',  1.1520e+01,   3.87) ('Aleppo',  3.7170e+01,  36.23)
+ ('Dubai',  5.5330e+01,  25.27) ('Bekasi',  1.0697e+02,  -6.22)
+ ('Thana',  7.2970e+01,  19.2 ) ('Budapest',  1.9080e+01,  47.51)
+ ('Bamako', -7.9900e+00,  12.65) ('Harare',  3.1050e+01, -17.82)
+ ('Esfahan',  5.1680e+01,  32.68) ('Ludhiana',  7.5840e+01,  30.91)
+ ('Bandung',  1.0760e+02,  -6.91) ('Barcelona',  2.1700e+00,  41.4 )
+ ('Lubumbashi',  2.7480e+01, -11.66) ('Pretoria',  2.8220e+01, -25.73)
+ ('Guadalajara', -1.0335e+02,  20.67) ('Muqdisho',  4.5330e+01,   2.05)
+ ('Tangshan',  1.1819e+02,  39.62) ('Damascus',  3.6320e+01,  33.5 )
+ ('Quito', -7.8500e+01,  -0.19) ('Phoenix', -1.1207e+02,  33.54)
+ ('Urumqi',  8.7580e+01,  43.8 ) ('Agra',  7.8010e+01,  27.19)
+ ('Antananarivo',  4.7510e+01, -18.89) ('Davao',  1.2563e+02,   7.11)
+ ('Kobe',  1.3517e+02,  34.68) ('Santa Cruz', -6.3210e+01, -17.77)
+ ('Tijuana', -1.1702e+02,  32.53) ('Juarez', -1.0649e+02,  31.74)
+ ('Recife', -3.4920e+01,  -8.08) ('Multan',  7.1450e+01,  30.2 )
+ ('Gaoxiong',  1.2027e+02,  22.63) ('Ha Noi',  1.0584e+02,  21.03)
+ ('Cordoba', -6.4190e+01, -31.4 ) ('Belem', -4.8500e+01,  -1.44)
+ ('Lome',  1.3500e+00,   6.17) ('Kampala',  3.2580e+01,   0.32)
+ ('Hyderabad',  6.8370e+01,  25.38) ('Vadodara',  7.3180e+01,  22.31)
+ ('Suzhou',  1.2062e+02,  31.3 ) ('Gujranwala',  7.4180e+01,  32.16)
+ ('Mbuji-Mayi',  2.3590e+01,  -6.13) ('Bursa',  2.9080e+01,  40.2 )
+ ('Karaj',  5.0970e+01,  35.8 ) ('Pimpri',  7.3800e+01,  18.62)
+ ('Tangerang',  1.0663e+02,  -6.18) ('Kyoto',  1.3575e+02,  35.01)
+ ('Kharkiv',  3.6220e+01,  49.98) ('Puebla', -9.8220e+01,  19.05)
+ ('Aba',  7.3500e+00,   5.1 ) ('Kuala Lumpur',  1.0171e+02,   3.16)
+ ('Nashik',  7.3780e+01,  20.01) ('Philadelphia', -7.5130e+01,  40.01)
+ ('Fukuoka',  1.3041e+02,  33.59) ('Taejon',  1.2743e+02,  36.33)
+ ('Lanzhou',  1.0368e+02,  36.05) ('Mecca',  3.9820e+01,  21.43)
+ ('Shantou',  1.1667e+02,  23.37) ('Hefei',  1.1728e+02,  31.85)
+ ('Koyang',  1.2693e+02,  37.7 ) ('Novosibirsk',  8.2930e+01,  55.04)
+ ('Tabriz',  4.6300e+01,  38.08) ('Adana',  3.5320e+01,  37.  )
+ ('Porto Alegre', -5.1220e+01, -30.04) ('Faridabad',  7.7300e+01,  28.38)
+ ('Narayanganj',  9.0500e+01,  23.62) ('Phnum Penh',  1.0492e+02,  11.57)
+ ('Makasar',  1.1941e+02,  -5.14) ('Fushun',  1.2388e+02,  41.87)
+ ('Luoyang',  1.1247e+02,  34.68) ('Khulna',  8.9560e+01,  22.84)
+ ('Lusaka',  2.8290e+01, -15.42) ('Depok',  1.0683e+02,  -6.39)
+ ('Handan',  1.1448e+02,  36.58) ('San Antonio', -9.8510e+01,  29.46)
+ ('Ghaziabad',  7.7410e+01,  28.66) ('Kawasaki',  1.3970e+02,  35.53)
+ ('Kwangju',  1.2691e+02,  35.16) ('Peshawar',  7.1540e+01,  34.01)
+ ('Rajkot',  7.0790e+01,  22.31) ('Mandalay',  9.6090e+01,  21.98)
+ ('Suwon',  1.2701e+02,  37.26) ('Almaty',  7.6920e+01,  43.32)
+ ('Munich',  1.1580e+01,  48.14) ('Milan',  9.1900e+00,  45.48)
+ ('Baotou',  1.1005e+02,  40.6 ) ('Mirat',  7.7700e+01,  28.99)
+ ('Kalyan',  7.3160e+01,  19.25) ('Xianggangdao',  1.1414e+02,  22.27)
+ ('Rongcheng',  1.1634e+02,  23.54) ('Yekaterinburg',  6.0600e+01,  56.85)
+ ('Ouagadougou', -1.5300e+00,  12.37) ('Guarulhos', -4.6490e+01, -23.46)
+ ('Montevideo', -5.6170e+01, -34.87) ('Xuzhou',  1.1718e+02,  34.27)
+ ('Palembang',  1.0475e+02,  -2.99) ('Semarang',  1.1042e+02,  -6.97)
+ ('Perth',  1.1584e+02, -31.96) ('Stockholm',  1.8070e+01,  59.33)
+ ('Dallas', -9.6770e+01,  32.79) ('San Diego', -1.1714e+02,  32.81)
+ ('Goiania', -4.9260e+01, -16.72) ('Gaziantep',  3.7390e+01,  37.07)
+ ('Nizhniy Novgoro',  4.4000e+01,  56.33) ('Fuzhou',  1.1930e+02,  26.08)
+ ('Rosario', -6.0670e+01, -32.94) ('Nezahualcoyotl', -9.9030e+01,  19.41)
+ ('Shiraz',  5.2570e+01,  29.63) ('Shenzhen',  1.1413e+02,  22.53)
+ ('Saitama',  1.3964e+02,  35.87) ('Tripoli',  1.3180e+01,  32.87)
+ ('Yerevan',  4.4520e+01,  40.17) ('Baku',  4.9860e+01,  40.39)
+ ('Varanasi',  8.3010e+01,  25.32) ('Guiyang',  1.0672e+02,  26.58)
+ ('Anshan',  1.2295e+02,  41.12) ('Wuxi',  1.2030e+02,  31.58)
+ ('Subang Jaya',  1.0153e+02,   3.15) ('Brazzaville',  1.5260e+01,  -4.25)
+ ('Leon', -1.0169e+02,  21.12) ('Prague',  1.4430e+01,  50.08)
+ ('Amritsar',  7.4870e+01,  31.64) ('Huainan',  1.1698e+02,  32.63)
+ ('Hiroshima',  1.3244e+02,  34.39) ('Monrovia', -1.0800e+01,   6.31)
+ ('Barranquilla', -7.4800e+01,  10.96) ('Tbilisi',  4.4790e+01,  41.72)
+ ("'Amman",  3.5930e+01,  31.95) ('Abuja',  7.4900e+00,   9.06)
+ ('Omsk',  7.3400e+01,  55.  ) ('Aurangabad',  7.5320e+01,  19.89)
+ ('Navi Mumbai',  7.3060e+01,  19.11) ('Sofia',  2.3310e+01,  42.69)
+ ('Monterrey', -1.0032e+02,  25.67)
+ ('Port Elizabeth',  2.5590e+01, -33.96) ('Maputo',  3.2570e+01, -25.95)
+ ('Allahabad',  8.1840e+01,  25.45) ('Samara',  5.0150e+01,  53.2 )
+ ('Belgrade',  2.0500e+01,  44.83) ('Campinas', -4.7080e+01, -22.91)
+ ('Sholapur',  7.5890e+01,  17.67) ('Kazan',  4.9130e+01,  55.75)
+ ('Irbil',  4.4010e+01,  36.18) ('Barquisimeto', -6.9300e+01,  10.05)
+ ('K?benhavn',  1.2580e+01,  55.67) ('Baoding',  1.1548e+02,  38.87)
+ ('Xianyang',  1.0870e+02,  34.37) ('Maceio', -3.5750e+01,  -9.65)
+ ('Nova Iguacu', -4.3470e+01, -22.74) ('Guatemala', -9.0550e+01,  14.63)
+ ('Maiduguri',  1.3160e+01,  11.85) ('Kunming',  1.0270e+02,  25.05)
+ ('Taizhong',  1.2068e+02,  24.15) ('Datong',  1.1330e+02,  40.08)
+ ('Dublin', -6.2500e+00,  53.33) ('Visakhapatnam',  8.3300e+01,  17.73)
+ ('Jabalpur',  7.9940e+01,  23.17) ('Rostov-na-Donu',  3.9710e+01,  47.24)
+ ("Dnipropetrovs'k",  3.4980e+01,  48.45)
+ ('Shubra-El-Khema',  3.1250e+01,  30.11)
+ ('Srinagar',  7.4790e+01,  34.09) ('Benxi',  1.2375e+02,  41.33)
+ ('Chelyabinsk',  6.1430e+01,  55.15) ('al-Madinah',  3.9590e+01,  24.48)
+ ('Brussels',  4.3300e+00,  50.83) ('Calgary', -1.1406e+02,  51.05)
+ ('Zapopan', -1.0340e+02,  20.72) ('Haora',  8.8330e+01,  22.58)
+ ('Adelaide',  1.3860e+02, -34.93) ('Sendai',  1.4089e+02,  38.26)
+ ('Songnam',  1.2715e+02,  37.44) ('Ranchi',  8.5330e+01,  23.36)
+ ('Ilorin',  4.5500e+00,   8.49) ('Tegucigalpa', -8.7220e+01,  14.09)
+ ('Fez', -5.0000e+00,  34.05) ('Ahvaz',  4.8720e+01,  31.28)
+ ('Ufa',  5.6040e+01,  54.78) ('Chandigarh',  7.6780e+01,  30.75)
+ ('Klang',  1.0145e+02,   3.04) ('Koyampattur',  7.6960e+01,  11.01)
+ ('Qom',  5.0950e+01,  34.65) ('Cologne',  6.9700e+00,  50.95)
+ ('Odesa',  3.0730e+01,  46.47) ('Donetsk',  3.7820e+01,  48.  )
+ ('Jodhpur',  7.3020e+01,  26.29) ('Sao Goncalo', -4.3070e+01, -22.84)
+ ('Sao Luis', -4.4300e+01,  -2.5 ) ('Perm',  5.6250e+01,  58.  )
+ ('Huaibei',  1.1675e+02,  33.95) ('Kitakyushu',  1.3086e+02,  33.88)
+ ('Changzhou',  1.1997e+02,  31.78) ('Guwahati',  9.1750e+01,  26.19)
+ ('Maisuru',  7.6650e+01,  12.31) ('Volgograd',  4.4480e+01,  48.71)
+ ('Naples',  1.4270e+01,  40.85) ('Konya',  3.2480e+01,  37.88)
+ ('Vijayawada',  8.0630e+01,  16.52) ('Ulsan',  1.2931e+02,  35.55)
+ ('Birmingham', -1.9100e+00,  52.48) ('San Jose', -1.2185e+02,  37.3 )
+ ('Ciudad Guayana', -6.2620e+01,   8.37) ('Kolwezi',  2.5660e+01, -10.7 )
+ ('Padang',  1.0035e+02,  -0.95) ('Chiba',  1.4011e+02,  35.61)
+ ('Mendoza', -6.8830e+01, -32.89) ('Managua', -8.6270e+01,  12.15)
+ ('Biskek',  7.4570e+01,  42.87) ('Kathmandu',  8.5310e+01,  27.71)
+ ('Gwalior',  7.8170e+01,  26.23) ('Niamey',  2.1200e+00,  13.52)
+ ('El Alto', -6.8170e+01, -16.5 ) ('Kigali',  3.0060e+01,  -1.94)
+ ('Qiqihar',  1.2400e+02,  47.35) ('Ulaanbaatar',  1.0691e+02,  47.93)
+ ('Krasnoyarsk',  9.3060e+01,  56.02) ('Madurai',  7.8120e+01,   9.92)
+ ('Asgabat',  5.8380e+01,  37.95) ('al-H?artum Bah?',  3.2520e+01,  15.64)
+ ('Arequipa', -7.1530e+01, -16.39) ('Edmonton', -1.1354e+02,  53.57)
+ ('Marrakesh', -8.0000e+00,  31.63) ('Pingdingshan',  1.1330e+02,  33.73)
+ ('Bandar Lampung',  1.0527e+02,  -5.44) ('Hubli',  7.5130e+01,  15.36)
+ ('La Paz', -6.8150e+01, -16.5 ) ('Cartagena', -7.5500e+01,  10.4 )
+ ('Ottawa', -7.5710e+01,  45.42) ('Wenzhou',  1.2065e+02,  28.02)
+ ('Johor Bahru',  1.0375e+02,   1.48) ('Mombasa',  3.9660e+01,  -4.04)
+ ('Lilongwe',  3.3800e+01, -13.97)
+ ('Duque de Caxias', -4.3310e+01, -22.77) ('Turin',  7.6800e+00,  45.08)
+ ('Jalandhar',  7.5570e+01,  31.33) ('Abu Dhabi',  5.4370e+01,  24.48)
+ ('Warri',  5.7600e+00,   5.52) ('Valencia', -3.9000e-01,  39.48)
+ ('Oslo',  1.0750e+01,  59.91) ('ad-Dammam',  5.0100e+01,  26.43)
+ ('Mira Bhayandar',  7.2850e+01,  19.29) ('Taian',  1.1712e+02,  36.2 )
+ ('Salem',  7.8160e+01,  11.67) ('Pietermaritzbur',  3.0390e+01, -29.61)
+ ('Naucalpan', -9.9230e+01,  19.48) ('H?ims',  3.6720e+01,  34.73)
+ ('Bhubaneswar',  8.5840e+01,  20.27) ('Hamamatsu',  1.3773e+02,  34.72)
+ ('Saratov',  4.6030e+01,  51.57) ('Kirkuk',  4.4390e+01,  35.47)
+ ('Detroit', -8.3100e+01,  42.38) ('Onitsha',  6.7800e+00,   6.14)
+ ('Quetta',  6.7020e+01,  30.21) ('Aligarh',  7.8060e+01,  27.89)
+ ('Sakai',  1.3548e+02,  34.57) ('Voronezh',  3.9260e+01,  51.72)
+ ('Freetown', -1.3240e+01,   8.49) ('Tucuman', -6.5220e+01, -26.83)
+ ('Bogor',  1.0679e+02,  -6.58) ('Niigata',  1.3904e+02,  37.92)
+ ('Jacksonville', -8.1660e+01,  30.33)
+ ('Thiruvananthapu',  7.6950e+01,   8.51) ('Cebu',  1.2390e+02,  10.32)
+ ('Bareli',  7.9410e+01,  28.36) ('Natal', -3.5220e+01,  -5.8 )
+ ('Kota',  7.5830e+01,  25.18) ('Puchon',  1.2677e+02,  37.48)
+ ('Shihung',  1.2689e+02,  37.46) ('Tiruchchirappal',  7.8690e+01,  10.81)
+ ('Sharjah',  5.5410e+01,  25.37) ('Trujillo', -7.9030e+01,  -8.11)
+ ('Kermanshah',  4.7060e+01,  34.38) ('Qinhuangdao',  1.1962e+02,  39.93)
+ ('Anyang',  1.1435e+02,  36.08) ('Bhiwandi',  7.3050e+01,  19.3 )
+ ('an-Najaf',  4.4340e+01,  32.  ) ('Teresina', -4.2800e+01,  -5.1 )
+ ('Sao Bernardo do', -4.6540e+01, -23.71) ('Nanning',  1.0832e+02,  22.82)
+ ('Antalya',  3.0710e+01,  36.89) ('Indianapolis', -8.6150e+01,  39.78)
+ ('Campo Grande', -5.4630e+01, -20.45) ('Jaboatao', -3.5020e+01,  -8.11)
+ ('Hohhot',  1.1164e+02,  40.82) ('Zaporizhzhya',  3.5170e+01,  47.85)
+ ('Marseille',  5.3700e+00,  43.31) ('Moradabad',  7.8760e+01,  28.84)
+ ('Zhangjiakou',  1.1493e+02,  40.83) ('Liuzhou',  1.0925e+02,  24.28)
+ ('Rajshahi',  8.8590e+01,  24.37) ('Nouakchott', -1.5980e+01,  18.09)
+ ('Xining',  1.0177e+02,  36.62) ('Tainan',  1.2019e+02,  23.  )
+ ('Yantai',  1.2140e+02,  37.53) ('Hegang',  1.3037e+02,  47.4 )
+ ('Port-au-Prince', -7.2340e+01,  18.54) ('Akure',  5.1900e+00,   7.25)
+ ("N'Djamena",  1.5050e+01,  12.11) ('Guadalupe', -1.0026e+02,  25.68)
+ ('Cracow',  1.9960e+01,  50.06) ('Malang',  1.1262e+02,  -7.98)
+ ('Hengyang',  1.1262e+02,  26.89) ('Puyang',  1.1498e+02,  35.7 )
+ ('Jerusalem',  3.5220e+01,  31.78) ('Athens',  2.3730e+01,  37.98)
+ ('San Francisco', -1.2245e+02,  37.77) ('Amsterdam',  4.8900e+00,  52.37)
+ ('?odz',  1.9460e+01,  51.77) ('Austin', -9.7750e+01,  30.31)
+ ('Merida', -8.9620e+01,  20.97) ('Abeokuta',  3.3500e+00,   7.16)
+ ('Raipur',  8.1630e+01,  21.24) ('Xinxiang',  1.1387e+02,  35.32)
+ ('Tunis',  1.0220e+01,  36.84) ('Columbus', -8.2990e+01,  39.99)
+ ('Chihuahua', -1.0608e+02,  28.63) ('Cotonou',  2.4400e+00,   6.36)
+ ("L'viv",  2.4000e+01,  49.83) ('Pekan Baru',  1.0143e+02,   0.56)
+ ('Blantyre',  3.4990e+01, -15.79) ('Bulawayo',  2.8580e+01, -20.17)
+ ('La Plata', -5.7960e+01, -34.92) ('Tangier', -5.8100e+00,  35.79)
+ ('Kayseri',  3.5480e+01,  38.74) ('Tolyatti',  4.9510e+01,  53.48)
+ ('Langfang',  1.1668e+02,  39.52) ('Ningbo',  1.2155e+02,  29.88)
+ ('Ampang Jaya',  1.0177e+02,   3.15) ('Foshan',  1.1312e+02,  23.03)
+ ('Liaoyang',  1.2318e+02,  41.28) ('Riga',  2.4130e+01,  56.97)
+ ('Kryvyy Rih',  3.3350e+01,  47.92) ('Changzhi',  1.1175e+02,  35.22)
+ ('Chonju',  1.2714e+02,  35.83) ('Zamboanga',  1.2208e+02,   6.92)
+ ('as-Sulaymaniyah',  4.5430e+01,  35.56) ('Osasco', -4.6780e+01, -23.53)
+ ('Libreville',  9.4500e+00,   0.39) ('Gorakhpur',  8.3360e+01,  26.76)
+ ('Fort Worth', -9.7340e+01,  32.75)
+ ('San Luis Potosi', -1.0098e+02,  22.16)
+ ('Tlalnepantla', -9.9190e+01,  19.54) ('Sevilla', -5.9800e+00,  37.4 )
+ ('Zagreb',  1.5970e+01,  45.8 ) ('Huangshi',  1.1510e+02,  30.22)
+ ('Zhuzhou',  1.1315e+02,  27.83) ('Shaoguan',  1.1358e+02,  24.8 )
+ ('Guilin',  1.1028e+02,  25.28) ('Matola',  3.2460e+01, -25.97)
+ ('Puente Alto', -7.0570e+01, -33.61)
+ ('Aguascalientes', -1.0230e+02,  21.88) ('Benghazi',  2.0070e+01,  32.12)
+ ('Fuxin',  1.2165e+02,  42.01) ('Shizuoka',  1.3839e+02,  34.98)
+ ('Ipoh',  1.0107e+02,   4.6 ) ('Contagem', -4.4100e+01, -19.91)
+ ('Joao Pessoa', -3.4860e+01,  -7.12) ('Dushanbe',  6.8780e+01,  38.57)
+ ('Zhanjiang',  1.1038e+02,  21.2 ) ('Xingtai',  1.1449e+02,  37.07)
+ ('Okayama',  1.3392e+02,  34.67) ('Yogyakarta',  1.1037e+02,  -7.78)
+ ('Bhilai',  8.1380e+01,  21.21) ('Mudanjiang',  1.2960e+02,  44.58)
+ ('Zigong',  1.0478e+02,  29.4 ) ('Colombo',  7.9850e+01,   6.93)
+ ('Wahran', -6.2000e-01,  35.7 ) ('Enugu',  7.5100e+00,   6.44)
+ ('Santo Andre', -4.6530e+01, -23.65)
+ ('Chimalhuacan', -9.8960e+01,  19.44) ('Memphis', -9.0010e+01,  35.11)
+ ('Shatian',  1.1419e+02,  22.38) ('Kumamoto',  1.3071e+02,  32.8 )
+ ('Zhangdian',  1.1806e+02,  36.8 )
+ ('Sao Jose dos Ca', -4.5880e+01, -23.2 )
+ ('Acapulco', -9.9920e+01,  16.85) ('Quebec', -7.1230e+01,  46.82)
+ ('Zaria',  7.7100e+00,  11.08) ('Dasmarinas',  1.2093e+02,  14.33)
+ ('Nantong',  1.2082e+02,  32.02) ('Xiangtan',  1.1290e+02,  27.85)
+ ('Shaoyang',  1.1120e+02,  27.  ) ('Pointe Noire',  1.1870e+01,  -4.77)
+ ('Queretaro', -1.0040e+02,  20.59) ('Charlotte', -8.0830e+01,  35.2 )
+ ('Panjin',  1.2205e+02,  41.18) ('Hamilton', -7.9850e+01,  43.26)
+ ('Saltillo', -1.0100e+02,  25.42) ('Islamabad',  7.3060e+01,  33.72)
+ ('Ansan',  1.2686e+02,  37.35) ('Jamshedpur',  8.6200e+01,  22.79)
+ ('Cancun', -8.6830e+01,  21.17) ('Zaragoza', -8.9000e-01,  41.65)
+ ('Frankfurt',  8.6800e+00,  50.12) ('Palermo',  1.3360e+01,  38.12)
+ ('Dandong',  1.2440e+02,  40.13) ('Haikou',  1.1032e+02,  20.05)
+ ('Amravati',  7.7760e+01,  20.95) ("'Adan",  4.5030e+01,  12.79)
+ ('Winnipeg', -9.7170e+01,  49.88) ('Zhangzhou',  1.1767e+02,  24.52)
+ ('Sagamihara',  1.3938e+02,  35.58) ('Kuching',  1.1034e+02,   1.55)
+ ('Kataka',  8.5880e+01,  20.47) ('Gazzah',  3.4440e+01,  31.53)
+ ('El Paso', -1.0644e+02,  31.85) ('Wroc?aw',  1.7030e+01,  51.11)
+ ('Krasnodar',  3.8980e+01,  45.03) ('Zhenjiang',  1.1943e+02,  32.22)
+ ('Asmara',  3.8940e+01,  15.33) ('Benoni',  2.8330e+01, -26.15)
+ ('Baltimore', -7.6610e+01,  39.3 ) ('Mersin',  3.4630e+01,  36.81)
+ ('Izhevsk',  5.3230e+01,  56.85) ('Yancheng',  1.2012e+02,  33.39)
+ ('Yuanlong',  1.1402e+02,  22.44) ('Uberlandia', -4.8280e+01, -18.9 )
+ ('Hermosillo', -1.1097e+02,  29.07) ('Ulyanovsk',  4.8400e+01,  54.33)
+ ('Bouake', -5.0300e+00,   7.69) ('Santiago', -7.0690e+01,  19.48)
+ ('Mexicali', -1.1547e+02,  32.65) ('Hai Phong',  1.0668e+02,  20.86)
+ ('Anyang',  1.2692e+02,  37.39) ('Dadiangas',  1.2525e+02,   6.1 )
+ ('Jos',  8.8900e+00,   9.93) ('Oshogbo',  4.5600e+00,   7.77)
+ ('Sorocaba', -4.7470e+01, -23.49) ('Morelia', -1.0118e+02,  19.72)
+ ("al-'Ayn",  5.5740e+01,  24.23) ('Bikaner',  7.3320e+01,  28.03)
+ ('Taizhou',  1.1990e+02,  32.49) ('Chongju',  1.2750e+02,  36.64)
+ ('Xiamen',  1.1808e+02,  24.45) ('Antipolo',  1.2118e+02,  14.59)
+ ('Cochabamba', -6.6170e+01, -17.38) ('Culiacan', -1.0739e+02,  24.8 )
+ ('Kagoshima',  1.3056e+02,  31.59) ('Siping',  1.2433e+02,  43.17)
+ ('Yingkou',  1.2228e+02,  40.67) ('Luancheng',  1.1465e+02,  37.88)
+ ('Banjarmasin',  1.1459e+02,  -3.33) ('Orumiyeh',  4.5000e+01,  37.53)
+ ('Diyarbak?r',  4.0230e+01,  37.92) ('Yaroslavl',  3.9870e+01,  57.62)
+ ('Chisinau',  2.8830e+01,  47.03) ('Djibouti',  4.3150e+01,  11.59)
+ ('Mixco', -9.0600e+01,  14.64) ('Seattle', -1.2235e+02,  47.62)
+ ('Rotterdam',  4.4800e+00,  51.93) ('Stuttgart',  9.1900e+00,  48.79)
+ ('Khabarovsk',  1.3512e+02,  48.42) ('Jinzhou',  1.2110e+02,  41.12)
+ ('San Pedro Sula', -8.8030e+01,  15.47)
+ ('Kisangani',  2.5190e+01,   0.53) ('Bengbu',  1.1733e+02,  32.95)
+ ('Irkutsk',  1.0424e+02,  52.33) ('Shihezi',  8.6030e+01,  44.3 )
+ ('Maracay', -6.7470e+01,  10.33) ('Cucuta', -7.2510e+01,   7.88)
+ ('Bhavnagar',  7.2130e+01,  21.79) ('Port Said',  3.2290e+01,  31.26)
+ ('Genoa',  8.9300e+00,  44.42) ('Denver', -1.0487e+02,  39.77)
+ ('Dortmund',  7.4800e+00,  51.51) ('Barnaul',  8.3750e+01,  53.36)
+ ('Jiangmen',  1.1308e+02,  22.58) ('Veracruz', -9.6140e+01,  19.19)
+ ('Washington', -7.7020e+01,  38.91) ('Vladivostok',  1.3190e+02,  43.13)
+ ('Ribeirao Preto', -4.7800e+01, -21.17)
+ ('Mar del Plata', -5.7580e+01, -38.  ) ('Boston', -7.1020e+01,  42.34)
+ ('Eskisehir',  3.0520e+01,  39.79) ('Warangal',  7.9580e+01,  18.01)
+ ('Zahedan',  6.0830e+01,  29.5 ) ('Dusseldorf',  6.7900e+00,  51.24)
+ ('Essen',  7.0000e+00,  51.47) ('Kaifeng',  1.1435e+02,  34.85)
+ ('Glasgow', -4.2700e+00,  55.87) ('Kingston', -7.6800e+01,  17.99)
+ ('Shah Alam',  1.0156e+02,   3.07) ('Maoming',  1.1087e+02,  21.92)
+ ('Hachioji',  1.3933e+02,  35.66) ('Funabashi',  1.3999e+02,  35.7 )
+ ('Hamhung',  1.2754e+02,  39.91) ('Sargodha',  7.2670e+01,  32.08)
+ ('Meknes', -5.5600e+00,  33.9 ) ('Las Vegas', -1.1522e+02,  36.21)
+ ('Villa Nueva', -9.0590e+01,  14.53) ('Resht',  4.9630e+01,  37.3 )
+ ('Cangzhou',  1.1687e+02,  38.32) ('Tanggu',  1.1767e+02,  39.  )
+ ('Helsinki',  2.4940e+01,  60.17) ('Malaga', -4.4200e+00,  36.72)
+ ('Milwaukee', -8.7970e+01,  43.06) ('Nashville', -8.6780e+01,  36.17)
+ ('Ife',  4.5600e+00,   7.48) ("at-Ta'if",  4.0380e+01,  21.26)
+ ('Changde',  1.1168e+02,  29.03) ('Surakarta',  1.1082e+02,  -7.57)
+ ('Bloemfontein',  2.6230e+01, -29.15) ('Poznan',  1.6900e+01,  52.4 )
+ ('Barcelona', -6.4720e+01,  10.13) ('Reynosa', -9.8280e+01,  26.08)
+ ('Lopez Mateos', -9.9260e+01,  19.57) ('Cuiaba', -5.6090e+01, -15.61)
+ ('Bangui',  1.8560e+01,   4.36) ('Xigong',  1.1425e+02,  22.33)
+ ('Shiliguri',  8.8420e+01,  26.73) ('Oklahoma City', -9.7510e+01,  35.47)
+ ('Louisville', -8.5740e+01,  38.22) ('Jiamusi',  1.3035e+02,  46.83)
+ ('Huaiyin',  1.1903e+02,  33.58) ('Welkom',  2.6730e+01, -27.97)
+ ('Kolhapur',  7.4220e+01,  16.7 ) ('Rajpur',  8.8440e+01,  22.44)
+ ('Ulhasnagar',  7.3150e+01,  19.23) ('Bremen',  8.8100e+00,  53.08)
+ ('San Salvador', -8.9190e+01,  13.69) ('Tembisa',  2.8220e+01, -25.99)
+ ('Banqiao',  1.2144e+02,  25.02) ('Maanshan',  1.1848e+02,  31.73)
+ ('Portland', -1.2266e+02,  45.54) ('Toluca', -9.9670e+01,  19.29)
+ ('Gold Coast',  1.5344e+02, -28.07)
+ ('Kota Kinabalu',  1.1607e+02,   5.97) ('Agadir', -9.6100e+00,  30.42)
+ ('Vilnius',  2.5270e+01,  54.7 ) ('Orenburg',  5.5100e+01,  51.78)
+ ('Ajmer',  7.4640e+01,  26.45) ('Guntur',  8.0440e+01,  16.31)
+ ('Neijiang',  1.0505e+02,  29.58) ('Durgapur',  8.7310e+01,  23.5 )
+ ('Salta', -6.5410e+01, -24.79) ('Novokuznetsk',  8.7100e+01,  53.75)
+ ('Yangzhou',  1.1943e+02,  32.4 ) ('Shashi',  1.1223e+02,  30.32)
+ ('Aparecida de Go', -4.9240e+01, -16.82)
+ ('Asuncion', -5.7630e+01, -25.3 )
+ ('Ribeirao das Ne', -4.4080e+01, -19.76)
+ ('Sangli-Miraj',  7.4570e+01,  16.86)
+ ('Petaling Jaya',  1.0162e+02,   3.1 ) ('Dehra Dun',  7.8050e+01,  30.34)
+ ('Maturin', -6.3170e+01,   9.75) ('Torreon', -1.0343e+02,  25.55)
+ ('Jiaozuo',  1.1322e+02,  35.25) ('Zhuhai',  1.1357e+02,  22.28)
+ ('Nanded',  7.7290e+01,  19.17) ('Tyumen',  6.5530e+01,  57.15)
+ ('Albuquerque', -1.0662e+02,  35.12) ('Suez',  3.2540e+01,  29.98)
+ ('Cagayan',  1.2467e+02,   8.45) ('Mwanza',  3.2890e+01,  -2.52)
+ ('Petare', -6.6830e+01,  10.52) ('Soledad', -7.4770e+01,  10.92)
+ ('Uijongbu',  1.2704e+02,  37.74) ('Yueyang',  1.1310e+02,  29.38)
+ ("Ta'izz",  4.4040e+01,  13.6 ) ('Feira de Santan', -3.8970e+01, -12.25)
+ ('Tucson', -1.1089e+02,  32.2 ) ('Naberezhnyye Ch',  5.2320e+01,  55.69)
+ ('Matsuyama',  1.3277e+02,  33.84) ('Kerman',  5.7080e+01,  30.3 )
+ ('Garoua',  1.3390e+01,   9.3 ) ('Tuxtla Gutierre', -9.3120e+01,  16.75)
+ ('Tlaquepaque', -1.0332e+02,  20.64) ('Jammu',  7.4850e+01,  32.71)
+ ('Gulbarga',  7.6820e+01,  17.34) ('Jamnagar',  7.0070e+01,  22.47)
+ ('Hanover',  9.7300e+00,  52.4 ) ('Chiclayo', -7.9840e+01,  -6.76)
+ ('Bucaramanga', -7.3130e+01,   7.13) ('Goteborg',  1.2010e+01,  57.72)
+ ('Ryazan',  3.9740e+01,  54.62) ('Bahawalpur',  7.1670e+01,  29.39)
+ ('Bhatpara',  8.8420e+01,  22.89) ('Zhunmen',  1.1398e+02,  22.41)
+ ('Calamba',  1.2115e+02,  14.21) ('Changwon',  1.2862e+02,  35.27)
+ ('Zunyi',  1.0692e+02,  27.7 ) ('Lipetsk',  3.9620e+01,  52.62)
+ ('Dresden',  1.3740e+01,  51.05) ('Aracaju', -3.7070e+01, -10.91)
+ ('H?amah',  3.6730e+01,  35.15) ('Saharanpur',  7.7540e+01,  29.97)
+ ('Niyala',  2.4890e+01,  12.06) ('San Nicolas de ', -1.0030e+02,  25.75)
+ ('Leipzig',  1.2400e+01,  51.35) ('al-H?illah',  4.4430e+01,  32.48)
+ ('Xuchang',  1.1382e+02,  34.02) ('Higashiosaka',  1.3559e+02,  34.67)
+ ('Wuhu',  1.1837e+02,  31.35) ('Kananga',  2.2400e+01,  -5.89)
+ ('Boma',  1.3050e+01,  -5.85) ('Atlanta', -8.4420e+01,  33.76)
+ ('Tabuk',  3.6570e+01,  28.39) ('Mykolayiv',  3.2000e+01,  46.97)
+ ('Nuremberg',  1.1050e+01,  49.45)
+ ('Cuautitlan Izca', -9.9250e+01,  19.65)
+ ('Santa Fe', -6.0690e+01, -31.6 ) ('Londrina', -5.1180e+01, -23.3 )
+ ('Bombay',  7.2820e+01,  18.96)]
+random start point being given row=8
+Distance 71180.356005
+Distance 71178.3058349
+Distance 71159.0055003
+Distance 71096.5988741
+Distance 71071.9986018
+Distance 71071.1011921
+Distance 71069.051022
+Distance 70978.9653605
+Distance 70936.5901098
+Distance 70768.4743553
+Distance 70758.9470923
+Distance 70754.0679223
+Distance 70751.5331142
+Distance 70741.7938257
+Distance 70715.475323
+Distance 70674.8253015
+Distance 70506.9265523
+Distance 70408.2362197
+Distance 70273.5397327
+Distance 70258.8300545
+Distance 70198.7406132
+Distance 70195.2564362
+Distance 70185.590467
+Distance 70179.465305
+Distance 69942.4694013
+Distance 69906.0691479
+Distance 69904.4867386
+Distance 69881.6099796
+Distance 69878.8110728
+Distance 69868.6741299
+Distance 69864.6946116
+Distance 69852.8138478
+Distance 69784.9755313
+Distance 69716.0957146
+Distance 69707.0881745
+Distance 69677.3313862
+Distance 69553.4283718
+Distance 69547.96793
+Distance 69497.0351659
+Distance 69465.9309698
+Distance 69431.4644404
+Distance 69388.2439632
+Distance 69254.3907821
+Distance 69253.6644234
+Distance 69194.363674
+Distance 69191.0164765
+Distance 69185.9838485
+Distance 69184.4548939
+Distance 69109.5049414
+Distance 69022.1790485
+Distance 68959.7526384
+Distance 68890.044365
+Distance 68889.1086314
+Distance 68829.367611
+Distance 68750.7446116
+Distance 68746.0104827
+Distance 68668.323873
+Distance 68668.1492148
+Distance 68666.2856981
+Distance 68656.5265664
+Distance 68651.8884012
+Distance 68618.3738093
+Distance 68553.5388116
+Distance 68466.4960069
+Distance 68462.7345604
+Distance 68458.9760314
+Distance 68455.6220064
+Distance 68406.78536
+Distance 68335.7829614
+Distance 68309.6929451
+Distance 68261.8428019
+Distance 68257.7053535
+Distance 68209.9917888
+Distance 68158.371705
+Distance 68150.0082278
+Distance 68003.361483
+Distance 68003.2702982
+Distance 67910.408315
+Distance 67861.0036746
+Distance 67635.8413928
+Distance 67274.4689273
+Distance 67268.4028407
+Distance 67266.6402857
+Distance 67257.2783578
+Distance 67247.3092438
+Distance 67042.0921859
+Distance 67038.6928932
+Distance 67029.2440662
+Distance 67028.395855
+Distance 67025.1515958
+Distance 67023.2604907
+Distance 67023.161347
+Distance 66985.6678997
+Distance 66978.1403222
+Distance 66964.7067639
+Distance 66958.5846672
+Distance 66922.7560452
+Distance 66913.7723709
+Distance 66855.6511642
+Distance 66722.4176963
+Distance 66717.0293275
+Distance 66554.5289018
+Distance 66509.602444
+Distance 66509.1842775
+Distance 66505.9214085
+Distance 66482.2306252
+Distance 66464.8438426
+Distance 66417.4557405
+Distance 66320.4709944
+Distance 66318.5732563
+Distance 66317.8955569
+Distance 66252.0972987
+Distance 66239.2431203
+Distance 66126.60725
+Distance 66122.750104
+Distance 66122.5282843
+Distance 66097.9318351
+Distance 66061.4667595
+Distance 66061.1566662
+Distance 66054.8496018
+Distance 66048.2946626
+Distance 66025.2480174
+Distance 65994.8676713
+Distance 65994.557578
+Distance 65993.974739
+Distance 65949.6915342
+Distance 65937.1864471
+Distance 65925.2864512
+Distance 65918.224482
+Distance 65907.9173206
+Distance 65904.6878055
+Distance 65873.9227887
+Distance 65871.2363635
+Distance 65650.9223896
+Distance 65645.2473143
+Distance 65461.3366869
+Distance 65409.3218063
+Distance 65403.0996768
+Distance 65402.4765558
+Distance 65400.6822001
+Distance 65399.9833439
+Distance 65347.664427
+Distance 65344.5102379
+Distance 65334.1794906
+Distance 65307.5764805
+Distance 65297.4620499
+Distance 65256.1428353
+Distance 65243.7911711
+Distance 65224.4595096
+Distance 65220.3652438
+Distance 65217.0912164
+Distance 65187.5289326
+Distance 65128.3212975
+Distance 65117.3925955
+Distance 65097.3587173
+Distance 65070.3723172
+Distance 65069.8743744
+Distance 65065.3587569
+Distance 65028.8939719
+Distance 65018.3858774
+Distance 65015.8614806
+Distance 64997.129724
+Distance 64996.7124702
+Distance 64996.2942202
+Distance 64996.1457324
+Distance 64989.6889306
+Distance 64985.6623499
+Distance 64985.610104
+Distance 64985.0196364
+Distance 64984.9892288
+Distance 64981.2462655
+Distance 64979.6728995
+Distance 64849.9980874
+Distance 64798.6468435
+Distance 64784.2896261
+Distance 64770.1788389
+Distance 64768.813666
+Distance 64648.7290987
+Distance 64647.6260143
+Distance 64533.0239883
+Distance 64529.420991
+Distance 64506.4677884
+Distance 64506.2994552
+Distance 64326.1776184
+Distance 64325.1134535
+Distance 64317.1526052
+Distance 64111.2493319
+Distance 64098.1994547
+Distance 64097.5945668
+Distance 64091.1307483
+Distance 64090.7946469
+Distance 63899.4196
+Distance 63881.4486889
+Distance 63879.5302799
+Distance 63879.1648826
+Distance 63840.031481
+Distance 63837.7346736
+Distance 63833.1070937
+Distance 63808.742081
+Distance 63770.1101089
+Distance 63702.5464846
+Distance 63701.726527
+Distance 63695.8223347
+Distance 63656.0817004
+Distance 63558.5371384
+Distance 63556.3284819
+Distance 63543.9834017
+Distance 63493.8598951
+Distance 63411.4400596
+Distance 63408.3020728
+Distance 63408.291918
+Distance 63406.002076
+Distance 63391.0667189
+Distance 63376.6228895
+Distance 63368.4158222
+Distance 63335.28384
+Distance 63332.9939979
+Distance 63317.2269253
+Distance 63315.5998148
+Distance 63251.2029546
+Distance 63229.3536219
+Distance 63227.9386997
+Distance 63223.6334059
+Distance 63218.6389818
+Distance 63204.6576335
+Distance 63024.6554284
+Distance 63023.9490026
+Distance 63001.7497611
+Distance 62936.6019778
+Distance 62890.814706
+Distance 62878.7117411
+Distance 62864.8448597
+Distance 62810.798954
+Distance 62753.5894122
+Distance 62752.9705634
+Distance 62702.1781231
+Distance 62654.833773
+Distance 62469.5709908
+Distance 62463.4589268
+Distance 62443.6165875
+Distance 62442.6212479
+Distance 62413.4843501
+Distance 62375.5133183
+Distance 62213.8054828
+Distance 62180.4661596
+Distance 62175.1185724
+Distance 62157.0756152
+Distance 62127.2313525
+Distance 62120.2361951
+Distance 62075.5571739
+Distance 62075.5293011
+Distance 62068.7109406
+Distance 61962.8600461
+Distance 61957.4045021
+Distance 61934.8967427
+Distance 61931.9436772
+Distance 61928.5039549
+Distance 61893.6761273
+Distance 61771.0408347
+Distance 61769.1324271
+Distance 61633.5869067
+Distance 61625.9594998
+Distance 61624.8480579
+Distance 61612.2667391
+Distance 61606.5509251
+Distance 61598.576055
+Distance 61553.0425875
+Distance 61387.3039673
+Distance 61373.4275212
+Distance 61366.7906716
+Distance 61103.0550734
+Distance 61102.0846958
+Distance 60786.8685384
+Distance 60742.4347327
+Distance 60738.418977
+Distance 60704.6496538
+Distance 60697.5168752
+Distance 60657.8447731
+Distance 60593.7880664
+Distance 60573.3822874
+Distance 60568.2675622
+Distance 60568.1910826
+Distance 60560.77171
+Distance 60560.328026
+Distance 60560.3113382
+Distance 60549.6912295
+Distance 60545.8256368
+Distance 60513.0213751
+Distance 60501.7057413
+Distance 60500.3808333
+Distance 60494.6332568
+Distance 60297.0377158
+Distance 60288.1388706
+Distance 60266.0086778
+Distance 60262.6745344
+Distance 60115.0906264
+Distance 60094.2912987
+Distance 60052.6827727
+Distance 60029.65697
+Distance 60025.7438383
+Distance 60021.7959526
+Distance 60020.7674811
+Distance 59997.7537463
+Distance 59993.3980318
+Distance 59928.4417342
+Distance 59928.3945612
+Distance 59926.5391941
+Distance 59910.1087572
+Distance 59909.6086185
+Distance 59906.6700604
+Distance 59883.5069094
+Distance 59811.9564107
+Distance 59809.9304499
+Distance 59682.0345596
+Distance 59681.5344209
+Distance 59586.3999914
+Distance 59513.9878126
+Distance 59513.7422841
+Distance 59512.6149091
+Distance 59400.2522574
+Distance 59306.6854712
+Distance 59227.7202093
+Distance 59129.0204882
+Distance 59113.0995355
+Distance 59103.3873948
+Distance 59099.54194
+Distance 59003.7636172
+Distance 59001.9227714
+Distance 58992.004272
+Distance 58988.5544854
+Distance 58795.2808112
+Distance 58794.1859335
+Distance 58611.1402574
+Distance 58610.6630773
+Distance 58451.844328
+Distance 58272.5976191
+Distance 58070.4449872
+Distance 58068.4025093
+Distance 57806.7866573
+Distance 57803.7122178
+Distance 57790.6926483
+Distance 57786.8808754
+Distance 57786.8157516
+Distance 57663.6911726
+Distance 57663.6554515
+Distance 57579.5938483
+Distance 57579.0133878
+Distance 57558.3111367
+Distance 57263.0266896
+Distance 57183.3341177
+Distance 57183.2689939
+Distance 57180.580991
+Distance 56877.4503404
+Distance 56859.6517543
+Distance 56857.6488523
+Distance 56586.1691331
+Distance 56508.8739558
+Distance 56502.3258585
+Distance 56306.3332098
+Distance 56304.3418183
+Distance 56298.5016202
+Distance 56293.1581776
+Distance 56097.8523877
+Distance 55919.257881
+Distance 55910.9279737
+Distance 55910.2830597
+Distance 55910.0846367
+Distance 55908.996574
+Distance 55906.1454111
+Distance 55891.8039686
+Distance 55714.4289625
+Distance 55650.9604113
+Distance 55547.7066405
+Distance 55537.6995423
+Distance 55521.7141057
+Distance 55521.1417619
+Distance 55481.1761146
+Distance 55381.4770265
+Distance 55344.5504085
+Distance 55344.5255476
+Distance 55317.3244328
+Distance 55310.9442596
+Distance 55125.7195896
+Distance 55010.184013
+Distance 54992.6545926
+Distance 54992.1877627
+Distance 54894.5836962
+Distance 54893.2931049
+Distance 54857.7173296
+Distance 54762.0684933
+Distance 54761.3347832
+Distance 54755.3078702
+Distance 54752.9596324
+Distance 54655.5292534
+Distance 54653.0914707
+Distance 54560.1185135
+Distance 54557.043826
+Distance 54550.6310945
+Distance 54548.5438429
+Distance 54547.2184641
+Distance 54408.364705
+Distance 54391.7149148
+Distance 54388.4383985
+Distance 54387.6286012
+Distance 54278.938557
+Distance 54252.4305629
+Distance 54043.3128328
+Distance 53821.7297289
+Distance 53812.3311378
+Distance 53810.457423
+Distance 53677.5030378
+Distance 53672.6161086
+Distance 53668.7994652
+Distance 53648.4659606
+Distance 53646.5827354
+Distance 53646.51834
+Distance 53630.3173629
+Distance 53619.6060807
+Distance 53559.2738
+Distance 53294.5125356
+Distance 53294.5097366
+Distance 53130.4296487
+Distance 52975.6276692
+Distance 52975.3067878
+Distance 52864.9183706
+Distance 52855.4931919
+Distance 52746.8501308
+Distance 52745.453912
+Distance 52724.9877173
+Distance 52718.4637174
+Distance 52556.9411514
+Distance 52497.5729871
+Distance 52494.0553193
+Distance 52493.9759495
+Distance 52360.8137621
+Distance 52358.5404153
+Distance 52214.1492345
+Distance 52214.116797
+Distance 52207.1268744
+Distance 52077.8856625
+Distance 52030.6687025
+Distance 52027.1150351
+Distance 52021.9044536
+Distance 52019.4284914
+Distance 51968.4294624
+Distance 51961.3079972
+Distance 51957.3780022
+Distance 51950.9858896
+Distance 51924.1512447
+Distance 51918.1917746
+Distance 51917.9006617
+Distance 51907.8200826
+Distance 51905.9960363
+Distance 51904.7859779
+Distance 51864.2088763
+Distance 51856.8142497
+Distance 51698.4939108
+Distance 51682.6247364
+Distance 51682.2447853
+Distance 51680.4059335
+Distance 51678.8311756
+Distance 51514.458994
+Distance 51510.7972497
+Distance 51402.2290813
+Distance 51401.965573
+Distance 51399.8689801
+Distance 51352.4174286
+Distance 51319.7836116
+Distance 51241.5006646
+Distance 51238.2907328
+Distance 51125.5176859
+Distance 51120.2986717
+Distance 51097.1892601
+Distance 51078.0207771
+Distance 51072.9965324
+Distance 51072.2005377
+Distance 51066.3509466
+Distance 51065.995877
+Distance 51048.2490089
+Distance 51011.1891637
+Distance 51006.164919
+Distance 50871.3986532
+Distance 50861.8810108
+Distance 50855.5181495
+Distance 50838.9530307
+Distance 50786.0722486
+Distance 50773.2412081
+Distance 50654.6941921
+Distance 50646.644846
+Distance 50613.6513341
+Distance 50604.1721965
+Distance 50601.5421121
+count is:4
+Best case recieved is:
+[('Bombay',  7.2820e+01,  18.96) ('Shanghai',  1.2147e+02,  31.23)
+ ('Buenos Aires', -5.8370e+01, -34.61) ('Karachi',  6.7010e+01,  24.86)
+ ('Delhi',  7.7210e+01,  28.67) ('Istanbul',  2.9000e+01,  41.1 )
+ ('Sao Paulo', -4.6630e+01, -23.53) ('Dhaka',  9.0390e+01,  23.7 )
+ ('Manila',  1.2097e+02,  14.62) ('Soul',  1.2699e+02,  37.56)
+ ('Moscow',  3.7620e+01,  55.75) ('Mexico City', -9.9140e+01,  19.43)
+ ('Lagos',  3.3500e+00,   6.5 ) ('Kinshasa',  1.5320e+01,  -4.31)
+ ('Jakarta',  1.0683e+02,  -6.18) ('Tokyo',  1.3977e+02,  35.67)
+ ('Tehran',  5.1430e+01,  35.67) ('Cairo',  3.1250e+01,  30.06)
+ ('Lima', -7.7050e+01, -12.07) ('New York', -7.3940e+01,  40.67)
+ ('London', -1.0000e-01,  51.52) ('Peking',  1.1640e+02,  39.93)
+ ('Lahore',  7.4350e+01,  31.56) ('Rio de Janeiro', -4.3200e+01, -22.91)
+ ('Bogota', -7.4090e+01,   4.63) ('Bagdad',  4.4440e+01,  33.33)
+ ('Bangalore',  7.7560e+01,  12.97) ('Bangkok',  1.0050e+02,  13.73)
+ ('Singapore',  1.0385e+02,   1.3 ) ('Santiago', -7.0640e+01, -33.46)
+ ('Toronto', -7.9380e+01,  43.65) ('Calcutta',  8.8360e+01,  22.57)
+ ('Rangoon',  9.6150e+01,  16.79) ('Riyadh',  4.6770e+01,  24.65)
+ ('Ibadan',  3.9300e+00,   7.38) ('Madras',  8.0270e+01,  13.09)
+ ('Ho Chi Minh Cit',  1.0669e+02,  10.78)
+ ('Chongqing',  1.0658e+02,  29.57) ('Wuhan',  1.1427e+02,  30.58)
+ ('Xian',  1.0890e+02,  34.27) ('Saint Petersbur',  3.0320e+01,  59.93)
+ ('Alexandria',  2.9950e+01,  31.22) ('Chengdu',  1.0407e+02,  30.67)
+ ('Hyderabad',  7.8480e+01,  17.4 ) ('Ahmadabad',  7.2580e+01,  23.03)
+ ('Ankara',  3.2850e+01,  39.93) ('Los Angeles', -1.1841e+02,  34.11)
+ ('Abidjan', -4.0300e+00,   5.33) ('Chattagam',  9.1810e+01,  22.33)
+ ('Tianjin',  1.1720e+02,  39.13) ('Yokohama',  1.3962e+02,  35.47)
+ ('Sydney',  1.5121e+02, -33.87) ('Melbourne',  1.4496e+02, -37.81)
+ ('Berlin',  1.3380e+01,  52.52) ('Shenyang',  1.2345e+02,  41.8 )
+ ('Pusan',  1.2903e+02,  35.11) ('Montreal', -7.3570e+01,  45.52)
+ ('Cape Town',  1.8460e+01, -33.93) ('Durban',  3.0990e+01, -29.87)
+ ('Gizeh',  3.1210e+01,  30.01) ('Harbin',  1.2665e+02,  45.75)
+ ('Nanjing',  1.1878e+02,  32.05) ('Pune',  7.3840e+01,  18.53)
+ ('Surat',  7.2820e+01,  21.2 ) ('Addis Abeba',  3.8740e+01,   9.03)
+ ('Casablanca', -7.6200e+00,  33.6 ) ('Madrid', -3.7100e+00,  40.42)
+ ('Pyongyang',  1.2575e+02,  39.02) ('Guangzhou',  1.1325e+02,  23.12)
+ ('Kanpur',  8.0330e+01,  26.47) ('Nairobi',  3.6820e+01,  -1.29)
+ ('Jiddah',  3.9170e+01,  21.5 ) ('Jaipur',  7.5800e+01,  26.92)
+ ('Dar es Salaam',  3.9280e+01,  -6.82) ('Salvador', -3.8500e+01, -12.97)
+ ('Chicago', -8.7680e+01,  41.84) ('Faisalabad',  7.3110e+01,  31.41)
+ ('al-Mawsil',  4.3140e+01,  36.34) ('Izmir',  2.7150e+01,  38.43)
+ ('Taiyuan',  1.1255e+02,  37.87) ('Taibei',  1.2145e+02,  25.02)
+ ('Osaka',  1.3550e+02,  34.68) ('Inchon',  1.2664e+02,  37.48)
+ ('Changchun',  1.2535e+02,  43.87) ('Lakhnau',  8.0920e+01,  26.85)
+ ('Luanda',  1.3240e+01,  -8.82) ('Kiev',  3.0520e+01,  50.43)
+ ('Rome',  1.2500e+01,  41.89) ('Dakar', -1.7480e+01,  14.72)
+ ('Mashhad',  5.9570e+01,  36.27) ('Kabul',  6.9170e+01,  34.53)
+ ('Fortaleza', -3.8590e+01,  -3.78)
+ ('Belo Horizonte', -4.3940e+01, -19.92)
+ ('Santo Domingo', -6.9910e+01,  18.48) ('Maracaibo', -7.1660e+01,  10.73)
+ ('Brasilia', -4.7910e+01, -15.78) ('Umm Durman',  3.2480e+01,  15.65)
+ ('Nagpur',  7.9080e+01,  21.16) ('Taegu',  1.2860e+02,  35.87)
+ ('Surabaya',  1.1274e+02,  -7.24) ('Kano',  8.5200e+00,  12.  )
+ ('Medellin', -7.5540e+01,   6.29) ('Accra', -2.0000e-01,   5.56)
+ ('Benin',  5.6200e+00,   6.34) ('Shijiazhuang',  1.1448e+02,  38.05)
+ ('Nagoya',  1.3691e+02,  35.15) ('Changsha',  1.1297e+02,  28.2 )
+ ('Khartoum',  3.2520e+01,  15.58) ('Houston', -9.5390e+01,  29.77)
+ ('Guayaquil', -7.9900e+01,  -2.21) ('Cali', -7.6520e+01,   3.44)
+ ('Jinan',  1.1700e+02,  36.67) ('Algiers',  3.0400e+00,  36.77)
+ ('Havanna', -8.2390e+01,  23.13) ('Paris',  2.3400e+00,  48.86)
+ ('Tashkent',  6.9300e+01,  41.31) ('Jilin',  1.2655e+02,  43.85)
+ ('Dalian',  1.2165e+02,  38.92) ('Zhengzhou',  1.1367e+02,  34.75)
+ ('Nanchang',  1.1588e+02,  28.68) ('Bayrut',  3.5500e+01,  33.89)
+ ('Vancouver', -1.2313e+02,  49.28) ('Douala',  9.7100e+00,   4.06)
+ ('Johannesburg',  2.8040e+01, -26.19) ('Jiulong',  1.1417e+02,  22.32)
+ ('Kaduna',  7.4400e+00,  10.52) ('Ecatepec', -9.9050e+01,  19.6 )
+ ('Caracas', -6.6930e+01,  10.54) ('Port Harcourt',  7.0100e+00,   4.81)
+ ('Bucharest',  2.6100e+01,  44.44) ('Sapporo',  1.4134e+02,  43.06)
+ ('Hangzhou',  1.2017e+02,  30.25) ('Rawalpindi',  7.3040e+01,  33.6 )
+ ("San'a",  4.4210e+01,  15.38) ('Curitiba', -4.9290e+01, -25.42)
+ ('Conakry', -1.3670e+01,   9.55) ('al-Basrah',  4.7820e+01,  30.53)
+ ('Xinyang',  1.1407e+02,  32.13) ('Brisbane',  1.5302e+02, -27.46)
+ ('Medan',  9.8670e+01,   3.59) ('Indore',  7.5860e+01,  22.72)
+ ('Kumasi', -1.6300e+00,   6.69) ('Manaus', -6.0020e+01,  -3.12)
+ ('Rabat', -6.8400e+00,  34.02) ('Minsk',  2.7550e+01,  53.91)
+ ('Hamburg',  1.0000e+01,  53.55) ('Valencia', -6.7980e+01,  10.23)
+ ('Soweto',  2.7840e+01, -26.28) ('Bhopal',  7.7400e+01,  23.24)
+ ('Patna',  8.5130e+01,  25.62) ('Qingdao',  1.2032e+02,  36.07)
+ ('Warsaw',  2.1020e+01,  52.26) ('Vienna',  1.6370e+01,  48.22)
+ ('Yaounde',  1.1520e+01,   3.87) ('Aleppo',  3.7170e+01,  36.23)
+ ('Dubai',  5.5330e+01,  25.27) ('Bekasi',  1.0697e+02,  -6.22)
+ ('Thana',  7.2970e+01,  19.2 ) ('Budapest',  1.9080e+01,  47.51)
+ ('Bamako', -7.9900e+00,  12.65) ('Harare',  3.1050e+01, -17.82)
+ ('Esfahan',  5.1680e+01,  32.68) ('Ludhiana',  7.5840e+01,  30.91)
+ ('Bandung',  1.0760e+02,  -6.91) ('Barcelona',  2.1700e+00,  41.4 )
+ ('Lubumbashi',  2.7480e+01, -11.66) ('Pretoria',  2.8220e+01, -25.73)
+ ('Guadalajara', -1.0335e+02,  20.67) ('Muqdisho',  4.5330e+01,   2.05)
+ ('Tangshan',  1.1819e+02,  39.62) ('Damascus',  3.6320e+01,  33.5 )
+ ('Quito', -7.8500e+01,  -0.19) ('Phoenix', -1.1207e+02,  33.54)
+ ('Urumqi',  8.7580e+01,  43.8 ) ('Agra',  7.8010e+01,  27.19)
+ ('Antananarivo',  4.7510e+01, -18.89) ('Davao',  1.2563e+02,   7.11)
+ ('Kobe',  1.3517e+02,  34.68) ('Santa Cruz', -6.3210e+01, -17.77)
+ ('Tijuana', -1.1702e+02,  32.53) ('Juarez', -1.0649e+02,  31.74)
+ ('Recife', -3.4920e+01,  -8.08) ('Multan',  7.1450e+01,  30.2 )
+ ('Gaoxiong',  1.2027e+02,  22.63) ('Ha Noi',  1.0584e+02,  21.03)
+ ('Cordoba', -6.4190e+01, -31.4 ) ('Belem', -4.8500e+01,  -1.44)
+ ('Lome',  1.3500e+00,   6.17) ('Kampala',  3.2580e+01,   0.32)
+ ('Hyderabad',  6.8370e+01,  25.38) ('Vadodara',  7.3180e+01,  22.31)
+ ('Suzhou',  1.2062e+02,  31.3 ) ('Gujranwala',  7.4180e+01,  32.16)
+ ('Mbuji-Mayi',  2.3590e+01,  -6.13) ('Bursa',  2.9080e+01,  40.2 )
+ ('Karaj',  5.0970e+01,  35.8 ) ('Pimpri',  7.3800e+01,  18.62)
+ ('Tangerang',  1.0663e+02,  -6.18) ('Kyoto',  1.3575e+02,  35.01)
+ ('Kharkiv',  3.6220e+01,  49.98) ('Puebla', -9.8220e+01,  19.05)
+ ('Aba',  7.3500e+00,   5.1 ) ('Kuala Lumpur',  1.0171e+02,   3.16)
+ ('Nashik',  7.3780e+01,  20.01) ('Philadelphia', -7.5130e+01,  40.01)
+ ('Fukuoka',  1.3041e+02,  33.59) ('Taejon',  1.2743e+02,  36.33)
+ ('Lanzhou',  1.0368e+02,  36.05) ('Mecca',  3.9820e+01,  21.43)
+ ('Shantou',  1.1667e+02,  23.37) ('Hefei',  1.1728e+02,  31.85)
+ ('Koyang',  1.2693e+02,  37.7 ) ('Novosibirsk',  8.2930e+01,  55.04)
+ ('Tabriz',  4.6300e+01,  38.08) ('Adana',  3.5320e+01,  37.  )
+ ('Porto Alegre', -5.1220e+01, -30.04) ('Faridabad',  7.7300e+01,  28.38)
+ ('Narayanganj',  9.0500e+01,  23.62) ('Phnum Penh',  1.0492e+02,  11.57)
+ ('Makasar',  1.1941e+02,  -5.14) ('Fushun',  1.2388e+02,  41.87)
+ ('Luoyang',  1.1247e+02,  34.68) ('Khulna',  8.9560e+01,  22.84)
+ ('Lusaka',  2.8290e+01, -15.42) ('Depok',  1.0683e+02,  -6.39)
+ ('Handan',  1.1448e+02,  36.58) ('San Antonio', -9.8510e+01,  29.46)
+ ('Ghaziabad',  7.7410e+01,  28.66) ('Kawasaki',  1.3970e+02,  35.53)
+ ('Kwangju',  1.2691e+02,  35.16) ('Peshawar',  7.1540e+01,  34.01)
+ ('Rajkot',  7.0790e+01,  22.31) ('Mandalay',  9.6090e+01,  21.98)
+ ('Suwon',  1.2701e+02,  37.26) ('Almaty',  7.6920e+01,  43.32)
+ ('Munich',  1.1580e+01,  48.14) ('Milan',  9.1900e+00,  45.48)
+ ('Baotou',  1.1005e+02,  40.6 ) ('Mirat',  7.7700e+01,  28.99)
+ ('Kalyan',  7.3160e+01,  19.25) ('Xianggangdao',  1.1414e+02,  22.27)
+ ('Rongcheng',  1.1634e+02,  23.54) ('Yekaterinburg',  6.0600e+01,  56.85)
+ ('Ouagadougou', -1.5300e+00,  12.37) ('Guarulhos', -4.6490e+01, -23.46)
+ ('Montevideo', -5.6170e+01, -34.87) ('Xuzhou',  1.1718e+02,  34.27)
+ ('Palembang',  1.0475e+02,  -2.99) ('Semarang',  1.1042e+02,  -6.97)
+ ('Perth',  1.1584e+02, -31.96) ('Stockholm',  1.8070e+01,  59.33)
+ ('Dallas', -9.6770e+01,  32.79) ('San Diego', -1.1714e+02,  32.81)
+ ('Goiania', -4.9260e+01, -16.72) ('Gaziantep',  3.7390e+01,  37.07)
+ ('Nizhniy Novgoro',  4.4000e+01,  56.33) ('Fuzhou',  1.1930e+02,  26.08)
+ ('Rosario', -6.0670e+01, -32.94) ('Nezahualcoyotl', -9.9030e+01,  19.41)
+ ('Shiraz',  5.2570e+01,  29.63) ('Shenzhen',  1.1413e+02,  22.53)
+ ('Saitama',  1.3964e+02,  35.87) ('Tripoli',  1.3180e+01,  32.87)
+ ('Yerevan',  4.4520e+01,  40.17) ('Baku',  4.9860e+01,  40.39)
+ ('Varanasi',  8.3010e+01,  25.32) ('Guiyang',  1.0672e+02,  26.58)
+ ('Anshan',  1.2295e+02,  41.12) ('Wuxi',  1.2030e+02,  31.58)
+ ('Subang Jaya',  1.0153e+02,   3.15) ('Brazzaville',  1.5260e+01,  -4.25)
+ ('Leon', -1.0169e+02,  21.12) ('Prague',  1.4430e+01,  50.08)
+ ('Amritsar',  7.4870e+01,  31.64) ('Huainan',  1.1698e+02,  32.63)
+ ('Hiroshima',  1.3244e+02,  34.39) ('Monrovia', -1.0800e+01,   6.31)
+ ('Barranquilla', -7.4800e+01,  10.96) ('Tbilisi',  4.4790e+01,  41.72)
+ ("'Amman",  3.5930e+01,  31.95) ('Abuja',  7.4900e+00,   9.06)
+ ('Omsk',  7.3400e+01,  55.  ) ('Aurangabad',  7.5320e+01,  19.89)
+ ('Navi Mumbai',  7.3060e+01,  19.11) ('Sofia',  2.3310e+01,  42.69)
+ ('Monterrey', -1.0032e+02,  25.67)
+ ('Port Elizabeth',  2.5590e+01, -33.96) ('Maputo',  3.2570e+01, -25.95)
+ ('Allahabad',  8.1840e+01,  25.45) ('Samara',  5.0150e+01,  53.2 )
+ ('Belgrade',  2.0500e+01,  44.83) ('Campinas', -4.7080e+01, -22.91)
+ ('Sholapur',  7.5890e+01,  17.67) ('Kazan',  4.9130e+01,  55.75)
+ ('Irbil',  4.4010e+01,  36.18) ('Barquisimeto', -6.9300e+01,  10.05)
+ ('K?benhavn',  1.2580e+01,  55.67) ('Baoding',  1.1548e+02,  38.87)
+ ('Xianyang',  1.0870e+02,  34.37) ('Maceio', -3.5750e+01,  -9.65)
+ ('Nova Iguacu', -4.3470e+01, -22.74) ('Guatemala', -9.0550e+01,  14.63)
+ ('Maiduguri',  1.3160e+01,  11.85) ('Kunming',  1.0270e+02,  25.05)
+ ('Taizhong',  1.2068e+02,  24.15) ('Datong',  1.1330e+02,  40.08)
+ ('Dublin', -6.2500e+00,  53.33) ('Visakhapatnam',  8.3300e+01,  17.73)
+ ('Jabalpur',  7.9940e+01,  23.17) ('Rostov-na-Donu',  3.9710e+01,  47.24)
+ ("Dnipropetrovs'k",  3.4980e+01,  48.45)
+ ('Shubra-El-Khema',  3.1250e+01,  30.11)
+ ('Srinagar',  7.4790e+01,  34.09) ('Benxi',  1.2375e+02,  41.33)
+ ('Chelyabinsk',  6.1430e+01,  55.15) ('al-Madinah',  3.9590e+01,  24.48)
+ ('Brussels',  4.3300e+00,  50.83) ('Calgary', -1.1406e+02,  51.05)
+ ('Zapopan', -1.0340e+02,  20.72) ('Haora',  8.8330e+01,  22.58)
+ ('Adelaide',  1.3860e+02, -34.93) ('Sendai',  1.4089e+02,  38.26)
+ ('Songnam',  1.2715e+02,  37.44) ('Ranchi',  8.5330e+01,  23.36)
+ ('Ilorin',  4.5500e+00,   8.49) ('Tegucigalpa', -8.7220e+01,  14.09)
+ ('Fez', -5.0000e+00,  34.05) ('Ahvaz',  4.8720e+01,  31.28)
+ ('Ufa',  5.6040e+01,  54.78) ('Chandigarh',  7.6780e+01,  30.75)
+ ('Klang',  1.0145e+02,   3.04) ('Koyampattur',  7.6960e+01,  11.01)
+ ('Qom',  5.0950e+01,  34.65) ('Cologne',  6.9700e+00,  50.95)
+ ('Odesa',  3.0730e+01,  46.47) ('Donetsk',  3.7820e+01,  48.  )
+ ('Jodhpur',  7.3020e+01,  26.29) ('Sao Goncalo', -4.3070e+01, -22.84)
+ ('Sao Luis', -4.4300e+01,  -2.5 ) ('Perm',  5.6250e+01,  58.  )
+ ('Huaibei',  1.1675e+02,  33.95) ('Kitakyushu',  1.3086e+02,  33.88)
+ ('Changzhou',  1.1997e+02,  31.78) ('Guwahati',  9.1750e+01,  26.19)
+ ('Maisuru',  7.6650e+01,  12.31) ('Volgograd',  4.4480e+01,  48.71)
+ ('Naples',  1.4270e+01,  40.85) ('Konya',  3.2480e+01,  37.88)
+ ('Vijayawada',  8.0630e+01,  16.52) ('Ulsan',  1.2931e+02,  35.55)
+ ('Birmingham', -1.9100e+00,  52.48) ('San Jose', -1.2185e+02,  37.3 )
+ ('Ciudad Guayana', -6.2620e+01,   8.37) ('Kolwezi',  2.5660e+01, -10.7 )
+ ('Padang',  1.0035e+02,  -0.95) ('Chiba',  1.4011e+02,  35.61)
+ ('Mendoza', -6.8830e+01, -32.89) ('Managua', -8.6270e+01,  12.15)
+ ('Biskek',  7.4570e+01,  42.87) ('Kathmandu',  8.5310e+01,  27.71)
+ ('Gwalior',  7.8170e+01,  26.23) ('Niamey',  2.1200e+00,  13.52)
+ ('El Alto', -6.8170e+01, -16.5 ) ('Kigali',  3.0060e+01,  -1.94)
+ ('Qiqihar',  1.2400e+02,  47.35) ('Ulaanbaatar',  1.0691e+02,  47.93)
+ ('Krasnoyarsk',  9.3060e+01,  56.02) ('Madurai',  7.8120e+01,   9.92)
+ ('Asgabat',  5.8380e+01,  37.95) ('al-H?artum Bah?',  3.2520e+01,  15.64)
+ ('Arequipa', -7.1530e+01, -16.39) ('Edmonton', -1.1354e+02,  53.57)
+ ('Marrakesh', -8.0000e+00,  31.63) ('Pingdingshan',  1.1330e+02,  33.73)
+ ('Bandar Lampung',  1.0527e+02,  -5.44) ('Hubli',  7.5130e+01,  15.36)
+ ('La Paz', -6.8150e+01, -16.5 ) ('Cartagena', -7.5500e+01,  10.4 )
+ ('Ottawa', -7.5710e+01,  45.42) ('Wenzhou',  1.2065e+02,  28.02)
+ ('Johor Bahru',  1.0375e+02,   1.48) ('Mombasa',  3.9660e+01,  -4.04)
+ ('Lilongwe',  3.3800e+01, -13.97)
+ ('Duque de Caxias', -4.3310e+01, -22.77) ('Turin',  7.6800e+00,  45.08)
+ ('Jalandhar',  7.5570e+01,  31.33) ('Abu Dhabi',  5.4370e+01,  24.48)
+ ('Warri',  5.7600e+00,   5.52) ('Valencia', -3.9000e-01,  39.48)
+ ('Oslo',  1.0750e+01,  59.91) ('ad-Dammam',  5.0100e+01,  26.43)
+ ('Mira Bhayandar',  7.2850e+01,  19.29) ('Taian',  1.1712e+02,  36.2 )
+ ('Salem',  7.8160e+01,  11.67) ('Pietermaritzbur',  3.0390e+01, -29.61)
+ ('Naucalpan', -9.9230e+01,  19.48) ('H?ims',  3.6720e+01,  34.73)
+ ('Bhubaneswar',  8.5840e+01,  20.27) ('Hamamatsu',  1.3773e+02,  34.72)
+ ('Saratov',  4.6030e+01,  51.57) ('Kirkuk',  4.4390e+01,  35.47)
+ ('Detroit', -8.3100e+01,  42.38) ('Onitsha',  6.7800e+00,   6.14)
+ ('Quetta',  6.7020e+01,  30.21) ('Aligarh',  7.8060e+01,  27.89)
+ ('Sakai',  1.3548e+02,  34.57) ('Voronezh',  3.9260e+01,  51.72)
+ ('Freetown', -1.3240e+01,   8.49) ('Tucuman', -6.5220e+01, -26.83)
+ ('Bogor',  1.0679e+02,  -6.58) ('Niigata',  1.3904e+02,  37.92)
+ ('Jacksonville', -8.1660e+01,  30.33)
+ ('Thiruvananthapu',  7.6950e+01,   8.51) ('Cebu',  1.2390e+02,  10.32)
+ ('Bareli',  7.9410e+01,  28.36) ('Natal', -3.5220e+01,  -5.8 )
+ ('Kota',  7.5830e+01,  25.18) ('Puchon',  1.2677e+02,  37.48)
+ ('Shihung',  1.2689e+02,  37.46) ('Tiruchchirappal',  7.8690e+01,  10.81)
+ ('Sharjah',  5.5410e+01,  25.37) ('Trujillo', -7.9030e+01,  -8.11)
+ ('Kermanshah',  4.7060e+01,  34.38) ('Qinhuangdao',  1.1962e+02,  39.93)
+ ('Anyang',  1.1435e+02,  36.08) ('Bhiwandi',  7.3050e+01,  19.3 )
+ ('an-Najaf',  4.4340e+01,  32.  ) ('Teresina', -4.2800e+01,  -5.1 )
+ ('Sao Bernardo do', -4.6540e+01, -23.71) ('Nanning',  1.0832e+02,  22.82)
+ ('Antalya',  3.0710e+01,  36.89) ('Indianapolis', -8.6150e+01,  39.78)
+ ('Campo Grande', -5.4630e+01, -20.45) ('Jaboatao', -3.5020e+01,  -8.11)
+ ('Hohhot',  1.1164e+02,  40.82) ('Zaporizhzhya',  3.5170e+01,  47.85)
+ ('Marseille',  5.3700e+00,  43.31) ('Moradabad',  7.8760e+01,  28.84)
+ ('Zhangjiakou',  1.1493e+02,  40.83) ('Liuzhou',  1.0925e+02,  24.28)
+ ('Rajshahi',  8.8590e+01,  24.37) ('Nouakchott', -1.5980e+01,  18.09)
+ ('Xining',  1.0177e+02,  36.62) ('Tainan',  1.2019e+02,  23.  )
+ ('Yantai',  1.2140e+02,  37.53) ('Hegang',  1.3037e+02,  47.4 )
+ ('Port-au-Prince', -7.2340e+01,  18.54) ('Akure',  5.1900e+00,   7.25)
+ ("N'Djamena",  1.5050e+01,  12.11) ('Guadalupe', -1.0026e+02,  25.68)
+ ('Cracow',  1.9960e+01,  50.06) ('Malang',  1.1262e+02,  -7.98)
+ ('Hengyang',  1.1262e+02,  26.89) ('Puyang',  1.1498e+02,  35.7 )
+ ('Jerusalem',  3.5220e+01,  31.78) ('Athens',  2.3730e+01,  37.98)
+ ('San Francisco', -1.2245e+02,  37.77) ('Amsterdam',  4.8900e+00,  52.37)
+ ('?odz',  1.9460e+01,  51.77) ('Austin', -9.7750e+01,  30.31)
+ ('Merida', -8.9620e+01,  20.97) ('Abeokuta',  3.3500e+00,   7.16)
+ ('Raipur',  8.1630e+01,  21.24) ('Xinxiang',  1.1387e+02,  35.32)
+ ('Tunis',  1.0220e+01,  36.84) ('Columbus', -8.2990e+01,  39.99)
+ ('Chihuahua', -1.0608e+02,  28.63) ('Cotonou',  2.4400e+00,   6.36)
+ ("L'viv",  2.4000e+01,  49.83) ('Pekan Baru',  1.0143e+02,   0.56)
+ ('Blantyre',  3.4990e+01, -15.79) ('Bulawayo',  2.8580e+01, -20.17)
+ ('La Plata', -5.7960e+01, -34.92) ('Tangier', -5.8100e+00,  35.79)
+ ('Kayseri',  3.5480e+01,  38.74) ('Tolyatti',  4.9510e+01,  53.48)
+ ('Langfang',  1.1668e+02,  39.52) ('Ningbo',  1.2155e+02,  29.88)
+ ('Ampang Jaya',  1.0177e+02,   3.15) ('Foshan',  1.1312e+02,  23.03)
+ ('Liaoyang',  1.2318e+02,  41.28) ('Riga',  2.4130e+01,  56.97)
+ ('Kryvyy Rih',  3.3350e+01,  47.92) ('Changzhi',  1.1175e+02,  35.22)
+ ('Chonju',  1.2714e+02,  35.83) ('Zamboanga',  1.2208e+02,   6.92)
+ ('as-Sulaymaniyah',  4.5430e+01,  35.56) ('Osasco', -4.6780e+01, -23.53)
+ ('Libreville',  9.4500e+00,   0.39) ('Gorakhpur',  8.3360e+01,  26.76)
+ ('Fort Worth', -9.7340e+01,  32.75)
+ ('San Luis Potosi', -1.0098e+02,  22.16)
+ ('Tlalnepantla', -9.9190e+01,  19.54) ('Sevilla', -5.9800e+00,  37.4 )
+ ('Zagreb',  1.5970e+01,  45.8 ) ('Huangshi',  1.1510e+02,  30.22)
+ ('Zhuzhou',  1.1315e+02,  27.83) ('Shaoguan',  1.1358e+02,  24.8 )
+ ('Guilin',  1.1028e+02,  25.28) ('Matola',  3.2460e+01, -25.97)
+ ('Puente Alto', -7.0570e+01, -33.61)
+ ('Aguascalientes', -1.0230e+02,  21.88) ('Benghazi',  2.0070e+01,  32.12)
+ ('Fuxin',  1.2165e+02,  42.01) ('Shizuoka',  1.3839e+02,  34.98)
+ ('Ipoh',  1.0107e+02,   4.6 ) ('Contagem', -4.4100e+01, -19.91)
+ ('Joao Pessoa', -3.4860e+01,  -7.12) ('Dushanbe',  6.8780e+01,  38.57)
+ ('Zhanjiang',  1.1038e+02,  21.2 ) ('Xingtai',  1.1449e+02,  37.07)
+ ('Okayama',  1.3392e+02,  34.67) ('Yogyakarta',  1.1037e+02,  -7.78)
+ ('Bhilai',  8.1380e+01,  21.21) ('Mudanjiang',  1.2960e+02,  44.58)
+ ('Zigong',  1.0478e+02,  29.4 ) ('Colombo',  7.9850e+01,   6.93)
+ ('Wahran', -6.2000e-01,  35.7 ) ('Enugu',  7.5100e+00,   6.44)
+ ('Santo Andre', -4.6530e+01, -23.65)
+ ('Chimalhuacan', -9.8960e+01,  19.44) ('Memphis', -9.0010e+01,  35.11)
+ ('Shatian',  1.1419e+02,  22.38) ('Kumamoto',  1.3071e+02,  32.8 )
+ ('Zhangdian',  1.1806e+02,  36.8 )
+ ('Sao Jose dos Ca', -4.5880e+01, -23.2 )
+ ('Acapulco', -9.9920e+01,  16.85) ('Quebec', -7.1230e+01,  46.82)
+ ('Zaria',  7.7100e+00,  11.08) ('Dasmarinas',  1.2093e+02,  14.33)
+ ('Nantong',  1.2082e+02,  32.02) ('Xiangtan',  1.1290e+02,  27.85)
+ ('Shaoyang',  1.1120e+02,  27.  ) ('Pointe Noire',  1.1870e+01,  -4.77)
+ ('Queretaro', -1.0040e+02,  20.59) ('Charlotte', -8.0830e+01,  35.2 )
+ ('Panjin',  1.2205e+02,  41.18) ('Hamilton', -7.9850e+01,  43.26)
+ ('Saltillo', -1.0100e+02,  25.42) ('Islamabad',  7.3060e+01,  33.72)
+ ('Ansan',  1.2686e+02,  37.35) ('Jamshedpur',  8.6200e+01,  22.79)
+ ('Cancun', -8.6830e+01,  21.17) ('Zaragoza', -8.9000e-01,  41.65)
+ ('Frankfurt',  8.6800e+00,  50.12) ('Palermo',  1.3360e+01,  38.12)
+ ('Dandong',  1.2440e+02,  40.13) ('Haikou',  1.1032e+02,  20.05)
+ ('Amravati',  7.7760e+01,  20.95) ("'Adan",  4.5030e+01,  12.79)
+ ('Winnipeg', -9.7170e+01,  49.88) ('Zhangzhou',  1.1767e+02,  24.52)
+ ('Sagamihara',  1.3938e+02,  35.58) ('Kuching',  1.1034e+02,   1.55)
+ ('Kataka',  8.5880e+01,  20.47) ('Gazzah',  3.4440e+01,  31.53)
+ ('El Paso', -1.0644e+02,  31.85) ('Wroc?aw',  1.7030e+01,  51.11)
+ ('Krasnodar',  3.8980e+01,  45.03) ('Zhenjiang',  1.1943e+02,  32.22)
+ ('Asmara',  3.8940e+01,  15.33) ('Benoni',  2.8330e+01, -26.15)
+ ('Baltimore', -7.6610e+01,  39.3 ) ('Mersin',  3.4630e+01,  36.81)
+ ('Izhevsk',  5.3230e+01,  56.85) ('Yancheng',  1.2012e+02,  33.39)
+ ('Yuanlong',  1.1402e+02,  22.44) ('Uberlandia', -4.8280e+01, -18.9 )
+ ('Hermosillo', -1.1097e+02,  29.07) ('Ulyanovsk',  4.8400e+01,  54.33)
+ ('Bouake', -5.0300e+00,   7.69) ('Santiago', -7.0690e+01,  19.48)
+ ('Mexicali', -1.1547e+02,  32.65) ('Hai Phong',  1.0668e+02,  20.86)
+ ('Anyang',  1.2692e+02,  37.39) ('Dadiangas',  1.2525e+02,   6.1 )
+ ('Jos',  8.8900e+00,   9.93) ('Oshogbo',  4.5600e+00,   7.77)
+ ('Sorocaba', -4.7470e+01, -23.49) ('Morelia', -1.0118e+02,  19.72)
+ ("al-'Ayn",  5.5740e+01,  24.23) ('Bikaner',  7.3320e+01,  28.03)
+ ('Taizhou',  1.1990e+02,  32.49) ('Chongju',  1.2750e+02,  36.64)
+ ('Xiamen',  1.1808e+02,  24.45) ('Antipolo',  1.2118e+02,  14.59)
+ ('Cochabamba', -6.6170e+01, -17.38) ('Culiacan', -1.0739e+02,  24.8 )
+ ('Kagoshima',  1.3056e+02,  31.59) ('Siping',  1.2433e+02,  43.17)
+ ('Yingkou',  1.2228e+02,  40.67) ('Luancheng',  1.1465e+02,  37.88)
+ ('Banjarmasin',  1.1459e+02,  -3.33) ('Orumiyeh',  4.5000e+01,  37.53)
+ ('Diyarbak?r',  4.0230e+01,  37.92) ('Yaroslavl',  3.9870e+01,  57.62)
+ ('Chisinau',  2.8830e+01,  47.03) ('Djibouti',  4.3150e+01,  11.59)
+ ('Mixco', -9.0600e+01,  14.64) ('Seattle', -1.2235e+02,  47.62)
+ ('Rotterdam',  4.4800e+00,  51.93) ('Stuttgart',  9.1900e+00,  48.79)
+ ('Khabarovsk',  1.3512e+02,  48.42) ('Jinzhou',  1.2110e+02,  41.12)
+ ('San Pedro Sula', -8.8030e+01,  15.47)
+ ('Kisangani',  2.5190e+01,   0.53) ('Bengbu',  1.1733e+02,  32.95)
+ ('Irkutsk',  1.0424e+02,  52.33) ('Shihezi',  8.6030e+01,  44.3 )
+ ('Maracay', -6.7470e+01,  10.33) ('Cucuta', -7.2510e+01,   7.88)
+ ('Bhavnagar',  7.2130e+01,  21.79) ('Port Said',  3.2290e+01,  31.26)
+ ('Genoa',  8.9300e+00,  44.42) ('Denver', -1.0487e+02,  39.77)
+ ('Dortmund',  7.4800e+00,  51.51) ('Barnaul',  8.3750e+01,  53.36)
+ ('Jiangmen',  1.1308e+02,  22.58) ('Veracruz', -9.6140e+01,  19.19)
+ ('Washington', -7.7020e+01,  38.91) ('Vladivostok',  1.3190e+02,  43.13)
+ ('Ribeirao Preto', -4.7800e+01, -21.17)
+ ('Mar del Plata', -5.7580e+01, -38.  ) ('Boston', -7.1020e+01,  42.34)
+ ('Eskisehir',  3.0520e+01,  39.79) ('Warangal',  7.9580e+01,  18.01)
+ ('Zahedan',  6.0830e+01,  29.5 ) ('Dusseldorf',  6.7900e+00,  51.24)
+ ('Essen',  7.0000e+00,  51.47) ('Kaifeng',  1.1435e+02,  34.85)
+ ('Glasgow', -4.2700e+00,  55.87) ('Kingston', -7.6800e+01,  17.99)
+ ('Shah Alam',  1.0156e+02,   3.07) ('Maoming',  1.1087e+02,  21.92)
+ ('Hachioji',  1.3933e+02,  35.66) ('Funabashi',  1.3999e+02,  35.7 )
+ ('Hamhung',  1.2754e+02,  39.91) ('Sargodha',  7.2670e+01,  32.08)
+ ('Meknes', -5.5600e+00,  33.9 ) ('Las Vegas', -1.1522e+02,  36.21)
+ ('Villa Nueva', -9.0590e+01,  14.53) ('Resht',  4.9630e+01,  37.3 )
+ ('Cangzhou',  1.1687e+02,  38.32) ('Tanggu',  1.1767e+02,  39.  )
+ ('Helsinki',  2.4940e+01,  60.17) ('Malaga', -4.4200e+00,  36.72)
+ ('Milwaukee', -8.7970e+01,  43.06) ('Nashville', -8.6780e+01,  36.17)
+ ('Ife',  4.5600e+00,   7.48) ("at-Ta'if",  4.0380e+01,  21.26)
+ ('Changde',  1.1168e+02,  29.03) ('Surakarta',  1.1082e+02,  -7.57)
+ ('Bloemfontein',  2.6230e+01, -29.15) ('Poznan',  1.6900e+01,  52.4 )
+ ('Barcelona', -6.4720e+01,  10.13) ('Reynosa', -9.8280e+01,  26.08)
+ ('Lopez Mateos', -9.9260e+01,  19.57) ('Cuiaba', -5.6090e+01, -15.61)
+ ('Bangui',  1.8560e+01,   4.36) ('Xigong',  1.1425e+02,  22.33)
+ ('Shiliguri',  8.8420e+01,  26.73) ('Oklahoma City', -9.7510e+01,  35.47)
+ ('Louisville', -8.5740e+01,  38.22) ('Jiamusi',  1.3035e+02,  46.83)
+ ('Huaiyin',  1.1903e+02,  33.58) ('Welkom',  2.6730e+01, -27.97)
+ ('Kolhapur',  7.4220e+01,  16.7 ) ('Rajpur',  8.8440e+01,  22.44)
+ ('Ulhasnagar',  7.3150e+01,  19.23) ('Bremen',  8.8100e+00,  53.08)
+ ('San Salvador', -8.9190e+01,  13.69) ('Tembisa',  2.8220e+01, -25.99)
+ ('Banqiao',  1.2144e+02,  25.02) ('Maanshan',  1.1848e+02,  31.73)
+ ('Portland', -1.2266e+02,  45.54) ('Toluca', -9.9670e+01,  19.29)
+ ('Gold Coast',  1.5344e+02, -28.07)
+ ('Kota Kinabalu',  1.1607e+02,   5.97) ('Agadir', -9.6100e+00,  30.42)
+ ('Vilnius',  2.5270e+01,  54.7 ) ('Orenburg',  5.5100e+01,  51.78)
+ ('Ajmer',  7.4640e+01,  26.45) ('Guntur',  8.0440e+01,  16.31)
+ ('Neijiang',  1.0505e+02,  29.58) ('Durgapur',  8.7310e+01,  23.5 )
+ ('Salta', -6.5410e+01, -24.79) ('Novokuznetsk',  8.7100e+01,  53.75)
+ ('Yangzhou',  1.1943e+02,  32.4 ) ('Shashi',  1.1223e+02,  30.32)
+ ('Aparecida de Go', -4.9240e+01, -16.82)
+ ('Asuncion', -5.7630e+01, -25.3 )
+ ('Ribeirao das Ne', -4.4080e+01, -19.76)
+ ('Sangli-Miraj',  7.4570e+01,  16.86)
+ ('Petaling Jaya',  1.0162e+02,   3.1 ) ('Dehra Dun',  7.8050e+01,  30.34)
+ ('Maturin', -6.3170e+01,   9.75) ('Torreon', -1.0343e+02,  25.55)
+ ('Jiaozuo',  1.1322e+02,  35.25) ('Zhuhai',  1.1357e+02,  22.28)
+ ('Nanded',  7.7290e+01,  19.17) ('Tyumen',  6.5530e+01,  57.15)
+ ('Albuquerque', -1.0662e+02,  35.12) ('Suez',  3.2540e+01,  29.98)
+ ('Cagayan',  1.2467e+02,   8.45) ('Mwanza',  3.2890e+01,  -2.52)
+ ('Petare', -6.6830e+01,  10.52) ('Soledad', -7.4770e+01,  10.92)
+ ('Uijongbu',  1.2704e+02,  37.74) ('Yueyang',  1.1310e+02,  29.38)
+ ("Ta'izz",  4.4040e+01,  13.6 ) ('Feira de Santan', -3.8970e+01, -12.25)
+ ('Tucson', -1.1089e+02,  32.2 ) ('Naberezhnyye Ch',  5.2320e+01,  55.69)
+ ('Matsuyama',  1.3277e+02,  33.84) ('Kerman',  5.7080e+01,  30.3 )
+ ('Garoua',  1.3390e+01,   9.3 ) ('Tuxtla Gutierre', -9.3120e+01,  16.75)
+ ('Tlaquepaque', -1.0332e+02,  20.64) ('Jammu',  7.4850e+01,  32.71)
+ ('Gulbarga',  7.6820e+01,  17.34) ('Jamnagar',  7.0070e+01,  22.47)
+ ('Hanover',  9.7300e+00,  52.4 ) ('Chiclayo', -7.9840e+01,  -6.76)
+ ('Bucaramanga', -7.3130e+01,   7.13) ('Goteborg',  1.2010e+01,  57.72)
+ ('Ryazan',  3.9740e+01,  54.62) ('Bahawalpur',  7.1670e+01,  29.39)
+ ('Bhatpara',  8.8420e+01,  22.89) ('Zhunmen',  1.1398e+02,  22.41)
+ ('Calamba',  1.2115e+02,  14.21) ('Changwon',  1.2862e+02,  35.27)
+ ('Zunyi',  1.0692e+02,  27.7 ) ('Lipetsk',  3.9620e+01,  52.62)
+ ('Dresden',  1.3740e+01,  51.05) ('Aracaju', -3.7070e+01, -10.91)
+ ('H?amah',  3.6730e+01,  35.15) ('Saharanpur',  7.7540e+01,  29.97)
+ ('Niyala',  2.4890e+01,  12.06) ('San Nicolas de ', -1.0030e+02,  25.75)
+ ('Leipzig',  1.2400e+01,  51.35) ('al-H?illah',  4.4430e+01,  32.48)
+ ('Xuchang',  1.1382e+02,  34.02) ('Higashiosaka',  1.3559e+02,  34.67)
+ ('Wuhu',  1.1837e+02,  31.35) ('Kananga',  2.2400e+01,  -5.89)
+ ('Boma',  1.3050e+01,  -5.85) ('Atlanta', -8.4420e+01,  33.76)
+ ('Tabuk',  3.6570e+01,  28.39) ('Mykolayiv',  3.2000e+01,  46.97)
+ ('Nuremberg',  1.1050e+01,  49.45)
+ ('Cuautitlan Izca', -9.9250e+01,  19.65)
+ ('Santa Fe', -6.0690e+01, -31.6 ) ('Londrina', -5.1180e+01, -23.3 )
+ ('Bombay',  7.2820e+01,  18.96)]
+random start point being given row=46
+Distance 71019.0142891
+Distance 71016.964119
+Distance 70997.6637843
+Distance 70935.2571581
+Distance 70925.9606568
+Distance 70757.8449023
+Distance 70735.6534112
+Distance 70730.7742412
+Distance 70728.2394331
+Distance 70687.5894116
+Distance 70519.6906624
+Distance 70421.0003299
+Distance 70286.3038428
+Distance 70271.5941646
+Distance 70211.5047233
+Distance 70208.0205464
+Distance 70198.3545771
+Distance 70192.2294152
+Distance 69955.2335114
+Distance 69918.833258
+Distance 69917.2508487
+Distance 69894.3740897
+Distance 69891.5751829
+Distance 69881.43824
+Distance 69877.4587218
+Distance 69811.5329193
+Distance 69808.8006995
+Distance 69796.9199357
+Distance 69767.4877436
+Distance 69643.5847292
+Distance 69638.1242874
+Distance 69587.1915233
+Distance 69556.0873272
+Distance 69521.6207977
+Distance 69478.4003205
+Distance 69344.5471394
+Distance 69343.8207807
+Distance 69284.5200314
+Distance 69281.1728339
+Distance 69276.1402058
+Distance 69274.6112513
+Distance 69199.6612988
+Distance 69112.3354059
+Distance 69049.9089958
+Distance 68980.2007224
+Distance 68979.2649888
+Distance 68919.5239684
+Distance 68840.9009689
+Distance 68836.1668401
+Distance 68758.4802303
+Distance 68758.3055721
+Distance 68756.4420555
+Distance 68746.6829237
+Distance 68742.0447586
+Distance 68708.5301667
+Distance 68643.695169
+Distance 68556.6523642
+Distance 68552.8909177
+Distance 68549.1323887
+Distance 68545.7783638
+Distance 68496.9417173
+Distance 68425.9393188
+Distance 68399.8493025
+Distance 68351.9991593
+Distance 68347.8617108
+Distance 68300.1481461
+Distance 68248.5280623
+Distance 68240.1645851
+Distance 68093.5178404
+Distance 68093.4266556
+Distance 68000.5646724
+Distance 67951.160032
+Distance 67725.9977502
+Distance 67364.6252846
+Distance 67358.5591981
+Distance 67356.7966431
+Distance 67347.4347151
+Distance 67337.4656012
+Distance 67132.2485433
+Distance 67128.8492506
+Distance 67119.4004235
+Distance 67118.5522124
+Distance 67115.3079531
+Distance 67113.4168481
+Distance 67113.3177043
+Distance 67075.824257
+Distance 67068.2966795
+Distance 67054.8631213
+Distance 67048.7410245
+Distance 67012.9124026
+Distance 67003.9287282
+Distance 66945.8075216
+Distance 66812.5740537
+Distance 66807.1856848
+Distance 66644.6852592
+Distance 66599.7588014
+Distance 66599.3406349
+Distance 66596.0777659
+Distance 66572.3869825
+Distance 66555.0002
+Distance 66507.6120978
+Distance 66410.6273518
+Distance 66408.7296136
+Distance 66408.0519142
+Distance 66342.2536561
+Distance 66329.3994776
+Distance 66216.7636073
+Distance 66212.9064614
+Distance 66212.6846417
+Distance 66188.0881924
+Distance 66151.6231168
+Distance 66151.3130235
+Distance 66145.0059592
+Distance 66138.4510199
+Distance 66115.4043748
+Distance 66085.0240286
+Distance 66084.7139353
+Distance 66084.1310964
+Distance 66039.8478916
+Distance 66027.3428044
+Distance 66015.4428085
+Distance 66008.3808393
+Distance 65998.073678
+Distance 65994.8441629
+Distance 65964.079146
+Distance 65961.3927209
+Distance 65741.078747
+Distance 65735.4036717
+Distance 65551.4930443
+Distance 65499.4781637
+Distance 65493.2560342
+Distance 65492.6329131
+Distance 65490.8385575
+Distance 65490.1397012
+Distance 65437.8207843
+Distance 65434.6665953
+Distance 65424.335848
+Distance 65397.7328378
+Distance 65387.6184073
+Distance 65346.2991926
+Distance 65333.9475285
+Distance 65314.6158669
+Distance 65310.5216011
+Distance 65307.2475738
+Distance 65277.68529
+Distance 65218.4776549
+Distance 65207.5489528
+Distance 65187.5150747
+Distance 65160.5286745
+Distance 65160.0307317
+Distance 65155.5151142
+Distance 65119.0503293
+Distance 65108.5422347
+Distance 65106.017838
+Distance 65087.2860814
+Distance 65086.8688276
+Distance 65086.4505775
+Distance 65086.3020897
+Distance 65079.8452879
+Distance 65075.8187072
+Distance 65075.7664614
+Distance 65075.1759938
+Distance 65075.1455862
+Distance 65071.4026229
+Distance 65069.8292569
+Distance 64940.1544448
+Distance 64888.8032009
+Distance 64874.4459835
+Distance 64860.3351962
+Distance 64858.9700234
+Distance 64738.885456
+Distance 64737.7823717
+Distance 64623.1803456
+Distance 64619.5773484
+Distance 64596.6241457
+Distance 64596.4558126
+Distance 64416.3339757
+Distance 64415.2698109
+Distance 64407.3089626
+Distance 64201.4056893
+Distance 64188.355812
+Distance 64187.7509241
+Distance 64181.2871056
+Distance 64180.9510043
+Distance 63989.5759573
+Distance 63971.6050462
+Distance 63969.6866373
+Distance 63969.3212399
+Distance 63930.1878383
+Distance 63927.891031
+Distance 63923.2634511
+Distance 63898.8984384
+Distance 63860.2664662
+Distance 63792.7028419
+Distance 63791.8828844
+Distance 63785.9786921
+Distance 63746.2380577
+Distance 63648.6934958
+Distance 63646.4848393
+Distance 63634.1397591
+Distance 63584.0162525
+Distance 63501.596417
+Distance 63498.4584301
+Distance 63498.4482754
+Distance 63496.1584333
+Distance 63481.2230763
+Distance 63466.7792468
+Distance 63458.5721795
+Distance 63425.4401974
+Distance 63423.1503553
+Distance 63407.3832826
+Distance 63405.7561722
+Distance 63341.359312
+Distance 63319.5099793
+Distance 63318.0950571
+Distance 63313.7897633
+Distance 63308.7953392
+Distance 63294.8139908
+Distance 63114.8117857
+Distance 63114.10536
+Distance 63091.9061185
+Distance 63026.7583351
+Distance 62980.9710634
+Distance 62968.8680984
+Distance 62955.0012171
+Distance 62900.9553114
+Distance 62843.7457696
+Distance 62843.1269207
+Distance 62792.3344804
+Distance 62744.9901303
+Distance 62559.7273482
+Distance 62553.6152842
+Distance 62533.7729449
+Distance 62532.7776052
+Distance 62503.6407075
+Distance 62465.6696757
+Distance 62303.9618402
+Distance 62270.622517
+Distance 62265.2749297
+Distance 62247.2319725
+Distance 62217.3877099
+Distance 62210.3925525
+Distance 62165.7135313
+Distance 62165.6856585
+Distance 62158.867298
+Distance 62053.0164035
+Distance 62047.5608595
+Distance 62025.0531001
+Distance 62022.1000346
+Distance 62018.6603123
+Distance 61983.8324847
+Distance 61861.1971921
+Distance 61859.2887845
+Distance 61723.7432641
+Distance 61716.1158572
+Distance 61715.0044152
+Distance 61702.4230965
+Distance 61696.7072824
+Distance 61688.7324123
+Distance 61643.1989448
+Distance 61477.4603247
+Distance 61463.5838785
+Distance 61456.9470289
+Distance 61193.2114308
+Distance 61192.2410532
+Distance 60877.0248957
+Distance 60832.5910901
+Distance 60828.5753344
+Distance 60794.8060112
+Distance 60787.6732325
+Distance 60748.0011304
+Distance 60683.9444237
+Distance 60663.5386447
+Distance 60658.4239195
+Distance 60658.34744
+Distance 60650.9280673
+Distance 60650.4843833
+Distance 60650.4676955
+Distance 60639.8475869
+Distance 60635.9819941
+Distance 60603.1777325
+Distance 60591.8620986
+Distance 60590.5371906
+Distance 60584.7896141
+Distance 60387.1940731
+Distance 60378.295228
+Distance 60356.1650351
+Distance 60352.8308917
+Distance 60205.2469838
+Distance 60184.447656
+Distance 60142.8391301
+Distance 60119.8133273
+Distance 60115.9001956
+Distance 60111.9523099
+Distance 60110.9238384
+Distance 60087.9101036
+Distance 60083.5543891
+Distance 60018.5980915
+Distance 60018.5509186
+Distance 60016.6955515
+Distance 60000.2651146
+Distance 59999.7649759
+Distance 59996.8264177
+Distance 59973.6632668
+Distance 59902.1127681
+Distance 59900.0868073
+Distance 59772.1909169
+Distance 59771.6907782
+Distance 59676.5563488
+Distance 59604.14417
+Distance 59603.8986415
+Distance 59602.7712665
+Distance 59490.4086148
+Distance 59396.8418285
+Distance 59317.8765667
+Distance 59219.1768455
+Distance 59203.2558928
+Distance 59193.5437522
+Distance 59189.6982974
+Distance 59093.9199746
+Distance 59092.0791287
+Distance 59082.1606294
+Distance 59078.7108427
+Distance 58885.4371686
+Distance 58884.3422908
+Distance 58701.2966148
+Distance 58700.8194347
+Distance 58542.0006853
+Distance 58362.7539765
+Distance 58160.6013446
+Distance 58158.5588666
+Distance 57896.9430147
+Distance 57893.8685751
+Distance 57880.8490057
+Distance 57877.0372328
+Distance 57876.972109
+Distance 57753.84753
+Distance 57753.8118089
+Distance 57669.7502057
+Distance 57669.1697451
+Distance 57648.4674941
+Distance 57353.1830469
+Distance 57273.4904751
+Distance 57273.4253513
+Distance 57270.7373484
+Distance 56967.6066978
+Distance 56949.8081116
+Distance 56947.8052096
+Distance 56676.3254905
+Distance 56599.0303132
+Distance 56592.4822158
+Distance 56396.4895671
+Distance 56394.4981756
+Distance 56388.6579776
+Distance 56383.314535
+Distance 56188.008745
+Distance 56009.4142384
+Distance 56001.084331
+Distance 56000.4394171
+Distance 56000.240994
+Distance 55999.1529314
+Distance 55996.3017685
+Distance 55981.960326
+Distance 55804.5853198
+Distance 55741.1167686
+Distance 55637.8629979
+Distance 55627.8558996
+Distance 55611.8704631
+Distance 55611.2981193
+Distance 55571.332472
+Distance 55471.6333839
+Distance 55434.7067659
+Distance 55434.6819049
+Distance 55407.4807902
+Distance 55401.1006169
+Distance 55215.875947
+Distance 55100.3403703
+Distance 55082.8109499
+Distance 55082.34412
+Distance 54984.7400535
+Distance 54983.4494623
+Distance 54947.873687
+Distance 54852.2248507
+Distance 54851.4911406
+Distance 54845.4642276
+Distance 54843.1159897
+Distance 54745.6856107
+Distance 54743.247828
+Distance 54650.2748709
+Distance 54647.2001834
+Distance 54640.7874519
+Distance 54638.7002002
+Distance 54637.3748215
+Distance 54498.5210623
+Distance 54481.8712722
+Distance 54478.5947558
+Distance 54477.7849586
+Distance 54369.0949144
+Distance 54342.5869203
+Distance 54133.4691901
+Distance 53911.8860863
+Distance 53902.4874952
+Distance 53900.6137804
+Distance 53767.6593952
+Distance 53762.772466
+Distance 53758.9558226
+Distance 53738.622318
+Distance 53736.7390928
+Distance 53736.6746973
+Distance 53720.4737203
+Distance 53709.762438
+Distance 53649.4301574
+Distance 53384.668893
+Distance 53384.6660939
+Distance 53220.586006
+Distance 53065.7840265
+Distance 53065.4631451
+Distance 52955.074728
+Distance 52945.6495493
+Distance 52837.0064881
+Distance 52835.6102694
+Distance 52815.1440747
+Distance 52808.6200748
+Distance 52647.0975088
+Distance 52587.7293445
+Distance 52584.2116767
+Distance 52584.1323068
+Distance 52450.9701195
+Distance 52448.6967726
+Distance 52304.3055919
+Distance 52304.2731544
+Distance 52297.2832317
+Distance 52168.0420198
+Distance 52120.8250598
+Distance 52117.2713924
+Distance 52112.0608109
+Distance 52109.5848487
+Distance 52058.5858198
+Distance 52051.4643546
+Distance 52047.5343596
+Distance 52041.142247
+Distance 52014.3076021
+Distance 52008.348132
+Distance 52008.0570191
+Distance 51997.97644
+Distance 51996.1523936
+Distance 51994.9423352
+Distance 51954.3652337
+Distance 51946.970607
+Distance 51788.6502682
+Distance 51772.7810938
+Distance 51772.4011427
+Distance 51770.5622909
+Distance 51768.987533
+Distance 51604.6153513
+Distance 51600.9536071
+Distance 51492.3854386
+Distance 51492.1219304
+Distance 51490.0253375
+Distance 51442.5737859
+Distance 51409.939969
+Distance 51331.6570219
+Distance 51328.4470901
+Distance 51215.6740432
+Distance 51210.4550291
+Distance 51187.3456174
+Distance 51168.1771345
+Distance 51163.1528898
+Distance 51162.356895
+Distance 51156.507304
+Distance 51156.1522343
+Distance 51138.4053663
+Distance 51101.345521
+Distance 51096.3212763
+Distance 50961.5550105
+Distance 50952.0373682
+Distance 50945.6745068
+Distance 50929.1093881
+Distance 50876.228606
+Distance 50863.3975655
+Distance 50744.8505495
+Distance 50736.8012034
+Distance 50703.8076915
+Distance 50694.3285539
+Distance 50691.6984695
+count is:3
+Best case recieved is:
+[('Bombay',  7.2820e+01,  18.96) ('Shanghai',  1.2147e+02,  31.23)
+ ('Karachi',  6.7010e+01,  24.86) ('Buenos Aires', -5.8370e+01, -34.61)
+ ('Istanbul',  2.9000e+01,  41.1 ) ('Delhi',  7.7210e+01,  28.67)
+ ('Manila',  1.2097e+02,  14.62) ('Sao Paulo', -4.6630e+01, -23.53)
+ ('Moscow',  3.7620e+01,  55.75) ('Soul',  1.2699e+02,  37.56)
+ ('Dhaka',  9.0390e+01,  23.7 ) ('Kinshasa',  1.5320e+01,  -4.31)
+ ('Mexico City', -9.9140e+01,  19.43) ('Lagos',  3.3500e+00,   6.5 )
+ ('Jakarta',  1.0683e+02,  -6.18) ('Tokyo',  1.3977e+02,  35.67)
+ ('Tehran',  5.1430e+01,  35.67) ('Cairo',  3.1250e+01,  30.06)
+ ('Lima', -7.7050e+01, -12.07) ('New York', -7.3940e+01,  40.67)
+ ('London', -1.0000e-01,  51.52) ('Peking',  1.1640e+02,  39.93)
+ ('Lahore',  7.4350e+01,  31.56) ('Rio de Janeiro', -4.3200e+01, -22.91)
+ ('Bogota', -7.4090e+01,   4.63) ('Bagdad',  4.4440e+01,  33.33)
+ ('Bangalore',  7.7560e+01,  12.97) ('Bangkok',  1.0050e+02,  13.73)
+ ('Singapore',  1.0385e+02,   1.3 ) ('Santiago', -7.0640e+01, -33.46)
+ ('Toronto', -7.9380e+01,  43.65) ('Calcutta',  8.8360e+01,  22.57)
+ ('Rangoon',  9.6150e+01,  16.79) ('Riyadh',  4.6770e+01,  24.65)
+ ('Ibadan',  3.9300e+00,   7.38) ('Madras',  8.0270e+01,  13.09)
+ ('Ho Chi Minh Cit',  1.0669e+02,  10.78)
+ ('Chongqing',  1.0658e+02,  29.57) ('Wuhan',  1.1427e+02,  30.58)
+ ('Xian',  1.0890e+02,  34.27) ('Saint Petersbur',  3.0320e+01,  59.93)
+ ('Alexandria',  2.9950e+01,  31.22) ('Hyderabad',  7.8480e+01,  17.4 )
+ ('Chengdu',  1.0407e+02,  30.67) ('Ankara',  3.2850e+01,  39.93)
+ ('Los Angeles', -1.1841e+02,  34.11) ('Abidjan', -4.0300e+00,   5.33)
+ ('Ahmadabad',  7.2580e+01,  23.03) ('Chattagam',  9.1810e+01,  22.33)
+ ('Tianjin',  1.1720e+02,  39.13) ('Yokohama',  1.3962e+02,  35.47)
+ ('Sydney',  1.5121e+02, -33.87) ('Melbourne',  1.4496e+02, -37.81)
+ ('Berlin',  1.3380e+01,  52.52) ('Shenyang',  1.2345e+02,  41.8 )
+ ('Pusan',  1.2903e+02,  35.11) ('Montreal', -7.3570e+01,  45.52)
+ ('Cape Town',  1.8460e+01, -33.93) ('Durban',  3.0990e+01, -29.87)
+ ('Gizeh',  3.1210e+01,  30.01) ('Harbin',  1.2665e+02,  45.75)
+ ('Nanjing',  1.1878e+02,  32.05) ('Pune',  7.3840e+01,  18.53)
+ ('Surat',  7.2820e+01,  21.2 ) ('Addis Abeba',  3.8740e+01,   9.03)
+ ('Casablanca', -7.6200e+00,  33.6 ) ('Madrid', -3.7100e+00,  40.42)
+ ('Pyongyang',  1.2575e+02,  39.02) ('Guangzhou',  1.1325e+02,  23.12)
+ ('Kanpur',  8.0330e+01,  26.47) ('Nairobi',  3.6820e+01,  -1.29)
+ ('Jiddah',  3.9170e+01,  21.5 ) ('Jaipur',  7.5800e+01,  26.92)
+ ('Dar es Salaam',  3.9280e+01,  -6.82) ('Salvador', -3.8500e+01, -12.97)
+ ('Chicago', -8.7680e+01,  41.84) ('Faisalabad',  7.3110e+01,  31.41)
+ ('al-Mawsil',  4.3140e+01,  36.34) ('Izmir',  2.7150e+01,  38.43)
+ ('Taiyuan',  1.1255e+02,  37.87) ('Taibei',  1.2145e+02,  25.02)
+ ('Osaka',  1.3550e+02,  34.68) ('Inchon',  1.2664e+02,  37.48)
+ ('Changchun',  1.2535e+02,  43.87) ('Lakhnau',  8.0920e+01,  26.85)
+ ('Luanda',  1.3240e+01,  -8.82) ('Kiev',  3.0520e+01,  50.43)
+ ('Rome',  1.2500e+01,  41.89) ('Dakar', -1.7480e+01,  14.72)
+ ('Mashhad',  5.9570e+01,  36.27) ('Kabul',  6.9170e+01,  34.53)
+ ('Fortaleza', -3.8590e+01,  -3.78)
+ ('Belo Horizonte', -4.3940e+01, -19.92)
+ ('Santo Domingo', -6.9910e+01,  18.48) ('Maracaibo', -7.1660e+01,  10.73)
+ ('Brasilia', -4.7910e+01, -15.78) ('Umm Durman',  3.2480e+01,  15.65)
+ ('Nagpur',  7.9080e+01,  21.16) ('Taegu',  1.2860e+02,  35.87)
+ ('Surabaya',  1.1274e+02,  -7.24) ('Kano',  8.5200e+00,  12.  )
+ ('Medellin', -7.5540e+01,   6.29) ('Accra', -2.0000e-01,   5.56)
+ ('Benin',  5.6200e+00,   6.34) ('Shijiazhuang',  1.1448e+02,  38.05)
+ ('Nagoya',  1.3691e+02,  35.15) ('Changsha',  1.1297e+02,  28.2 )
+ ('Khartoum',  3.2520e+01,  15.58) ('Houston', -9.5390e+01,  29.77)
+ ('Guayaquil', -7.9900e+01,  -2.21) ('Cali', -7.6520e+01,   3.44)
+ ('Jinan',  1.1700e+02,  36.67) ('Algiers',  3.0400e+00,  36.77)
+ ('Havanna', -8.2390e+01,  23.13) ('Paris',  2.3400e+00,  48.86)
+ ('Tashkent',  6.9300e+01,  41.31) ('Jilin',  1.2655e+02,  43.85)
+ ('Dalian',  1.2165e+02,  38.92) ('Zhengzhou',  1.1367e+02,  34.75)
+ ('Nanchang',  1.1588e+02,  28.68) ('Bayrut',  3.5500e+01,  33.89)
+ ('Vancouver', -1.2313e+02,  49.28) ('Douala',  9.7100e+00,   4.06)
+ ('Johannesburg',  2.8040e+01, -26.19) ('Jiulong',  1.1417e+02,  22.32)
+ ('Kaduna',  7.4400e+00,  10.52) ('Ecatepec', -9.9050e+01,  19.6 )
+ ('Caracas', -6.6930e+01,  10.54) ('Port Harcourt',  7.0100e+00,   4.81)
+ ('Bucharest',  2.6100e+01,  44.44) ('Sapporo',  1.4134e+02,  43.06)
+ ('Hangzhou',  1.2017e+02,  30.25) ('Rawalpindi',  7.3040e+01,  33.6 )
+ ("San'a",  4.4210e+01,  15.38) ('Curitiba', -4.9290e+01, -25.42)
+ ('Conakry', -1.3670e+01,   9.55) ('al-Basrah',  4.7820e+01,  30.53)
+ ('Xinyang',  1.1407e+02,  32.13) ('Brisbane',  1.5302e+02, -27.46)
+ ('Medan',  9.8670e+01,   3.59) ('Indore',  7.5860e+01,  22.72)
+ ('Kumasi', -1.6300e+00,   6.69) ('Manaus', -6.0020e+01,  -3.12)
+ ('Rabat', -6.8400e+00,  34.02) ('Minsk',  2.7550e+01,  53.91)
+ ('Hamburg',  1.0000e+01,  53.55) ('Valencia', -6.7980e+01,  10.23)
+ ('Soweto',  2.7840e+01, -26.28) ('Bhopal',  7.7400e+01,  23.24)
+ ('Patna',  8.5130e+01,  25.62) ('Qingdao',  1.2032e+02,  36.07)
+ ('Warsaw',  2.1020e+01,  52.26) ('Vienna',  1.6370e+01,  48.22)
+ ('Yaounde',  1.1520e+01,   3.87) ('Aleppo',  3.7170e+01,  36.23)
+ ('Dubai',  5.5330e+01,  25.27) ('Bekasi',  1.0697e+02,  -6.22)
+ ('Thana',  7.2970e+01,  19.2 ) ('Budapest',  1.9080e+01,  47.51)
+ ('Bamako', -7.9900e+00,  12.65) ('Harare',  3.1050e+01, -17.82)
+ ('Esfahan',  5.1680e+01,  32.68) ('Ludhiana',  7.5840e+01,  30.91)
+ ('Bandung',  1.0760e+02,  -6.91) ('Barcelona',  2.1700e+00,  41.4 )
+ ('Lubumbashi',  2.7480e+01, -11.66) ('Pretoria',  2.8220e+01, -25.73)
+ ('Guadalajara', -1.0335e+02,  20.67) ('Muqdisho',  4.5330e+01,   2.05)
+ ('Tangshan',  1.1819e+02,  39.62) ('Damascus',  3.6320e+01,  33.5 )
+ ('Quito', -7.8500e+01,  -0.19) ('Phoenix', -1.1207e+02,  33.54)
+ ('Urumqi',  8.7580e+01,  43.8 ) ('Agra',  7.8010e+01,  27.19)
+ ('Antananarivo',  4.7510e+01, -18.89) ('Davao',  1.2563e+02,   7.11)
+ ('Kobe',  1.3517e+02,  34.68) ('Santa Cruz', -6.3210e+01, -17.77)
+ ('Tijuana', -1.1702e+02,  32.53) ('Juarez', -1.0649e+02,  31.74)
+ ('Recife', -3.4920e+01,  -8.08) ('Multan',  7.1450e+01,  30.2 )
+ ('Gaoxiong',  1.2027e+02,  22.63) ('Ha Noi',  1.0584e+02,  21.03)
+ ('Cordoba', -6.4190e+01, -31.4 ) ('Belem', -4.8500e+01,  -1.44)
+ ('Lome',  1.3500e+00,   6.17) ('Kampala',  3.2580e+01,   0.32)
+ ('Hyderabad',  6.8370e+01,  25.38) ('Vadodara',  7.3180e+01,  22.31)
+ ('Suzhou',  1.2062e+02,  31.3 ) ('Gujranwala',  7.4180e+01,  32.16)
+ ('Mbuji-Mayi',  2.3590e+01,  -6.13) ('Bursa',  2.9080e+01,  40.2 )
+ ('Karaj',  5.0970e+01,  35.8 ) ('Pimpri',  7.3800e+01,  18.62)
+ ('Tangerang',  1.0663e+02,  -6.18) ('Kyoto',  1.3575e+02,  35.01)
+ ('Kharkiv',  3.6220e+01,  49.98) ('Puebla', -9.8220e+01,  19.05)
+ ('Aba',  7.3500e+00,   5.1 ) ('Kuala Lumpur',  1.0171e+02,   3.16)
+ ('Nashik',  7.3780e+01,  20.01) ('Philadelphia', -7.5130e+01,  40.01)
+ ('Fukuoka',  1.3041e+02,  33.59) ('Taejon',  1.2743e+02,  36.33)
+ ('Lanzhou',  1.0368e+02,  36.05) ('Mecca',  3.9820e+01,  21.43)
+ ('Shantou',  1.1667e+02,  23.37) ('Hefei',  1.1728e+02,  31.85)
+ ('Koyang',  1.2693e+02,  37.7 ) ('Novosibirsk',  8.2930e+01,  55.04)
+ ('Tabriz',  4.6300e+01,  38.08) ('Adana',  3.5320e+01,  37.  )
+ ('Porto Alegre', -5.1220e+01, -30.04) ('Faridabad',  7.7300e+01,  28.38)
+ ('Narayanganj',  9.0500e+01,  23.62) ('Phnum Penh',  1.0492e+02,  11.57)
+ ('Makasar',  1.1941e+02,  -5.14) ('Fushun',  1.2388e+02,  41.87)
+ ('Luoyang',  1.1247e+02,  34.68) ('Khulna',  8.9560e+01,  22.84)
+ ('Lusaka',  2.8290e+01, -15.42) ('Depok',  1.0683e+02,  -6.39)
+ ('Handan',  1.1448e+02,  36.58) ('San Antonio', -9.8510e+01,  29.46)
+ ('Ghaziabad',  7.7410e+01,  28.66) ('Kawasaki',  1.3970e+02,  35.53)
+ ('Kwangju',  1.2691e+02,  35.16) ('Peshawar',  7.1540e+01,  34.01)
+ ('Rajkot',  7.0790e+01,  22.31) ('Mandalay',  9.6090e+01,  21.98)
+ ('Suwon',  1.2701e+02,  37.26) ('Almaty',  7.6920e+01,  43.32)
+ ('Munich',  1.1580e+01,  48.14) ('Milan',  9.1900e+00,  45.48)
+ ('Baotou',  1.1005e+02,  40.6 ) ('Mirat',  7.7700e+01,  28.99)
+ ('Kalyan',  7.3160e+01,  19.25) ('Xianggangdao',  1.1414e+02,  22.27)
+ ('Rongcheng',  1.1634e+02,  23.54) ('Yekaterinburg',  6.0600e+01,  56.85)
+ ('Ouagadougou', -1.5300e+00,  12.37) ('Guarulhos', -4.6490e+01, -23.46)
+ ('Montevideo', -5.6170e+01, -34.87) ('Xuzhou',  1.1718e+02,  34.27)
+ ('Palembang',  1.0475e+02,  -2.99) ('Semarang',  1.1042e+02,  -6.97)
+ ('Perth',  1.1584e+02, -31.96) ('Stockholm',  1.8070e+01,  59.33)
+ ('Dallas', -9.6770e+01,  32.79) ('San Diego', -1.1714e+02,  32.81)
+ ('Goiania', -4.9260e+01, -16.72) ('Gaziantep',  3.7390e+01,  37.07)
+ ('Nizhniy Novgoro',  4.4000e+01,  56.33) ('Fuzhou',  1.1930e+02,  26.08)
+ ('Rosario', -6.0670e+01, -32.94) ('Nezahualcoyotl', -9.9030e+01,  19.41)
+ ('Shiraz',  5.2570e+01,  29.63) ('Shenzhen',  1.1413e+02,  22.53)
+ ('Saitama',  1.3964e+02,  35.87) ('Tripoli',  1.3180e+01,  32.87)
+ ('Yerevan',  4.4520e+01,  40.17) ('Baku',  4.9860e+01,  40.39)
+ ('Varanasi',  8.3010e+01,  25.32) ('Guiyang',  1.0672e+02,  26.58)
+ ('Anshan',  1.2295e+02,  41.12) ('Wuxi',  1.2030e+02,  31.58)
+ ('Subang Jaya',  1.0153e+02,   3.15) ('Brazzaville',  1.5260e+01,  -4.25)
+ ('Leon', -1.0169e+02,  21.12) ('Prague',  1.4430e+01,  50.08)
+ ('Amritsar',  7.4870e+01,  31.64) ('Huainan',  1.1698e+02,  32.63)
+ ('Hiroshima',  1.3244e+02,  34.39) ('Monrovia', -1.0800e+01,   6.31)
+ ('Barranquilla', -7.4800e+01,  10.96) ('Tbilisi',  4.4790e+01,  41.72)
+ ("'Amman",  3.5930e+01,  31.95) ('Abuja',  7.4900e+00,   9.06)
+ ('Omsk',  7.3400e+01,  55.  ) ('Aurangabad',  7.5320e+01,  19.89)
+ ('Navi Mumbai',  7.3060e+01,  19.11) ('Sofia',  2.3310e+01,  42.69)
+ ('Monterrey', -1.0032e+02,  25.67)
+ ('Port Elizabeth',  2.5590e+01, -33.96) ('Maputo',  3.2570e+01, -25.95)
+ ('Allahabad',  8.1840e+01,  25.45) ('Samara',  5.0150e+01,  53.2 )
+ ('Belgrade',  2.0500e+01,  44.83) ('Campinas', -4.7080e+01, -22.91)
+ ('Sholapur',  7.5890e+01,  17.67) ('Kazan',  4.9130e+01,  55.75)
+ ('Irbil',  4.4010e+01,  36.18) ('Barquisimeto', -6.9300e+01,  10.05)
+ ('K?benhavn',  1.2580e+01,  55.67) ('Baoding',  1.1548e+02,  38.87)
+ ('Xianyang',  1.0870e+02,  34.37) ('Maceio', -3.5750e+01,  -9.65)
+ ('Nova Iguacu', -4.3470e+01, -22.74) ('Guatemala', -9.0550e+01,  14.63)
+ ('Maiduguri',  1.3160e+01,  11.85) ('Kunming',  1.0270e+02,  25.05)
+ ('Taizhong',  1.2068e+02,  24.15) ('Datong',  1.1330e+02,  40.08)
+ ('Dublin', -6.2500e+00,  53.33) ('Visakhapatnam',  8.3300e+01,  17.73)
+ ('Jabalpur',  7.9940e+01,  23.17) ('Rostov-na-Donu',  3.9710e+01,  47.24)
+ ("Dnipropetrovs'k",  3.4980e+01,  48.45)
+ ('Shubra-El-Khema',  3.1250e+01,  30.11)
+ ('Srinagar',  7.4790e+01,  34.09) ('Benxi',  1.2375e+02,  41.33)
+ ('Chelyabinsk',  6.1430e+01,  55.15) ('al-Madinah',  3.9590e+01,  24.48)
+ ('Brussels',  4.3300e+00,  50.83) ('Calgary', -1.1406e+02,  51.05)
+ ('Zapopan', -1.0340e+02,  20.72) ('Haora',  8.8330e+01,  22.58)
+ ('Adelaide',  1.3860e+02, -34.93) ('Sendai',  1.4089e+02,  38.26)
+ ('Songnam',  1.2715e+02,  37.44) ('Ranchi',  8.5330e+01,  23.36)
+ ('Ilorin',  4.5500e+00,   8.49) ('Tegucigalpa', -8.7220e+01,  14.09)
+ ('Fez', -5.0000e+00,  34.05) ('Ahvaz',  4.8720e+01,  31.28)
+ ('Ufa',  5.6040e+01,  54.78) ('Chandigarh',  7.6780e+01,  30.75)
+ ('Klang',  1.0145e+02,   3.04) ('Koyampattur',  7.6960e+01,  11.01)
+ ('Qom',  5.0950e+01,  34.65) ('Cologne',  6.9700e+00,  50.95)
+ ('Odesa',  3.0730e+01,  46.47) ('Donetsk',  3.7820e+01,  48.  )
+ ('Jodhpur',  7.3020e+01,  26.29) ('Sao Goncalo', -4.3070e+01, -22.84)
+ ('Sao Luis', -4.4300e+01,  -2.5 ) ('Perm',  5.6250e+01,  58.  )
+ ('Huaibei',  1.1675e+02,  33.95) ('Kitakyushu',  1.3086e+02,  33.88)
+ ('Changzhou',  1.1997e+02,  31.78) ('Guwahati',  9.1750e+01,  26.19)
+ ('Maisuru',  7.6650e+01,  12.31) ('Volgograd',  4.4480e+01,  48.71)
+ ('Naples',  1.4270e+01,  40.85) ('Konya',  3.2480e+01,  37.88)
+ ('Vijayawada',  8.0630e+01,  16.52) ('Ulsan',  1.2931e+02,  35.55)
+ ('Birmingham', -1.9100e+00,  52.48) ('San Jose', -1.2185e+02,  37.3 )
+ ('Ciudad Guayana', -6.2620e+01,   8.37) ('Kolwezi',  2.5660e+01, -10.7 )
+ ('Padang',  1.0035e+02,  -0.95) ('Chiba',  1.4011e+02,  35.61)
+ ('Mendoza', -6.8830e+01, -32.89) ('Managua', -8.6270e+01,  12.15)
+ ('Biskek',  7.4570e+01,  42.87) ('Kathmandu',  8.5310e+01,  27.71)
+ ('Gwalior',  7.8170e+01,  26.23) ('Niamey',  2.1200e+00,  13.52)
+ ('El Alto', -6.8170e+01, -16.5 ) ('Kigali',  3.0060e+01,  -1.94)
+ ('Qiqihar',  1.2400e+02,  47.35) ('Ulaanbaatar',  1.0691e+02,  47.93)
+ ('Krasnoyarsk',  9.3060e+01,  56.02) ('Madurai',  7.8120e+01,   9.92)
+ ('Asgabat',  5.8380e+01,  37.95) ('al-H?artum Bah?',  3.2520e+01,  15.64)
+ ('Arequipa', -7.1530e+01, -16.39) ('Edmonton', -1.1354e+02,  53.57)
+ ('Marrakesh', -8.0000e+00,  31.63) ('Pingdingshan',  1.1330e+02,  33.73)
+ ('Bandar Lampung',  1.0527e+02,  -5.44) ('Hubli',  7.5130e+01,  15.36)
+ ('La Paz', -6.8150e+01, -16.5 ) ('Cartagena', -7.5500e+01,  10.4 )
+ ('Ottawa', -7.5710e+01,  45.42) ('Wenzhou',  1.2065e+02,  28.02)
+ ('Johor Bahru',  1.0375e+02,   1.48) ('Mombasa',  3.9660e+01,  -4.04)
+ ('Lilongwe',  3.3800e+01, -13.97)
+ ('Duque de Caxias', -4.3310e+01, -22.77) ('Turin',  7.6800e+00,  45.08)
+ ('Jalandhar',  7.5570e+01,  31.33) ('Abu Dhabi',  5.4370e+01,  24.48)
+ ('Warri',  5.7600e+00,   5.52) ('Valencia', -3.9000e-01,  39.48)
+ ('Oslo',  1.0750e+01,  59.91) ('ad-Dammam',  5.0100e+01,  26.43)
+ ('Mira Bhayandar',  7.2850e+01,  19.29) ('Taian',  1.1712e+02,  36.2 )
+ ('Salem',  7.8160e+01,  11.67) ('Pietermaritzbur',  3.0390e+01, -29.61)
+ ('Naucalpan', -9.9230e+01,  19.48) ('H?ims',  3.6720e+01,  34.73)
+ ('Bhubaneswar',  8.5840e+01,  20.27) ('Hamamatsu',  1.3773e+02,  34.72)
+ ('Saratov',  4.6030e+01,  51.57) ('Kirkuk',  4.4390e+01,  35.47)
+ ('Detroit', -8.3100e+01,  42.38) ('Onitsha',  6.7800e+00,   6.14)
+ ('Quetta',  6.7020e+01,  30.21) ('Aligarh',  7.8060e+01,  27.89)
+ ('Sakai',  1.3548e+02,  34.57) ('Voronezh',  3.9260e+01,  51.72)
+ ('Freetown', -1.3240e+01,   8.49) ('Tucuman', -6.5220e+01, -26.83)
+ ('Bogor',  1.0679e+02,  -6.58) ('Niigata',  1.3904e+02,  37.92)
+ ('Jacksonville', -8.1660e+01,  30.33)
+ ('Thiruvananthapu',  7.6950e+01,   8.51) ('Cebu',  1.2390e+02,  10.32)
+ ('Bareli',  7.9410e+01,  28.36) ('Natal', -3.5220e+01,  -5.8 )
+ ('Kota',  7.5830e+01,  25.18) ('Puchon',  1.2677e+02,  37.48)
+ ('Shihung',  1.2689e+02,  37.46) ('Tiruchchirappal',  7.8690e+01,  10.81)
+ ('Sharjah',  5.5410e+01,  25.37) ('Trujillo', -7.9030e+01,  -8.11)
+ ('Kermanshah',  4.7060e+01,  34.38) ('Qinhuangdao',  1.1962e+02,  39.93)
+ ('Anyang',  1.1435e+02,  36.08) ('Bhiwandi',  7.3050e+01,  19.3 )
+ ('an-Najaf',  4.4340e+01,  32.  ) ('Teresina', -4.2800e+01,  -5.1 )
+ ('Sao Bernardo do', -4.6540e+01, -23.71) ('Nanning',  1.0832e+02,  22.82)
+ ('Antalya',  3.0710e+01,  36.89) ('Indianapolis', -8.6150e+01,  39.78)
+ ('Campo Grande', -5.4630e+01, -20.45) ('Jaboatao', -3.5020e+01,  -8.11)
+ ('Hohhot',  1.1164e+02,  40.82) ('Zaporizhzhya',  3.5170e+01,  47.85)
+ ('Marseille',  5.3700e+00,  43.31) ('Moradabad',  7.8760e+01,  28.84)
+ ('Zhangjiakou',  1.1493e+02,  40.83) ('Liuzhou',  1.0925e+02,  24.28)
+ ('Rajshahi',  8.8590e+01,  24.37) ('Nouakchott', -1.5980e+01,  18.09)
+ ('Xining',  1.0177e+02,  36.62) ('Tainan',  1.2019e+02,  23.  )
+ ('Yantai',  1.2140e+02,  37.53) ('Hegang',  1.3037e+02,  47.4 )
+ ('Port-au-Prince', -7.2340e+01,  18.54) ('Akure',  5.1900e+00,   7.25)
+ ("N'Djamena",  1.5050e+01,  12.11) ('Guadalupe', -1.0026e+02,  25.68)
+ ('Cracow',  1.9960e+01,  50.06) ('Malang',  1.1262e+02,  -7.98)
+ ('Hengyang',  1.1262e+02,  26.89) ('Puyang',  1.1498e+02,  35.7 )
+ ('Jerusalem',  3.5220e+01,  31.78) ('Athens',  2.3730e+01,  37.98)
+ ('San Francisco', -1.2245e+02,  37.77) ('Amsterdam',  4.8900e+00,  52.37)
+ ('?odz',  1.9460e+01,  51.77) ('Austin', -9.7750e+01,  30.31)
+ ('Merida', -8.9620e+01,  20.97) ('Abeokuta',  3.3500e+00,   7.16)
+ ('Raipur',  8.1630e+01,  21.24) ('Xinxiang',  1.1387e+02,  35.32)
+ ('Tunis',  1.0220e+01,  36.84) ('Columbus', -8.2990e+01,  39.99)
+ ('Chihuahua', -1.0608e+02,  28.63) ('Cotonou',  2.4400e+00,   6.36)
+ ("L'viv",  2.4000e+01,  49.83) ('Pekan Baru',  1.0143e+02,   0.56)
+ ('Blantyre',  3.4990e+01, -15.79) ('Bulawayo',  2.8580e+01, -20.17)
+ ('La Plata', -5.7960e+01, -34.92) ('Tangier', -5.8100e+00,  35.79)
+ ('Kayseri',  3.5480e+01,  38.74) ('Tolyatti',  4.9510e+01,  53.48)
+ ('Langfang',  1.1668e+02,  39.52) ('Ningbo',  1.2155e+02,  29.88)
+ ('Ampang Jaya',  1.0177e+02,   3.15) ('Foshan',  1.1312e+02,  23.03)
+ ('Liaoyang',  1.2318e+02,  41.28) ('Riga',  2.4130e+01,  56.97)
+ ('Kryvyy Rih',  3.3350e+01,  47.92) ('Changzhi',  1.1175e+02,  35.22)
+ ('Chonju',  1.2714e+02,  35.83) ('Zamboanga',  1.2208e+02,   6.92)
+ ('as-Sulaymaniyah',  4.5430e+01,  35.56) ('Osasco', -4.6780e+01, -23.53)
+ ('Libreville',  9.4500e+00,   0.39) ('Gorakhpur',  8.3360e+01,  26.76)
+ ('Fort Worth', -9.7340e+01,  32.75)
+ ('San Luis Potosi', -1.0098e+02,  22.16)
+ ('Tlalnepantla', -9.9190e+01,  19.54) ('Sevilla', -5.9800e+00,  37.4 )
+ ('Zagreb',  1.5970e+01,  45.8 ) ('Huangshi',  1.1510e+02,  30.22)
+ ('Zhuzhou',  1.1315e+02,  27.83) ('Shaoguan',  1.1358e+02,  24.8 )
+ ('Guilin',  1.1028e+02,  25.28) ('Matola',  3.2460e+01, -25.97)
+ ('Puente Alto', -7.0570e+01, -33.61)
+ ('Aguascalientes', -1.0230e+02,  21.88) ('Benghazi',  2.0070e+01,  32.12)
+ ('Fuxin',  1.2165e+02,  42.01) ('Shizuoka',  1.3839e+02,  34.98)
+ ('Ipoh',  1.0107e+02,   4.6 ) ('Contagem', -4.4100e+01, -19.91)
+ ('Joao Pessoa', -3.4860e+01,  -7.12) ('Dushanbe',  6.8780e+01,  38.57)
+ ('Zhanjiang',  1.1038e+02,  21.2 ) ('Xingtai',  1.1449e+02,  37.07)
+ ('Okayama',  1.3392e+02,  34.67) ('Yogyakarta',  1.1037e+02,  -7.78)
+ ('Bhilai',  8.1380e+01,  21.21) ('Mudanjiang',  1.2960e+02,  44.58)
+ ('Zigong',  1.0478e+02,  29.4 ) ('Colombo',  7.9850e+01,   6.93)
+ ('Wahran', -6.2000e-01,  35.7 ) ('Enugu',  7.5100e+00,   6.44)
+ ('Santo Andre', -4.6530e+01, -23.65)
+ ('Chimalhuacan', -9.8960e+01,  19.44) ('Memphis', -9.0010e+01,  35.11)
+ ('Shatian',  1.1419e+02,  22.38) ('Kumamoto',  1.3071e+02,  32.8 )
+ ('Zhangdian',  1.1806e+02,  36.8 )
+ ('Sao Jose dos Ca', -4.5880e+01, -23.2 )
+ ('Acapulco', -9.9920e+01,  16.85) ('Quebec', -7.1230e+01,  46.82)
+ ('Zaria',  7.7100e+00,  11.08) ('Dasmarinas',  1.2093e+02,  14.33)
+ ('Nantong',  1.2082e+02,  32.02) ('Xiangtan',  1.1290e+02,  27.85)
+ ('Shaoyang',  1.1120e+02,  27.  ) ('Pointe Noire',  1.1870e+01,  -4.77)
+ ('Queretaro', -1.0040e+02,  20.59) ('Charlotte', -8.0830e+01,  35.2 )
+ ('Panjin',  1.2205e+02,  41.18) ('Hamilton', -7.9850e+01,  43.26)
+ ('Saltillo', -1.0100e+02,  25.42) ('Islamabad',  7.3060e+01,  33.72)
+ ('Ansan',  1.2686e+02,  37.35) ('Jamshedpur',  8.6200e+01,  22.79)
+ ('Cancun', -8.6830e+01,  21.17) ('Zaragoza', -8.9000e-01,  41.65)
+ ('Frankfurt',  8.6800e+00,  50.12) ('Palermo',  1.3360e+01,  38.12)
+ ('Dandong',  1.2440e+02,  40.13) ('Haikou',  1.1032e+02,  20.05)
+ ('Amravati',  7.7760e+01,  20.95) ("'Adan",  4.5030e+01,  12.79)
+ ('Winnipeg', -9.7170e+01,  49.88) ('Zhangzhou',  1.1767e+02,  24.52)
+ ('Sagamihara',  1.3938e+02,  35.58) ('Kuching',  1.1034e+02,   1.55)
+ ('Kataka',  8.5880e+01,  20.47) ('Gazzah',  3.4440e+01,  31.53)
+ ('El Paso', -1.0644e+02,  31.85) ('Wroc?aw',  1.7030e+01,  51.11)
+ ('Krasnodar',  3.8980e+01,  45.03) ('Zhenjiang',  1.1943e+02,  32.22)
+ ('Asmara',  3.8940e+01,  15.33) ('Benoni',  2.8330e+01, -26.15)
+ ('Baltimore', -7.6610e+01,  39.3 ) ('Mersin',  3.4630e+01,  36.81)
+ ('Izhevsk',  5.3230e+01,  56.85) ('Yancheng',  1.2012e+02,  33.39)
+ ('Yuanlong',  1.1402e+02,  22.44) ('Uberlandia', -4.8280e+01, -18.9 )
+ ('Hermosillo', -1.1097e+02,  29.07) ('Ulyanovsk',  4.8400e+01,  54.33)
+ ('Bouake', -5.0300e+00,   7.69) ('Santiago', -7.0690e+01,  19.48)
+ ('Mexicali', -1.1547e+02,  32.65) ('Hai Phong',  1.0668e+02,  20.86)
+ ('Anyang',  1.2692e+02,  37.39) ('Dadiangas',  1.2525e+02,   6.1 )
+ ('Jos',  8.8900e+00,   9.93) ('Oshogbo',  4.5600e+00,   7.77)
+ ('Sorocaba', -4.7470e+01, -23.49) ('Morelia', -1.0118e+02,  19.72)
+ ("al-'Ayn",  5.5740e+01,  24.23) ('Bikaner',  7.3320e+01,  28.03)
+ ('Taizhou',  1.1990e+02,  32.49) ('Chongju',  1.2750e+02,  36.64)
+ ('Xiamen',  1.1808e+02,  24.45) ('Antipolo',  1.2118e+02,  14.59)
+ ('Cochabamba', -6.6170e+01, -17.38) ('Culiacan', -1.0739e+02,  24.8 )
+ ('Kagoshima',  1.3056e+02,  31.59) ('Siping',  1.2433e+02,  43.17)
+ ('Yingkou',  1.2228e+02,  40.67) ('Luancheng',  1.1465e+02,  37.88)
+ ('Banjarmasin',  1.1459e+02,  -3.33) ('Orumiyeh',  4.5000e+01,  37.53)
+ ('Diyarbak?r',  4.0230e+01,  37.92) ('Yaroslavl',  3.9870e+01,  57.62)
+ ('Chisinau',  2.8830e+01,  47.03) ('Djibouti',  4.3150e+01,  11.59)
+ ('Mixco', -9.0600e+01,  14.64) ('Seattle', -1.2235e+02,  47.62)
+ ('Rotterdam',  4.4800e+00,  51.93) ('Stuttgart',  9.1900e+00,  48.79)
+ ('Khabarovsk',  1.3512e+02,  48.42) ('Jinzhou',  1.2110e+02,  41.12)
+ ('San Pedro Sula', -8.8030e+01,  15.47)
+ ('Kisangani',  2.5190e+01,   0.53) ('Bengbu',  1.1733e+02,  32.95)
+ ('Irkutsk',  1.0424e+02,  52.33) ('Shihezi',  8.6030e+01,  44.3 )
+ ('Maracay', -6.7470e+01,  10.33) ('Cucuta', -7.2510e+01,   7.88)
+ ('Bhavnagar',  7.2130e+01,  21.79) ('Port Said',  3.2290e+01,  31.26)
+ ('Genoa',  8.9300e+00,  44.42) ('Denver', -1.0487e+02,  39.77)
+ ('Dortmund',  7.4800e+00,  51.51) ('Barnaul',  8.3750e+01,  53.36)
+ ('Jiangmen',  1.1308e+02,  22.58) ('Veracruz', -9.6140e+01,  19.19)
+ ('Washington', -7.7020e+01,  38.91) ('Vladivostok',  1.3190e+02,  43.13)
+ ('Ribeirao Preto', -4.7800e+01, -21.17)
+ ('Mar del Plata', -5.7580e+01, -38.  ) ('Boston', -7.1020e+01,  42.34)
+ ('Eskisehir',  3.0520e+01,  39.79) ('Warangal',  7.9580e+01,  18.01)
+ ('Zahedan',  6.0830e+01,  29.5 ) ('Dusseldorf',  6.7900e+00,  51.24)
+ ('Essen',  7.0000e+00,  51.47) ('Kaifeng',  1.1435e+02,  34.85)
+ ('Glasgow', -4.2700e+00,  55.87) ('Kingston', -7.6800e+01,  17.99)
+ ('Shah Alam',  1.0156e+02,   3.07) ('Maoming',  1.1087e+02,  21.92)
+ ('Hachioji',  1.3933e+02,  35.66) ('Funabashi',  1.3999e+02,  35.7 )
+ ('Hamhung',  1.2754e+02,  39.91) ('Sargodha',  7.2670e+01,  32.08)
+ ('Meknes', -5.5600e+00,  33.9 ) ('Las Vegas', -1.1522e+02,  36.21)
+ ('Villa Nueva', -9.0590e+01,  14.53) ('Resht',  4.9630e+01,  37.3 )
+ ('Cangzhou',  1.1687e+02,  38.32) ('Tanggu',  1.1767e+02,  39.  )
+ ('Helsinki',  2.4940e+01,  60.17) ('Malaga', -4.4200e+00,  36.72)
+ ('Milwaukee', -8.7970e+01,  43.06) ('Nashville', -8.6780e+01,  36.17)
+ ('Ife',  4.5600e+00,   7.48) ("at-Ta'if",  4.0380e+01,  21.26)
+ ('Changde',  1.1168e+02,  29.03) ('Surakarta',  1.1082e+02,  -7.57)
+ ('Bloemfontein',  2.6230e+01, -29.15) ('Poznan',  1.6900e+01,  52.4 )
+ ('Barcelona', -6.4720e+01,  10.13) ('Reynosa', -9.8280e+01,  26.08)
+ ('Lopez Mateos', -9.9260e+01,  19.57) ('Cuiaba', -5.6090e+01, -15.61)
+ ('Bangui',  1.8560e+01,   4.36) ('Xigong',  1.1425e+02,  22.33)
+ ('Shiliguri',  8.8420e+01,  26.73) ('Oklahoma City', -9.7510e+01,  35.47)
+ ('Louisville', -8.5740e+01,  38.22) ('Jiamusi',  1.3035e+02,  46.83)
+ ('Huaiyin',  1.1903e+02,  33.58) ('Welkom',  2.6730e+01, -27.97)
+ ('Kolhapur',  7.4220e+01,  16.7 ) ('Rajpur',  8.8440e+01,  22.44)
+ ('Ulhasnagar',  7.3150e+01,  19.23) ('Bremen',  8.8100e+00,  53.08)
+ ('San Salvador', -8.9190e+01,  13.69) ('Tembisa',  2.8220e+01, -25.99)
+ ('Banqiao',  1.2144e+02,  25.02) ('Maanshan',  1.1848e+02,  31.73)
+ ('Portland', -1.2266e+02,  45.54) ('Toluca', -9.9670e+01,  19.29)
+ ('Gold Coast',  1.5344e+02, -28.07)
+ ('Kota Kinabalu',  1.1607e+02,   5.97) ('Agadir', -9.6100e+00,  30.42)
+ ('Vilnius',  2.5270e+01,  54.7 ) ('Orenburg',  5.5100e+01,  51.78)
+ ('Ajmer',  7.4640e+01,  26.45) ('Guntur',  8.0440e+01,  16.31)
+ ('Neijiang',  1.0505e+02,  29.58) ('Durgapur',  8.7310e+01,  23.5 )
+ ('Salta', -6.5410e+01, -24.79) ('Novokuznetsk',  8.7100e+01,  53.75)
+ ('Yangzhou',  1.1943e+02,  32.4 ) ('Shashi',  1.1223e+02,  30.32)
+ ('Aparecida de Go', -4.9240e+01, -16.82)
+ ('Asuncion', -5.7630e+01, -25.3 )
+ ('Ribeirao das Ne', -4.4080e+01, -19.76)
+ ('Sangli-Miraj',  7.4570e+01,  16.86)
+ ('Petaling Jaya',  1.0162e+02,   3.1 ) ('Dehra Dun',  7.8050e+01,  30.34)
+ ('Maturin', -6.3170e+01,   9.75) ('Torreon', -1.0343e+02,  25.55)
+ ('Jiaozuo',  1.1322e+02,  35.25) ('Zhuhai',  1.1357e+02,  22.28)
+ ('Nanded',  7.7290e+01,  19.17) ('Tyumen',  6.5530e+01,  57.15)
+ ('Albuquerque', -1.0662e+02,  35.12) ('Suez',  3.2540e+01,  29.98)
+ ('Cagayan',  1.2467e+02,   8.45) ('Mwanza',  3.2890e+01,  -2.52)
+ ('Petare', -6.6830e+01,  10.52) ('Soledad', -7.4770e+01,  10.92)
+ ('Uijongbu',  1.2704e+02,  37.74) ('Yueyang',  1.1310e+02,  29.38)
+ ("Ta'izz",  4.4040e+01,  13.6 ) ('Feira de Santan', -3.8970e+01, -12.25)
+ ('Tucson', -1.1089e+02,  32.2 ) ('Naberezhnyye Ch',  5.2320e+01,  55.69)
+ ('Matsuyama',  1.3277e+02,  33.84) ('Kerman',  5.7080e+01,  30.3 )
+ ('Garoua',  1.3390e+01,   9.3 ) ('Tuxtla Gutierre', -9.3120e+01,  16.75)
+ ('Tlaquepaque', -1.0332e+02,  20.64) ('Jammu',  7.4850e+01,  32.71)
+ ('Gulbarga',  7.6820e+01,  17.34) ('Jamnagar',  7.0070e+01,  22.47)
+ ('Hanover',  9.7300e+00,  52.4 ) ('Chiclayo', -7.9840e+01,  -6.76)
+ ('Bucaramanga', -7.3130e+01,   7.13) ('Goteborg',  1.2010e+01,  57.72)
+ ('Ryazan',  3.9740e+01,  54.62) ('Bahawalpur',  7.1670e+01,  29.39)
+ ('Bhatpara',  8.8420e+01,  22.89) ('Zhunmen',  1.1398e+02,  22.41)
+ ('Calamba',  1.2115e+02,  14.21) ('Changwon',  1.2862e+02,  35.27)
+ ('Zunyi',  1.0692e+02,  27.7 ) ('Lipetsk',  3.9620e+01,  52.62)
+ ('Dresden',  1.3740e+01,  51.05) ('Aracaju', -3.7070e+01, -10.91)
+ ('H?amah',  3.6730e+01,  35.15) ('Saharanpur',  7.7540e+01,  29.97)
+ ('Niyala',  2.4890e+01,  12.06) ('San Nicolas de ', -1.0030e+02,  25.75)
+ ('Leipzig',  1.2400e+01,  51.35) ('al-H?illah',  4.4430e+01,  32.48)
+ ('Xuchang',  1.1382e+02,  34.02) ('Higashiosaka',  1.3559e+02,  34.67)
+ ('Wuhu',  1.1837e+02,  31.35) ('Kananga',  2.2400e+01,  -5.89)
+ ('Boma',  1.3050e+01,  -5.85) ('Atlanta', -8.4420e+01,  33.76)
+ ('Tabuk',  3.6570e+01,  28.39) ('Mykolayiv',  3.2000e+01,  46.97)
+ ('Nuremberg',  1.1050e+01,  49.45)
+ ('Cuautitlan Izca', -9.9250e+01,  19.65)
+ ('Santa Fe', -6.0690e+01, -31.6 ) ('Londrina', -5.1180e+01, -23.3 )
+ ('Bombay',  7.2820e+01,  18.96)]
+random start point being given row=4
+Distance 71015.2879373
+Distance 71005.991436
+Distance 70837.8756815
+Distance 70815.6841904
+Distance 70810.8050203
+Distance 70808.2702123
+Distance 70767.6201908
+Distance 70599.7214416
+Distance 70501.031109
+Distance 70366.334622
+Distance 70351.6249438
+Distance 70291.5355025
+Distance 70288.0513255
+Distance 70278.3853563
+Distance 70272.2601943
+Distance 70035.2642906
+Distance 69998.8640372
+Distance 69997.2816279
+Distance 69974.4048689
+Distance 69971.605962
+Distance 69961.4690191
+Distance 69957.4895009
+Distance 69945.6087371
+Distance 69877.7704206
+Distance 69808.8906039
+Distance 69799.8830638
+Distance 69770.1262755
+Distance 69646.2232611
+Distance 69640.7628193
+Distance 69589.8300552
+Distance 69558.7258591
+Distance 69524.2593296
+Distance 69481.0388525
+Distance 69347.1856714
+Distance 69346.4593127
+Distance 69287.1585633
+Distance 69283.8113658
+Distance 69278.7787378
+Distance 69277.2497832
+Distance 69202.2998307
+Distance 69114.9739378
+Distance 69052.5475277
+Distance 68982.8392543
+Distance 68981.9035207
+Distance 68922.1625003
+Distance 68843.5395008
+Distance 68838.805372
+Distance 68761.1187623
+Distance 68760.944104
+Distance 68759.0805874
+Distance 68749.3214557
+Distance 68744.6832905
+Distance 68711.1686986
+Distance 68646.3337009
+Distance 68559.2908962
+Distance 68555.5294497
+Distance 68551.7709207
+Distance 68548.4168957
+Distance 68499.5802493
+Distance 68428.5778507
+Distance 68402.4878344
+Distance 68354.6376912
+Distance 68350.5002428
+Distance 68302.7866781
+Distance 68251.1665943
+Distance 68242.8031171
+Distance 68096.1563723
+Distance 68096.0651875
+Distance 68003.2032043
+Distance 67953.7985639
+Distance 67728.6362821
+Distance 67367.2638166
+Distance 67361.19773
+Distance 67359.435175
+Distance 67350.073247
+Distance 67340.1041331
+Distance 67134.8870752
+Distance 67131.4877825
+Distance 67122.0389555
+Distance 67121.1907443
+Distance 67117.9464851
+Distance 67116.05538
+Distance 67115.9562362
+Distance 67078.4627889
+Distance 67070.9352115
+Distance 67057.5016532
+Distance 67051.3795565
+Distance 67015.5509345
+Distance 67006.5672601
+Distance 66948.4460535
+Distance 66815.2125856
+Distance 66809.8242168
+Distance 66647.3237911
+Distance 66602.3973333
+Distance 66601.9791668
+Distance 66598.7162978
+Distance 66575.0255145
+Distance 66557.6387319
+Distance 66510.2506298
+Distance 66413.2658837
+Distance 66411.3681456
+Distance 66410.6904462
+Distance 66344.892188
+Distance 66332.0380096
+Distance 66219.4021392
+Distance 66215.5449933
+Distance 66215.3231736
+Distance 66190.7267244
+Distance 66154.2616487
+Distance 66153.9515555
+Distance 66147.6444911
+Distance 66141.0895519
+Distance 66118.0429067
+Distance 66087.6625606
+Distance 66087.3524673
+Distance 66086.7696283
+Distance 66042.4864235
+Distance 66029.9813364
+Distance 66018.0813405
+Distance 66011.0193712
+Distance 66000.7122099
+Distance 65997.4826948
+Distance 65966.7176779
+Distance 65964.0312528
+Distance 65743.7172789
+Distance 65738.0422036
+Distance 65554.1315762
+Distance 65502.1166956
+Distance 65495.8945661
+Distance 65495.2714451
+Distance 65493.4770894
+Distance 65492.7782331
+Distance 65440.4593162
+Distance 65437.3051272
+Distance 65426.9743799
+Distance 65400.3713697
+Distance 65390.2569392
+Distance 65348.9377246
+Distance 65336.5860604
+Distance 65317.2543989
+Distance 65313.1601331
+Distance 65309.8861057
+Distance 65280.3238219
+Distance 65221.1161868
+Distance 65210.1874848
+Distance 65190.1536066
+Distance 65163.1672065
+Distance 65162.6692637
+Distance 65158.1536462
+Distance 65121.6888612
+Distance 65111.1807667
+Distance 65108.6563699
+Distance 65089.9246133
+Distance 65089.5073595
+Distance 65089.0891095
+Distance 65088.9406216
+Distance 65082.4838198
+Distance 65078.4572392
+Distance 65078.4049933
+Distance 65077.8145257
+Distance 65077.7841181
+Distance 65074.0411548
+Distance 65072.4677888
+Distance 64942.7929767
+Distance 64891.4417328
+Distance 64877.0845154
+Distance 64862.9737282
+Distance 64861.6085553
+Distance 64741.523988
+Distance 64740.4209036
+Distance 64625.8188775
+Distance 64622.2158803
+Distance 64599.2626777
+Distance 64599.0943445
+Distance 64418.9725077
+Distance 64417.9083428
+Distance 64409.9474945
+Distance 64204.0442212
+Distance 64190.994344
+Distance 64190.3894561
+Distance 64183.9256376
+Distance 64183.5895362
+Distance 63992.2144893
+Distance 63974.2435782
+Distance 63972.3251692
+Distance 63971.9597719
+Distance 63932.8263703
+Distance 63930.5295629
+Distance 63925.901983
+Distance 63901.5369703
+Distance 63862.9049982
+Distance 63795.3413738
+Distance 63794.5214163
+Distance 63788.617224
+Distance 63748.8765896
+Distance 63651.3320277
+Distance 63649.1233712
+Distance 63636.778291
+Distance 63586.6547844
+Distance 63504.2349489
+Distance 63501.096962
+Distance 63501.0868073
+Distance 63498.7969653
+Distance 63483.8616082
+Distance 63469.4177788
+Distance 63461.2107114
+Distance 63428.0787293
+Distance 63425.7888872
+Distance 63410.0218146
+Distance 63408.3947041
+Distance 63343.9978439
+Distance 63322.1485112
+Distance 63320.733589
+Distance 63316.4282952
+Distance 63311.4338711
+Distance 63297.4525228
+Distance 63117.4503177
+Distance 63116.7438919
+Distance 63094.5446504
+Distance 63029.3968671
+Distance 62983.6095953
+Distance 62971.5066304
+Distance 62957.639749
+Distance 62903.5938433
+Distance 62846.3843015
+Distance 62845.7654527
+Distance 62794.9730124
+Distance 62747.6286623
+Distance 62562.3658801
+Distance 62556.2538161
+Distance 62536.4114768
+Distance 62535.4161372
+Distance 62506.2792394
+Distance 62468.3082076
+Distance 62306.6003721
+Distance 62273.2610489
+Distance 62267.9134616
+Distance 62249.8705044
+Distance 62220.0262418
+Distance 62213.0310844
+Distance 62168.3520632
+Distance 62168.3241904
+Distance 62161.5058299
+Distance 62055.6549354
+Distance 62050.1993914
+Distance 62027.691632
+Distance 62024.7385665
+Distance 62021.2988442
+Distance 61986.4710166
+Distance 61863.835724
+Distance 61861.9273164
+Distance 61726.381796
+Distance 61718.7543891
+Distance 61717.6429471
+Distance 61705.0616284
+Distance 61699.3458144
+Distance 61691.3709442
+Distance 61645.8374767
+Distance 61480.0988566
+Distance 61466.2224104
+Distance 61459.5855608
+Distance 61195.8499627
+Distance 61194.8795851
+Distance 60879.6634277
+Distance 60835.229622
+Distance 60831.2138663
+Distance 60797.4445431
+Distance 60790.3117645
+Distance 60750.6396624
+Distance 60686.5829556
+Distance 60666.1771766
+Distance 60661.0624514
+Distance 60660.9859719
+Distance 60653.5665993
+Distance 60653.1229153
+Distance 60653.1062274
+Distance 60642.4861188
+Distance 60638.6205261
+Distance 60605.8162644
+Distance 60594.5006305
+Distance 60593.1757226
+Distance 60587.4281461
+Distance 60389.832605
+Distance 60380.9337599
+Distance 60358.803567
+Distance 60355.4694237
+Distance 60207.8855157
+Distance 60187.086188
+Distance 60145.477662
+Distance 60122.4518592
+Distance 60118.5387275
+Distance 60114.5908419
+Distance 60113.5623703
+Distance 60090.5486355
+Distance 60086.1929211
+Distance 60021.2366235
+Distance 60021.1894505
+Distance 60019.3340834
+Distance 60002.9036465
+Distance 60002.4035078
+Distance 59999.4649496
+Distance 59976.3017987
+Distance 59904.7513
+Distance 59902.7253392
+Distance 59774.8294489
+Distance 59774.3293102
+Distance 59679.1948807
+Distance 59606.7827019
+Distance 59606.5371734
+Distance 59605.4097984
+Distance 59493.0471467
+Distance 59399.4803604
+Distance 59320.5150986
+Distance 59221.8153775
+Distance 59205.8944248
+Distance 59196.1822841
+Distance 59192.3368293
+Distance 59096.5585065
+Distance 59094.7176607
+Distance 59084.7991613
+Distance 59081.3493746
+Distance 58888.0757005
+Distance 58886.9808228
+Distance 58703.9351467
+Distance 58703.4579666
+Distance 58544.6392172
+Distance 58365.3925084
+Distance 58163.2398765
+Distance 58161.1973985
+Distance 57899.5815466
+Distance 57896.5071071
+Distance 57883.4875376
+Distance 57879.6757647
+Distance 57879.6106409
+Distance 57756.4860619
+Distance 57756.4503408
+Distance 57672.3887376
+Distance 57671.8082771
+Distance 57651.106026
+Distance 57355.8215789
+Distance 57276.129007
+Distance 57276.0638832
+Distance 57273.3758803
+Distance 56970.2452297
+Distance 56952.4466436
+Distance 56950.4437416
+Distance 56678.9640224
+Distance 56601.6688451
+Distance 56595.1207478
+Distance 56399.1280991
+Distance 56397.1367076
+Distance 56391.2965095
+Distance 56385.9530669
+Distance 56190.6472769
+Distance 56012.0527703
+Distance 56003.722863
+Distance 56003.077949
+Distance 56002.879526
+Distance 56001.7914633
+Distance 55998.9403004
+Distance 55984.5988579
+Distance 55807.2238518
+Distance 55743.7553006
+Distance 55640.5015298
+Distance 55630.4944316
+Distance 55614.508995
+Distance 55613.9366512
+Distance 55573.9710039
+Distance 55474.2719158
+Distance 55437.3452978
+Distance 55437.3204369
+Distance 55410.1193221
+Distance 55403.7391489
+Distance 55218.5144789
+Distance 55102.9789022
+Distance 55085.4494819
+Distance 55084.982652
+Distance 54987.3785855
+Distance 54986.0879942
+Distance 54950.5122189
+Distance 54854.8633826
+Distance 54854.1296725
+Distance 54848.1027595
+Distance 54845.7545217
+Distance 54748.3241427
+Distance 54745.88636
+Distance 54652.9134028
+Distance 54649.8387153
+Distance 54643.4259838
+Distance 54641.3387322
+Distance 54640.0133534
+Distance 54501.1595943
+Distance 54484.5098041
+Distance 54481.2332878
+Distance 54480.4234905
+Distance 54371.7334463
+Distance 54345.2254522
+Distance 54136.1077221
+Distance 53914.5246182
+Distance 53905.1260271
+Distance 53903.2523123
+Distance 53770.2979271
+Distance 53765.4109979
+Distance 53761.5943545
+Distance 53741.2608499
+Distance 53739.3776247
+Distance 53739.3132293
+Distance 53723.1122522
+Distance 53712.40097
+Distance 53652.0686893
+Distance 53387.3074249
+Distance 53387.3046259
+Distance 53223.224538
+Distance 53068.4225585
+Distance 53068.1016771
+Distance 52957.7132599
+Distance 52948.2880812
+Distance 52839.6450201
+Distance 52838.2488013
+Distance 52817.7826066
+Distance 52811.2586067
+Distance 52649.7360407
+Distance 52590.3678764
+Distance 52586.8502086
+Distance 52586.7708387
+Distance 52453.6086514
+Distance 52451.3353046
+Distance 52306.9441238
+Distance 52306.9116863
+Distance 52299.9217637
+Distance 52170.6805518
+Distance 52123.4635918
+Distance 52119.9099244
+Distance 52114.6993428
+Distance 52112.2233806
+Distance 52061.2243517
+Distance 52054.1028865
+Distance 52050.1728915
+Distance 52043.7807789
+Distance 52016.946134
+Distance 52010.9866639
+Distance 52010.695551
+Distance 52000.6149719
+Distance 51998.7909256
+Distance 51997.5808672
+Distance 51957.0037656
+Distance 51949.6091389
+Distance 51791.2888001
+Distance 51775.4196257
+Distance 51775.0396746
+Distance 51773.2008228
+Distance 51771.6260649
+Distance 51607.2538833
+Distance 51603.592139
+Distance 51495.0239706
+Distance 51494.7604623
+Distance 51492.6638694
+Distance 51445.2123179
+Distance 51412.5785009
+Distance 51334.2955539
+Distance 51331.0856221
+Distance 51218.3125752
+Distance 51213.093561
+Distance 51189.9841494
+Distance 51170.8156664
+Distance 51165.7914217
+Distance 51164.995427
+Distance 51159.1458359
+Distance 51158.7907663
+Distance 51141.0438982
+Distance 51103.984053
+Distance 51098.9598083
+Distance 50964.1935425
+Distance 50954.6759001
+Distance 50948.3130388
+Distance 50931.74792
+Distance 50878.8671379
+Distance 50866.0360974
+Distance 50747.4890814
+Distance 50739.4397353
+Distance 50706.4462234
+Distance 50696.9670858
+Distance 50694.3370014
+count is:2
+Best case recieved is:
+[('Bombay',  7.2820e+01,  18.96) ('Shanghai',  1.2147e+02,  31.23)
+ ('Karachi',  6.7010e+01,  24.86) ('Buenos Aires', -5.8370e+01, -34.61)
+ ('Istanbul',  2.9000e+01,  41.1 ) ('Delhi',  7.7210e+01,  28.67)
+ ('Manila',  1.2097e+02,  14.62) ('Sao Paulo', -4.6630e+01, -23.53)
+ ('Moscow',  3.7620e+01,  55.75) ('Soul',  1.2699e+02,  37.56)
+ ('Dhaka',  9.0390e+01,  23.7 ) ('Kinshasa',  1.5320e+01,  -4.31)
+ ('Mexico City', -9.9140e+01,  19.43) ('Lagos',  3.3500e+00,   6.5 )
+ ('Jakarta',  1.0683e+02,  -6.18) ('Tokyo',  1.3977e+02,  35.67)
+ ('Tehran',  5.1430e+01,  35.67) ('Cairo',  3.1250e+01,  30.06)
+ ('Lima', -7.7050e+01, -12.07) ('New York', -7.3940e+01,  40.67)
+ ('London', -1.0000e-01,  51.52) ('Peking',  1.1640e+02,  39.93)
+ ('Lahore',  7.4350e+01,  31.56) ('Rio de Janeiro', -4.3200e+01, -22.91)
+ ('Bogota', -7.4090e+01,   4.63) ('Bagdad',  4.4440e+01,  33.33)
+ ('Bangalore',  7.7560e+01,  12.97) ('Bangkok',  1.0050e+02,  13.73)
+ ('Singapore',  1.0385e+02,   1.3 ) ('Santiago', -7.0640e+01, -33.46)
+ ('Toronto', -7.9380e+01,  43.65) ('Calcutta',  8.8360e+01,  22.57)
+ ('Rangoon',  9.6150e+01,  16.79) ('Riyadh',  4.6770e+01,  24.65)
+ ('Ibadan',  3.9300e+00,   7.38) ('Madras',  8.0270e+01,  13.09)
+ ('Ho Chi Minh Cit',  1.0669e+02,  10.78)
+ ('Chongqing',  1.0658e+02,  29.57) ('Wuhan',  1.1427e+02,  30.58)
+ ('Xian',  1.0890e+02,  34.27) ('Saint Petersbur',  3.0320e+01,  59.93)
+ ('Alexandria',  2.9950e+01,  31.22) ('Chengdu',  1.0407e+02,  30.67)
+ ('Hyderabad',  7.8480e+01,  17.4 ) ('Ahmadabad',  7.2580e+01,  23.03)
+ ('Ankara',  3.2850e+01,  39.93) ('Los Angeles', -1.1841e+02,  34.11)
+ ('Abidjan', -4.0300e+00,   5.33) ('Chattagam',  9.1810e+01,  22.33)
+ ('Tianjin',  1.1720e+02,  39.13) ('Yokohama',  1.3962e+02,  35.47)
+ ('Sydney',  1.5121e+02, -33.87) ('Melbourne',  1.4496e+02, -37.81)
+ ('Berlin',  1.3380e+01,  52.52) ('Shenyang',  1.2345e+02,  41.8 )
+ ('Pusan',  1.2903e+02,  35.11) ('Montreal', -7.3570e+01,  45.52)
+ ('Cape Town',  1.8460e+01, -33.93) ('Durban',  3.0990e+01, -29.87)
+ ('Gizeh',  3.1210e+01,  30.01) ('Harbin',  1.2665e+02,  45.75)
+ ('Nanjing',  1.1878e+02,  32.05) ('Pune',  7.3840e+01,  18.53)
+ ('Surat',  7.2820e+01,  21.2 ) ('Addis Abeba',  3.8740e+01,   9.03)
+ ('Casablanca', -7.6200e+00,  33.6 ) ('Madrid', -3.7100e+00,  40.42)
+ ('Pyongyang',  1.2575e+02,  39.02) ('Guangzhou',  1.1325e+02,  23.12)
+ ('Kanpur',  8.0330e+01,  26.47) ('Nairobi',  3.6820e+01,  -1.29)
+ ('Jiddah',  3.9170e+01,  21.5 ) ('Jaipur',  7.5800e+01,  26.92)
+ ('Dar es Salaam',  3.9280e+01,  -6.82) ('Salvador', -3.8500e+01, -12.97)
+ ('Chicago', -8.7680e+01,  41.84) ('Faisalabad',  7.3110e+01,  31.41)
+ ('al-Mawsil',  4.3140e+01,  36.34) ('Izmir',  2.7150e+01,  38.43)
+ ('Taiyuan',  1.1255e+02,  37.87) ('Taibei',  1.2145e+02,  25.02)
+ ('Osaka',  1.3550e+02,  34.68) ('Inchon',  1.2664e+02,  37.48)
+ ('Changchun',  1.2535e+02,  43.87) ('Lakhnau',  8.0920e+01,  26.85)
+ ('Luanda',  1.3240e+01,  -8.82) ('Kiev',  3.0520e+01,  50.43)
+ ('Rome',  1.2500e+01,  41.89) ('Dakar', -1.7480e+01,  14.72)
+ ('Mashhad',  5.9570e+01,  36.27) ('Kabul',  6.9170e+01,  34.53)
+ ('Fortaleza', -3.8590e+01,  -3.78)
+ ('Belo Horizonte', -4.3940e+01, -19.92)
+ ('Santo Domingo', -6.9910e+01,  18.48) ('Maracaibo', -7.1660e+01,  10.73)
+ ('Brasilia', -4.7910e+01, -15.78) ('Umm Durman',  3.2480e+01,  15.65)
+ ('Nagpur',  7.9080e+01,  21.16) ('Taegu',  1.2860e+02,  35.87)
+ ('Surabaya',  1.1274e+02,  -7.24) ('Kano',  8.5200e+00,  12.  )
+ ('Medellin', -7.5540e+01,   6.29) ('Accra', -2.0000e-01,   5.56)
+ ('Benin',  5.6200e+00,   6.34) ('Shijiazhuang',  1.1448e+02,  38.05)
+ ('Nagoya',  1.3691e+02,  35.15) ('Changsha',  1.1297e+02,  28.2 )
+ ('Khartoum',  3.2520e+01,  15.58) ('Houston', -9.5390e+01,  29.77)
+ ('Guayaquil', -7.9900e+01,  -2.21) ('Cali', -7.6520e+01,   3.44)
+ ('Jinan',  1.1700e+02,  36.67) ('Algiers',  3.0400e+00,  36.77)
+ ('Havanna', -8.2390e+01,  23.13) ('Paris',  2.3400e+00,  48.86)
+ ('Tashkent',  6.9300e+01,  41.31) ('Jilin',  1.2655e+02,  43.85)
+ ('Dalian',  1.2165e+02,  38.92) ('Zhengzhou',  1.1367e+02,  34.75)
+ ('Nanchang',  1.1588e+02,  28.68) ('Bayrut',  3.5500e+01,  33.89)
+ ('Vancouver', -1.2313e+02,  49.28) ('Douala',  9.7100e+00,   4.06)
+ ('Johannesburg',  2.8040e+01, -26.19) ('Jiulong',  1.1417e+02,  22.32)
+ ('Kaduna',  7.4400e+00,  10.52) ('Ecatepec', -9.9050e+01,  19.6 )
+ ('Caracas', -6.6930e+01,  10.54) ('Port Harcourt',  7.0100e+00,   4.81)
+ ('Bucharest',  2.6100e+01,  44.44) ('Sapporo',  1.4134e+02,  43.06)
+ ('Hangzhou',  1.2017e+02,  30.25) ('Rawalpindi',  7.3040e+01,  33.6 )
+ ("San'a",  4.4210e+01,  15.38) ('Curitiba', -4.9290e+01, -25.42)
+ ('Conakry', -1.3670e+01,   9.55) ('al-Basrah',  4.7820e+01,  30.53)
+ ('Xinyang',  1.1407e+02,  32.13) ('Brisbane',  1.5302e+02, -27.46)
+ ('Medan',  9.8670e+01,   3.59) ('Indore',  7.5860e+01,  22.72)
+ ('Kumasi', -1.6300e+00,   6.69) ('Manaus', -6.0020e+01,  -3.12)
+ ('Rabat', -6.8400e+00,  34.02) ('Minsk',  2.7550e+01,  53.91)
+ ('Hamburg',  1.0000e+01,  53.55) ('Valencia', -6.7980e+01,  10.23)
+ ('Soweto',  2.7840e+01, -26.28) ('Bhopal',  7.7400e+01,  23.24)
+ ('Patna',  8.5130e+01,  25.62) ('Qingdao',  1.2032e+02,  36.07)
+ ('Warsaw',  2.1020e+01,  52.26) ('Vienna',  1.6370e+01,  48.22)
+ ('Yaounde',  1.1520e+01,   3.87) ('Aleppo',  3.7170e+01,  36.23)
+ ('Dubai',  5.5330e+01,  25.27) ('Bekasi',  1.0697e+02,  -6.22)
+ ('Thana',  7.2970e+01,  19.2 ) ('Budapest',  1.9080e+01,  47.51)
+ ('Bamako', -7.9900e+00,  12.65) ('Harare',  3.1050e+01, -17.82)
+ ('Esfahan',  5.1680e+01,  32.68) ('Ludhiana',  7.5840e+01,  30.91)
+ ('Bandung',  1.0760e+02,  -6.91) ('Barcelona',  2.1700e+00,  41.4 )
+ ('Lubumbashi',  2.7480e+01, -11.66) ('Pretoria',  2.8220e+01, -25.73)
+ ('Guadalajara', -1.0335e+02,  20.67) ('Muqdisho',  4.5330e+01,   2.05)
+ ('Tangshan',  1.1819e+02,  39.62) ('Damascus',  3.6320e+01,  33.5 )
+ ('Quito', -7.8500e+01,  -0.19) ('Phoenix', -1.1207e+02,  33.54)
+ ('Urumqi',  8.7580e+01,  43.8 ) ('Agra',  7.8010e+01,  27.19)
+ ('Antananarivo',  4.7510e+01, -18.89) ('Davao',  1.2563e+02,   7.11)
+ ('Kobe',  1.3517e+02,  34.68) ('Santa Cruz', -6.3210e+01, -17.77)
+ ('Tijuana', -1.1702e+02,  32.53) ('Juarez', -1.0649e+02,  31.74)
+ ('Recife', -3.4920e+01,  -8.08) ('Multan',  7.1450e+01,  30.2 )
+ ('Gaoxiong',  1.2027e+02,  22.63) ('Ha Noi',  1.0584e+02,  21.03)
+ ('Cordoba', -6.4190e+01, -31.4 ) ('Belem', -4.8500e+01,  -1.44)
+ ('Lome',  1.3500e+00,   6.17) ('Kampala',  3.2580e+01,   0.32)
+ ('Hyderabad',  6.8370e+01,  25.38) ('Vadodara',  7.3180e+01,  22.31)
+ ('Suzhou',  1.2062e+02,  31.3 ) ('Gujranwala',  7.4180e+01,  32.16)
+ ('Mbuji-Mayi',  2.3590e+01,  -6.13) ('Bursa',  2.9080e+01,  40.2 )
+ ('Karaj',  5.0970e+01,  35.8 ) ('Pimpri',  7.3800e+01,  18.62)
+ ('Tangerang',  1.0663e+02,  -6.18) ('Kyoto',  1.3575e+02,  35.01)
+ ('Kharkiv',  3.6220e+01,  49.98) ('Puebla', -9.8220e+01,  19.05)
+ ('Aba',  7.3500e+00,   5.1 ) ('Kuala Lumpur',  1.0171e+02,   3.16)
+ ('Nashik',  7.3780e+01,  20.01) ('Philadelphia', -7.5130e+01,  40.01)
+ ('Fukuoka',  1.3041e+02,  33.59) ('Taejon',  1.2743e+02,  36.33)
+ ('Lanzhou',  1.0368e+02,  36.05) ('Mecca',  3.9820e+01,  21.43)
+ ('Shantou',  1.1667e+02,  23.37) ('Hefei',  1.1728e+02,  31.85)
+ ('Koyang',  1.2693e+02,  37.7 ) ('Novosibirsk',  8.2930e+01,  55.04)
+ ('Tabriz',  4.6300e+01,  38.08) ('Adana',  3.5320e+01,  37.  )
+ ('Porto Alegre', -5.1220e+01, -30.04) ('Faridabad',  7.7300e+01,  28.38)
+ ('Narayanganj',  9.0500e+01,  23.62) ('Phnum Penh',  1.0492e+02,  11.57)
+ ('Makasar',  1.1941e+02,  -5.14) ('Fushun',  1.2388e+02,  41.87)
+ ('Luoyang',  1.1247e+02,  34.68) ('Khulna',  8.9560e+01,  22.84)
+ ('Lusaka',  2.8290e+01, -15.42) ('Depok',  1.0683e+02,  -6.39)
+ ('Handan',  1.1448e+02,  36.58) ('San Antonio', -9.8510e+01,  29.46)
+ ('Ghaziabad',  7.7410e+01,  28.66) ('Kawasaki',  1.3970e+02,  35.53)
+ ('Kwangju',  1.2691e+02,  35.16) ('Peshawar',  7.1540e+01,  34.01)
+ ('Rajkot',  7.0790e+01,  22.31) ('Mandalay',  9.6090e+01,  21.98)
+ ('Suwon',  1.2701e+02,  37.26) ('Almaty',  7.6920e+01,  43.32)
+ ('Munich',  1.1580e+01,  48.14) ('Milan',  9.1900e+00,  45.48)
+ ('Baotou',  1.1005e+02,  40.6 ) ('Mirat',  7.7700e+01,  28.99)
+ ('Kalyan',  7.3160e+01,  19.25) ('Xianggangdao',  1.1414e+02,  22.27)
+ ('Rongcheng',  1.1634e+02,  23.54) ('Yekaterinburg',  6.0600e+01,  56.85)
+ ('Ouagadougou', -1.5300e+00,  12.37) ('Guarulhos', -4.6490e+01, -23.46)
+ ('Montevideo', -5.6170e+01, -34.87) ('Xuzhou',  1.1718e+02,  34.27)
+ ('Palembang',  1.0475e+02,  -2.99) ('Semarang',  1.1042e+02,  -6.97)
+ ('Perth',  1.1584e+02, -31.96) ('Stockholm',  1.8070e+01,  59.33)
+ ('Dallas', -9.6770e+01,  32.79) ('San Diego', -1.1714e+02,  32.81)
+ ('Goiania', -4.9260e+01, -16.72) ('Gaziantep',  3.7390e+01,  37.07)
+ ('Nizhniy Novgoro',  4.4000e+01,  56.33) ('Fuzhou',  1.1930e+02,  26.08)
+ ('Rosario', -6.0670e+01, -32.94) ('Nezahualcoyotl', -9.9030e+01,  19.41)
+ ('Shiraz',  5.2570e+01,  29.63) ('Shenzhen',  1.1413e+02,  22.53)
+ ('Saitama',  1.3964e+02,  35.87) ('Tripoli',  1.3180e+01,  32.87)
+ ('Yerevan',  4.4520e+01,  40.17) ('Baku',  4.9860e+01,  40.39)
+ ('Varanasi',  8.3010e+01,  25.32) ('Guiyang',  1.0672e+02,  26.58)
+ ('Anshan',  1.2295e+02,  41.12) ('Wuxi',  1.2030e+02,  31.58)
+ ('Subang Jaya',  1.0153e+02,   3.15) ('Brazzaville',  1.5260e+01,  -4.25)
+ ('Leon', -1.0169e+02,  21.12) ('Prague',  1.4430e+01,  50.08)
+ ('Amritsar',  7.4870e+01,  31.64) ('Huainan',  1.1698e+02,  32.63)
+ ('Hiroshima',  1.3244e+02,  34.39) ('Monrovia', -1.0800e+01,   6.31)
+ ('Barranquilla', -7.4800e+01,  10.96) ('Tbilisi',  4.4790e+01,  41.72)
+ ("'Amman",  3.5930e+01,  31.95) ('Abuja',  7.4900e+00,   9.06)
+ ('Omsk',  7.3400e+01,  55.  ) ('Aurangabad',  7.5320e+01,  19.89)
+ ('Navi Mumbai',  7.3060e+01,  19.11) ('Sofia',  2.3310e+01,  42.69)
+ ('Monterrey', -1.0032e+02,  25.67)
+ ('Port Elizabeth',  2.5590e+01, -33.96) ('Maputo',  3.2570e+01, -25.95)
+ ('Allahabad',  8.1840e+01,  25.45) ('Samara',  5.0150e+01,  53.2 )
+ ('Belgrade',  2.0500e+01,  44.83) ('Campinas', -4.7080e+01, -22.91)
+ ('Sholapur',  7.5890e+01,  17.67) ('Kazan',  4.9130e+01,  55.75)
+ ('Irbil',  4.4010e+01,  36.18) ('Barquisimeto', -6.9300e+01,  10.05)
+ ('K?benhavn',  1.2580e+01,  55.67) ('Baoding',  1.1548e+02,  38.87)
+ ('Xianyang',  1.0870e+02,  34.37) ('Maceio', -3.5750e+01,  -9.65)
+ ('Nova Iguacu', -4.3470e+01, -22.74) ('Guatemala', -9.0550e+01,  14.63)
+ ('Maiduguri',  1.3160e+01,  11.85) ('Kunming',  1.0270e+02,  25.05)
+ ('Taizhong',  1.2068e+02,  24.15) ('Datong',  1.1330e+02,  40.08)
+ ('Dublin', -6.2500e+00,  53.33) ('Visakhapatnam',  8.3300e+01,  17.73)
+ ('Jabalpur',  7.9940e+01,  23.17) ('Rostov-na-Donu',  3.9710e+01,  47.24)
+ ("Dnipropetrovs'k",  3.4980e+01,  48.45)
+ ('Shubra-El-Khema',  3.1250e+01,  30.11)
+ ('Srinagar',  7.4790e+01,  34.09) ('Benxi',  1.2375e+02,  41.33)
+ ('Chelyabinsk',  6.1430e+01,  55.15) ('al-Madinah',  3.9590e+01,  24.48)
+ ('Brussels',  4.3300e+00,  50.83) ('Calgary', -1.1406e+02,  51.05)
+ ('Zapopan', -1.0340e+02,  20.72) ('Haora',  8.8330e+01,  22.58)
+ ('Adelaide',  1.3860e+02, -34.93) ('Sendai',  1.4089e+02,  38.26)
+ ('Songnam',  1.2715e+02,  37.44) ('Ranchi',  8.5330e+01,  23.36)
+ ('Ilorin',  4.5500e+00,   8.49) ('Tegucigalpa', -8.7220e+01,  14.09)
+ ('Fez', -5.0000e+00,  34.05) ('Ahvaz',  4.8720e+01,  31.28)
+ ('Ufa',  5.6040e+01,  54.78) ('Chandigarh',  7.6780e+01,  30.75)
+ ('Klang',  1.0145e+02,   3.04) ('Koyampattur',  7.6960e+01,  11.01)
+ ('Qom',  5.0950e+01,  34.65) ('Cologne',  6.9700e+00,  50.95)
+ ('Odesa',  3.0730e+01,  46.47) ('Donetsk',  3.7820e+01,  48.  )
+ ('Jodhpur',  7.3020e+01,  26.29) ('Sao Goncalo', -4.3070e+01, -22.84)
+ ('Sao Luis', -4.4300e+01,  -2.5 ) ('Perm',  5.6250e+01,  58.  )
+ ('Huaibei',  1.1675e+02,  33.95) ('Kitakyushu',  1.3086e+02,  33.88)
+ ('Changzhou',  1.1997e+02,  31.78) ('Guwahati',  9.1750e+01,  26.19)
+ ('Maisuru',  7.6650e+01,  12.31) ('Volgograd',  4.4480e+01,  48.71)
+ ('Naples',  1.4270e+01,  40.85) ('Konya',  3.2480e+01,  37.88)
+ ('Vijayawada',  8.0630e+01,  16.52) ('Ulsan',  1.2931e+02,  35.55)
+ ('Birmingham', -1.9100e+00,  52.48) ('San Jose', -1.2185e+02,  37.3 )
+ ('Ciudad Guayana', -6.2620e+01,   8.37) ('Kolwezi',  2.5660e+01, -10.7 )
+ ('Padang',  1.0035e+02,  -0.95) ('Chiba',  1.4011e+02,  35.61)
+ ('Mendoza', -6.8830e+01, -32.89) ('Managua', -8.6270e+01,  12.15)
+ ('Biskek',  7.4570e+01,  42.87) ('Kathmandu',  8.5310e+01,  27.71)
+ ('Gwalior',  7.8170e+01,  26.23) ('Niamey',  2.1200e+00,  13.52)
+ ('El Alto', -6.8170e+01, -16.5 ) ('Kigali',  3.0060e+01,  -1.94)
+ ('Qiqihar',  1.2400e+02,  47.35) ('Ulaanbaatar',  1.0691e+02,  47.93)
+ ('Krasnoyarsk',  9.3060e+01,  56.02) ('Madurai',  7.8120e+01,   9.92)
+ ('Asgabat',  5.8380e+01,  37.95) ('al-H?artum Bah?',  3.2520e+01,  15.64)
+ ('Arequipa', -7.1530e+01, -16.39) ('Edmonton', -1.1354e+02,  53.57)
+ ('Marrakesh', -8.0000e+00,  31.63) ('Pingdingshan',  1.1330e+02,  33.73)
+ ('Bandar Lampung',  1.0527e+02,  -5.44) ('Hubli',  7.5130e+01,  15.36)
+ ('La Paz', -6.8150e+01, -16.5 ) ('Cartagena', -7.5500e+01,  10.4 )
+ ('Ottawa', -7.5710e+01,  45.42) ('Wenzhou',  1.2065e+02,  28.02)
+ ('Johor Bahru',  1.0375e+02,   1.48) ('Mombasa',  3.9660e+01,  -4.04)
+ ('Lilongwe',  3.3800e+01, -13.97)
+ ('Duque de Caxias', -4.3310e+01, -22.77) ('Turin',  7.6800e+00,  45.08)
+ ('Jalandhar',  7.5570e+01,  31.33) ('Abu Dhabi',  5.4370e+01,  24.48)
+ ('Warri',  5.7600e+00,   5.52) ('Valencia', -3.9000e-01,  39.48)
+ ('Oslo',  1.0750e+01,  59.91) ('ad-Dammam',  5.0100e+01,  26.43)
+ ('Mira Bhayandar',  7.2850e+01,  19.29) ('Taian',  1.1712e+02,  36.2 )
+ ('Salem',  7.8160e+01,  11.67) ('Pietermaritzbur',  3.0390e+01, -29.61)
+ ('Naucalpan', -9.9230e+01,  19.48) ('H?ims',  3.6720e+01,  34.73)
+ ('Bhubaneswar',  8.5840e+01,  20.27) ('Hamamatsu',  1.3773e+02,  34.72)
+ ('Saratov',  4.6030e+01,  51.57) ('Kirkuk',  4.4390e+01,  35.47)
+ ('Detroit', -8.3100e+01,  42.38) ('Onitsha',  6.7800e+00,   6.14)
+ ('Quetta',  6.7020e+01,  30.21) ('Aligarh',  7.8060e+01,  27.89)
+ ('Sakai',  1.3548e+02,  34.57) ('Voronezh',  3.9260e+01,  51.72)
+ ('Freetown', -1.3240e+01,   8.49) ('Tucuman', -6.5220e+01, -26.83)
+ ('Bogor',  1.0679e+02,  -6.58) ('Niigata',  1.3904e+02,  37.92)
+ ('Jacksonville', -8.1660e+01,  30.33)
+ ('Thiruvananthapu',  7.6950e+01,   8.51) ('Cebu',  1.2390e+02,  10.32)
+ ('Bareli',  7.9410e+01,  28.36) ('Natal', -3.5220e+01,  -5.8 )
+ ('Kota',  7.5830e+01,  25.18) ('Puchon',  1.2677e+02,  37.48)
+ ('Shihung',  1.2689e+02,  37.46) ('Tiruchchirappal',  7.8690e+01,  10.81)
+ ('Sharjah',  5.5410e+01,  25.37) ('Trujillo', -7.9030e+01,  -8.11)
+ ('Kermanshah',  4.7060e+01,  34.38) ('Qinhuangdao',  1.1962e+02,  39.93)
+ ('Anyang',  1.1435e+02,  36.08) ('Bhiwandi',  7.3050e+01,  19.3 )
+ ('an-Najaf',  4.4340e+01,  32.  ) ('Teresina', -4.2800e+01,  -5.1 )
+ ('Sao Bernardo do', -4.6540e+01, -23.71) ('Nanning',  1.0832e+02,  22.82)
+ ('Antalya',  3.0710e+01,  36.89) ('Indianapolis', -8.6150e+01,  39.78)
+ ('Campo Grande', -5.4630e+01, -20.45) ('Jaboatao', -3.5020e+01,  -8.11)
+ ('Hohhot',  1.1164e+02,  40.82) ('Zaporizhzhya',  3.5170e+01,  47.85)
+ ('Marseille',  5.3700e+00,  43.31) ('Moradabad',  7.8760e+01,  28.84)
+ ('Zhangjiakou',  1.1493e+02,  40.83) ('Liuzhou',  1.0925e+02,  24.28)
+ ('Rajshahi',  8.8590e+01,  24.37) ('Nouakchott', -1.5980e+01,  18.09)
+ ('Xining',  1.0177e+02,  36.62) ('Tainan',  1.2019e+02,  23.  )
+ ('Yantai',  1.2140e+02,  37.53) ('Hegang',  1.3037e+02,  47.4 )
+ ('Port-au-Prince', -7.2340e+01,  18.54) ('Akure',  5.1900e+00,   7.25)
+ ("N'Djamena",  1.5050e+01,  12.11) ('Guadalupe', -1.0026e+02,  25.68)
+ ('Cracow',  1.9960e+01,  50.06) ('Malang',  1.1262e+02,  -7.98)
+ ('Hengyang',  1.1262e+02,  26.89) ('Puyang',  1.1498e+02,  35.7 )
+ ('Jerusalem',  3.5220e+01,  31.78) ('Athens',  2.3730e+01,  37.98)
+ ('San Francisco', -1.2245e+02,  37.77) ('Amsterdam',  4.8900e+00,  52.37)
+ ('?odz',  1.9460e+01,  51.77) ('Austin', -9.7750e+01,  30.31)
+ ('Merida', -8.9620e+01,  20.97) ('Abeokuta',  3.3500e+00,   7.16)
+ ('Raipur',  8.1630e+01,  21.24) ('Xinxiang',  1.1387e+02,  35.32)
+ ('Tunis',  1.0220e+01,  36.84) ('Columbus', -8.2990e+01,  39.99)
+ ('Chihuahua', -1.0608e+02,  28.63) ('Cotonou',  2.4400e+00,   6.36)
+ ("L'viv",  2.4000e+01,  49.83) ('Pekan Baru',  1.0143e+02,   0.56)
+ ('Blantyre',  3.4990e+01, -15.79) ('Bulawayo',  2.8580e+01, -20.17)
+ ('La Plata', -5.7960e+01, -34.92) ('Tangier', -5.8100e+00,  35.79)
+ ('Kayseri',  3.5480e+01,  38.74) ('Tolyatti',  4.9510e+01,  53.48)
+ ('Langfang',  1.1668e+02,  39.52) ('Ningbo',  1.2155e+02,  29.88)
+ ('Ampang Jaya',  1.0177e+02,   3.15) ('Foshan',  1.1312e+02,  23.03)
+ ('Liaoyang',  1.2318e+02,  41.28) ('Riga',  2.4130e+01,  56.97)
+ ('Kryvyy Rih',  3.3350e+01,  47.92) ('Changzhi',  1.1175e+02,  35.22)
+ ('Chonju',  1.2714e+02,  35.83) ('Zamboanga',  1.2208e+02,   6.92)
+ ('as-Sulaymaniyah',  4.5430e+01,  35.56) ('Osasco', -4.6780e+01, -23.53)
+ ('Libreville',  9.4500e+00,   0.39) ('Gorakhpur',  8.3360e+01,  26.76)
+ ('Fort Worth', -9.7340e+01,  32.75)
+ ('San Luis Potosi', -1.0098e+02,  22.16)
+ ('Tlalnepantla', -9.9190e+01,  19.54) ('Sevilla', -5.9800e+00,  37.4 )
+ ('Zagreb',  1.5970e+01,  45.8 ) ('Huangshi',  1.1510e+02,  30.22)
+ ('Zhuzhou',  1.1315e+02,  27.83) ('Shaoguan',  1.1358e+02,  24.8 )
+ ('Guilin',  1.1028e+02,  25.28) ('Matola',  3.2460e+01, -25.97)
+ ('Puente Alto', -7.0570e+01, -33.61)
+ ('Aguascalientes', -1.0230e+02,  21.88) ('Benghazi',  2.0070e+01,  32.12)
+ ('Fuxin',  1.2165e+02,  42.01) ('Shizuoka',  1.3839e+02,  34.98)
+ ('Ipoh',  1.0107e+02,   4.6 ) ('Contagem', -4.4100e+01, -19.91)
+ ('Joao Pessoa', -3.4860e+01,  -7.12) ('Dushanbe',  6.8780e+01,  38.57)
+ ('Zhanjiang',  1.1038e+02,  21.2 ) ('Xingtai',  1.1449e+02,  37.07)
+ ('Okayama',  1.3392e+02,  34.67) ('Yogyakarta',  1.1037e+02,  -7.78)
+ ('Bhilai',  8.1380e+01,  21.21) ('Mudanjiang',  1.2960e+02,  44.58)
+ ('Zigong',  1.0478e+02,  29.4 ) ('Colombo',  7.9850e+01,   6.93)
+ ('Wahran', -6.2000e-01,  35.7 ) ('Enugu',  7.5100e+00,   6.44)
+ ('Santo Andre', -4.6530e+01, -23.65)
+ ('Chimalhuacan', -9.8960e+01,  19.44) ('Memphis', -9.0010e+01,  35.11)
+ ('Shatian',  1.1419e+02,  22.38) ('Kumamoto',  1.3071e+02,  32.8 )
+ ('Zhangdian',  1.1806e+02,  36.8 )
+ ('Sao Jose dos Ca', -4.5880e+01, -23.2 )
+ ('Acapulco', -9.9920e+01,  16.85) ('Quebec', -7.1230e+01,  46.82)
+ ('Zaria',  7.7100e+00,  11.08) ('Dasmarinas',  1.2093e+02,  14.33)
+ ('Nantong',  1.2082e+02,  32.02) ('Xiangtan',  1.1290e+02,  27.85)
+ ('Shaoyang',  1.1120e+02,  27.  ) ('Pointe Noire',  1.1870e+01,  -4.77)
+ ('Queretaro', -1.0040e+02,  20.59) ('Charlotte', -8.0830e+01,  35.2 )
+ ('Panjin',  1.2205e+02,  41.18) ('Hamilton', -7.9850e+01,  43.26)
+ ('Saltillo', -1.0100e+02,  25.42) ('Islamabad',  7.3060e+01,  33.72)
+ ('Ansan',  1.2686e+02,  37.35) ('Jamshedpur',  8.6200e+01,  22.79)
+ ('Cancun', -8.6830e+01,  21.17) ('Zaragoza', -8.9000e-01,  41.65)
+ ('Frankfurt',  8.6800e+00,  50.12) ('Palermo',  1.3360e+01,  38.12)
+ ('Dandong',  1.2440e+02,  40.13) ('Haikou',  1.1032e+02,  20.05)
+ ('Amravati',  7.7760e+01,  20.95) ("'Adan",  4.5030e+01,  12.79)
+ ('Winnipeg', -9.7170e+01,  49.88) ('Zhangzhou',  1.1767e+02,  24.52)
+ ('Sagamihara',  1.3938e+02,  35.58) ('Kuching',  1.1034e+02,   1.55)
+ ('Kataka',  8.5880e+01,  20.47) ('Gazzah',  3.4440e+01,  31.53)
+ ('El Paso', -1.0644e+02,  31.85) ('Wroc?aw',  1.7030e+01,  51.11)
+ ('Krasnodar',  3.8980e+01,  45.03) ('Zhenjiang',  1.1943e+02,  32.22)
+ ('Asmara',  3.8940e+01,  15.33) ('Benoni',  2.8330e+01, -26.15)
+ ('Baltimore', -7.6610e+01,  39.3 ) ('Mersin',  3.4630e+01,  36.81)
+ ('Izhevsk',  5.3230e+01,  56.85) ('Yancheng',  1.2012e+02,  33.39)
+ ('Yuanlong',  1.1402e+02,  22.44) ('Uberlandia', -4.8280e+01, -18.9 )
+ ('Hermosillo', -1.1097e+02,  29.07) ('Ulyanovsk',  4.8400e+01,  54.33)
+ ('Bouake', -5.0300e+00,   7.69) ('Santiago', -7.0690e+01,  19.48)
+ ('Mexicali', -1.1547e+02,  32.65) ('Hai Phong',  1.0668e+02,  20.86)
+ ('Anyang',  1.2692e+02,  37.39) ('Dadiangas',  1.2525e+02,   6.1 )
+ ('Jos',  8.8900e+00,   9.93) ('Oshogbo',  4.5600e+00,   7.77)
+ ('Sorocaba', -4.7470e+01, -23.49) ('Morelia', -1.0118e+02,  19.72)
+ ("al-'Ayn",  5.5740e+01,  24.23) ('Bikaner',  7.3320e+01,  28.03)
+ ('Taizhou',  1.1990e+02,  32.49) ('Chongju',  1.2750e+02,  36.64)
+ ('Xiamen',  1.1808e+02,  24.45) ('Antipolo',  1.2118e+02,  14.59)
+ ('Cochabamba', -6.6170e+01, -17.38) ('Culiacan', -1.0739e+02,  24.8 )
+ ('Kagoshima',  1.3056e+02,  31.59) ('Siping',  1.2433e+02,  43.17)
+ ('Yingkou',  1.2228e+02,  40.67) ('Luancheng',  1.1465e+02,  37.88)
+ ('Banjarmasin',  1.1459e+02,  -3.33) ('Orumiyeh',  4.5000e+01,  37.53)
+ ('Diyarbak?r',  4.0230e+01,  37.92) ('Yaroslavl',  3.9870e+01,  57.62)
+ ('Chisinau',  2.8830e+01,  47.03) ('Djibouti',  4.3150e+01,  11.59)
+ ('Mixco', -9.0600e+01,  14.64) ('Seattle', -1.2235e+02,  47.62)
+ ('Rotterdam',  4.4800e+00,  51.93) ('Stuttgart',  9.1900e+00,  48.79)
+ ('Khabarovsk',  1.3512e+02,  48.42) ('Jinzhou',  1.2110e+02,  41.12)
+ ('San Pedro Sula', -8.8030e+01,  15.47)
+ ('Kisangani',  2.5190e+01,   0.53) ('Bengbu',  1.1733e+02,  32.95)
+ ('Irkutsk',  1.0424e+02,  52.33) ('Shihezi',  8.6030e+01,  44.3 )
+ ('Maracay', -6.7470e+01,  10.33) ('Cucuta', -7.2510e+01,   7.88)
+ ('Bhavnagar',  7.2130e+01,  21.79) ('Port Said',  3.2290e+01,  31.26)
+ ('Genoa',  8.9300e+00,  44.42) ('Denver', -1.0487e+02,  39.77)
+ ('Dortmund',  7.4800e+00,  51.51) ('Barnaul',  8.3750e+01,  53.36)
+ ('Jiangmen',  1.1308e+02,  22.58) ('Veracruz', -9.6140e+01,  19.19)
+ ('Washington', -7.7020e+01,  38.91) ('Vladivostok',  1.3190e+02,  43.13)
+ ('Ribeirao Preto', -4.7800e+01, -21.17)
+ ('Mar del Plata', -5.7580e+01, -38.  ) ('Boston', -7.1020e+01,  42.34)
+ ('Eskisehir',  3.0520e+01,  39.79) ('Warangal',  7.9580e+01,  18.01)
+ ('Zahedan',  6.0830e+01,  29.5 ) ('Dusseldorf',  6.7900e+00,  51.24)
+ ('Essen',  7.0000e+00,  51.47) ('Kaifeng',  1.1435e+02,  34.85)
+ ('Glasgow', -4.2700e+00,  55.87) ('Kingston', -7.6800e+01,  17.99)
+ ('Shah Alam',  1.0156e+02,   3.07) ('Maoming',  1.1087e+02,  21.92)
+ ('Hachioji',  1.3933e+02,  35.66) ('Funabashi',  1.3999e+02,  35.7 )
+ ('Hamhung',  1.2754e+02,  39.91) ('Sargodha',  7.2670e+01,  32.08)
+ ('Meknes', -5.5600e+00,  33.9 ) ('Las Vegas', -1.1522e+02,  36.21)
+ ('Villa Nueva', -9.0590e+01,  14.53) ('Resht',  4.9630e+01,  37.3 )
+ ('Cangzhou',  1.1687e+02,  38.32) ('Tanggu',  1.1767e+02,  39.  )
+ ('Helsinki',  2.4940e+01,  60.17) ('Malaga', -4.4200e+00,  36.72)
+ ('Milwaukee', -8.7970e+01,  43.06) ('Nashville', -8.6780e+01,  36.17)
+ ('Ife',  4.5600e+00,   7.48) ("at-Ta'if",  4.0380e+01,  21.26)
+ ('Changde',  1.1168e+02,  29.03) ('Surakarta',  1.1082e+02,  -7.57)
+ ('Bloemfontein',  2.6230e+01, -29.15) ('Poznan',  1.6900e+01,  52.4 )
+ ('Barcelona', -6.4720e+01,  10.13) ('Reynosa', -9.8280e+01,  26.08)
+ ('Lopez Mateos', -9.9260e+01,  19.57) ('Cuiaba', -5.6090e+01, -15.61)
+ ('Bangui',  1.8560e+01,   4.36) ('Xigong',  1.1425e+02,  22.33)
+ ('Shiliguri',  8.8420e+01,  26.73) ('Oklahoma City', -9.7510e+01,  35.47)
+ ('Louisville', -8.5740e+01,  38.22) ('Jiamusi',  1.3035e+02,  46.83)
+ ('Huaiyin',  1.1903e+02,  33.58) ('Welkom',  2.6730e+01, -27.97)
+ ('Kolhapur',  7.4220e+01,  16.7 ) ('Rajpur',  8.8440e+01,  22.44)
+ ('Ulhasnagar',  7.3150e+01,  19.23) ('Bremen',  8.8100e+00,  53.08)
+ ('San Salvador', -8.9190e+01,  13.69) ('Tembisa',  2.8220e+01, -25.99)
+ ('Banqiao',  1.2144e+02,  25.02) ('Maanshan',  1.1848e+02,  31.73)
+ ('Portland', -1.2266e+02,  45.54) ('Toluca', -9.9670e+01,  19.29)
+ ('Gold Coast',  1.5344e+02, -28.07)
+ ('Kota Kinabalu',  1.1607e+02,   5.97) ('Agadir', -9.6100e+00,  30.42)
+ ('Vilnius',  2.5270e+01,  54.7 ) ('Orenburg',  5.5100e+01,  51.78)
+ ('Ajmer',  7.4640e+01,  26.45) ('Guntur',  8.0440e+01,  16.31)
+ ('Neijiang',  1.0505e+02,  29.58) ('Durgapur',  8.7310e+01,  23.5 )
+ ('Salta', -6.5410e+01, -24.79) ('Novokuznetsk',  8.7100e+01,  53.75)
+ ('Yangzhou',  1.1943e+02,  32.4 ) ('Shashi',  1.1223e+02,  30.32)
+ ('Aparecida de Go', -4.9240e+01, -16.82)
+ ('Asuncion', -5.7630e+01, -25.3 )
+ ('Ribeirao das Ne', -4.4080e+01, -19.76)
+ ('Sangli-Miraj',  7.4570e+01,  16.86)
+ ('Petaling Jaya',  1.0162e+02,   3.1 ) ('Dehra Dun',  7.8050e+01,  30.34)
+ ('Maturin', -6.3170e+01,   9.75) ('Torreon', -1.0343e+02,  25.55)
+ ('Jiaozuo',  1.1322e+02,  35.25) ('Zhuhai',  1.1357e+02,  22.28)
+ ('Nanded',  7.7290e+01,  19.17) ('Tyumen',  6.5530e+01,  57.15)
+ ('Albuquerque', -1.0662e+02,  35.12) ('Suez',  3.2540e+01,  29.98)
+ ('Cagayan',  1.2467e+02,   8.45) ('Mwanza',  3.2890e+01,  -2.52)
+ ('Petare', -6.6830e+01,  10.52) ('Soledad', -7.4770e+01,  10.92)
+ ('Uijongbu',  1.2704e+02,  37.74) ('Yueyang',  1.1310e+02,  29.38)
+ ("Ta'izz",  4.4040e+01,  13.6 ) ('Feira de Santan', -3.8970e+01, -12.25)
+ ('Tucson', -1.1089e+02,  32.2 ) ('Naberezhnyye Ch',  5.2320e+01,  55.69)
+ ('Matsuyama',  1.3277e+02,  33.84) ('Kerman',  5.7080e+01,  30.3 )
+ ('Garoua',  1.3390e+01,   9.3 ) ('Tuxtla Gutierre', -9.3120e+01,  16.75)
+ ('Tlaquepaque', -1.0332e+02,  20.64) ('Jammu',  7.4850e+01,  32.71)
+ ('Gulbarga',  7.6820e+01,  17.34) ('Jamnagar',  7.0070e+01,  22.47)
+ ('Hanover',  9.7300e+00,  52.4 ) ('Chiclayo', -7.9840e+01,  -6.76)
+ ('Bucaramanga', -7.3130e+01,   7.13) ('Goteborg',  1.2010e+01,  57.72)
+ ('Ryazan',  3.9740e+01,  54.62) ('Bahawalpur',  7.1670e+01,  29.39)
+ ('Bhatpara',  8.8420e+01,  22.89) ('Zhunmen',  1.1398e+02,  22.41)
+ ('Calamba',  1.2115e+02,  14.21) ('Changwon',  1.2862e+02,  35.27)
+ ('Zunyi',  1.0692e+02,  27.7 ) ('Lipetsk',  3.9620e+01,  52.62)
+ ('Dresden',  1.3740e+01,  51.05) ('Aracaju', -3.7070e+01, -10.91)
+ ('H?amah',  3.6730e+01,  35.15) ('Saharanpur',  7.7540e+01,  29.97)
+ ('Niyala',  2.4890e+01,  12.06) ('San Nicolas de ', -1.0030e+02,  25.75)
+ ('Leipzig',  1.2400e+01,  51.35) ('al-H?illah',  4.4430e+01,  32.48)
+ ('Xuchang',  1.1382e+02,  34.02) ('Higashiosaka',  1.3559e+02,  34.67)
+ ('Wuhu',  1.1837e+02,  31.35) ('Kananga',  2.2400e+01,  -5.89)
+ ('Boma',  1.3050e+01,  -5.85) ('Atlanta', -8.4420e+01,  33.76)
+ ('Tabuk',  3.6570e+01,  28.39) ('Mykolayiv',  3.2000e+01,  46.97)
+ ('Nuremberg',  1.1050e+01,  49.45)
+ ('Cuautitlan Izca', -9.9250e+01,  19.65)
+ ('Santa Fe', -6.0690e+01, -31.6 ) ('Londrina', -5.1180e+01, -23.3 )
+ ('Bombay',  7.2820e+01,  18.96)]
+random start point being given row=0
+Distance 71096.9948981
+Distance 71077.6945635
+Distance 71015.2879373
+Distance 71005.991436
+Distance 70837.8756815
+Distance 70815.6841904
+Distance 70810.8050203
+Distance 70808.2702123
+Distance 70767.6201908
+Distance 70599.7214416
+Distance 70501.031109
+Distance 70366.334622
+Distance 70351.6249438
+Distance 70291.5355025
+Distance 70288.0513255
+Distance 70278.3853563
+Distance 70272.2601943
+Distance 70035.2642906
+Distance 69998.8640372
+Distance 69997.2816279
+Distance 69974.4048689
+Distance 69971.605962
+Distance 69961.4690191
+Distance 69957.4895009
+Distance 69945.6087371
+Distance 69877.7704206
+Distance 69808.8906039
+Distance 69799.8830638
+Distance 69770.1262755
+Distance 69646.2232611
+Distance 69640.7628193
+Distance 69589.8300552
+Distance 69558.7258591
+Distance 69524.2593296
+Distance 69481.0388525
+Distance 69347.1856714
+Distance 69346.4593127
+Distance 69287.1585633
+Distance 69283.8113658
+Distance 69278.7787378
+Distance 69277.2497832
+Distance 69202.2998307
+Distance 69114.9739378
+Distance 69052.5475277
+Distance 68982.8392543
+Distance 68981.9035207
+Distance 68922.1625003
+Distance 68843.5395008
+Distance 68838.805372
+Distance 68761.1187623
+Distance 68760.944104
+Distance 68759.0805874
+Distance 68749.3214557
+Distance 68744.6832905
+Distance 68711.1686986
+Distance 68646.3337009
+Distance 68559.2908962
+Distance 68555.5294497
+Distance 68551.7709207
+Distance 68548.4168957
+Distance 68499.5802493
+Distance 68428.5778507
+Distance 68402.4878344
+Distance 68354.6376912
+Distance 68350.5002428
+Distance 68302.7866781
+Distance 68251.1665943
+Distance 68242.8031171
+Distance 68096.1563723
+Distance 68096.0651875
+Distance 68003.2032043
+Distance 67953.7985639
+Distance 67728.6362821
+Distance 67367.2638166
+Distance 67361.19773
+Distance 67359.435175
+Distance 67350.073247
+Distance 67340.1041331
+Distance 67134.8870752
+Distance 67131.4877825
+Distance 67122.0389555
+Distance 67121.1907443
+Distance 67117.9464851
+Distance 67116.05538
+Distance 67115.9562362
+Distance 67078.4627889
+Distance 67070.9352115
+Distance 67057.5016532
+Distance 67051.3795565
+Distance 67015.5509345
+Distance 67006.5672601
+Distance 66948.4460535
+Distance 66815.2125856
+Distance 66809.8242168
+Distance 66647.3237911
+Distance 66602.3973333
+Distance 66601.9791668
+Distance 66598.7162978
+Distance 66575.0255145
+Distance 66557.6387319
+Distance 66510.2506298
+Distance 66413.2658837
+Distance 66411.3681456
+Distance 66410.6904462
+Distance 66344.892188
+Distance 66332.0380096
+Distance 66219.4021392
+Distance 66215.5449933
+Distance 66215.3231736
+Distance 66190.7267244
+Distance 66154.2616487
+Distance 66153.9515555
+Distance 66147.6444911
+Distance 66141.0895519
+Distance 66118.0429067
+Distance 66087.6625606
+Distance 66087.3524673
+Distance 66086.7696283
+Distance 66042.4864235
+Distance 66029.9813364
+Distance 66018.0813405
+Distance 66011.0193712
+Distance 66000.7122099
+Distance 65997.4826948
+Distance 65966.7176779
+Distance 65964.0312528
+Distance 65743.7172789
+Distance 65738.0422036
+Distance 65554.1315762
+Distance 65502.1166956
+Distance 65495.8945661
+Distance 65495.2714451
+Distance 65493.4770894
+Distance 65492.7782331
+Distance 65440.4593162
+Distance 65437.3051272
+Distance 65426.9743799
+Distance 65400.3713697
+Distance 65390.2569392
+Distance 65348.9377246
+Distance 65336.5860604
+Distance 65317.2543989
+Distance 65313.1601331
+Distance 65309.8861057
+Distance 65280.3238219
+Distance 65221.1161868
+Distance 65210.1874848
+Distance 65190.1536066
+Distance 65163.1672065
+Distance 65162.6692637
+Distance 65158.1536462
+Distance 65121.6888612
+Distance 65111.1807667
+Distance 65108.6563699
+Distance 65089.9246133
+Distance 65089.5073595
+Distance 65089.0891095
+Distance 65088.9406216
+Distance 65082.4838198
+Distance 65078.4572392
+Distance 65078.4049933
+Distance 65077.8145257
+Distance 65077.7841181
+Distance 65074.0411548
+Distance 65072.4677888
+Distance 64942.7929767
+Distance 64891.4417328
+Distance 64877.0845154
+Distance 64862.9737282
+Distance 64861.6085553
+Distance 64741.523988
+Distance 64740.4209036
+Distance 64625.8188775
+Distance 64622.2158803
+Distance 64599.2626777
+Distance 64599.0943445
+Distance 64418.9725077
+Distance 64417.9083428
+Distance 64409.9474945
+Distance 64204.0442212
+Distance 64190.994344
+Distance 64190.3894561
+Distance 64183.9256376
+Distance 64183.5895362
+Distance 63992.2144893
+Distance 63974.2435782
+Distance 63972.3251692
+Distance 63971.9597719
+Distance 63932.8263703
+Distance 63930.5295629
+Distance 63925.901983
+Distance 63901.5369703
+Distance 63862.9049982
+Distance 63795.3413738
+Distance 63794.5214163
+Distance 63788.617224
+Distance 63748.8765896
+Distance 63651.3320277
+Distance 63649.1233712
+Distance 63636.778291
+Distance 63586.6547844
+Distance 63504.2349489
+Distance 63501.096962
+Distance 63501.0868073
+Distance 63498.7969653
+Distance 63483.8616082
+Distance 63469.4177788
+Distance 63461.2107114
+Distance 63428.0787293
+Distance 63425.7888872
+Distance 63410.0218146
+Distance 63408.3947041
+Distance 63343.9978439
+Distance 63322.1485112
+Distance 63320.733589
+Distance 63316.4282952
+Distance 63311.4338711
+Distance 63297.4525228
+Distance 63117.4503177
+Distance 63116.7438919
+Distance 63094.5446504
+Distance 63029.3968671
+Distance 62983.6095953
+Distance 62971.5066304
+Distance 62957.639749
+Distance 62903.5938433
+Distance 62846.3843015
+Distance 62845.7654527
+Distance 62794.9730124
+Distance 62747.6286623
+Distance 62562.3658801
+Distance 62556.2538161
+Distance 62536.4114768
+Distance 62535.4161372
+Distance 62506.2792394
+Distance 62468.3082076
+Distance 62306.6003721
+Distance 62273.2610489
+Distance 62267.9134616
+Distance 62249.8705044
+Distance 62220.0262418
+Distance 62213.0310844
+Distance 62168.3520632
+Distance 62168.3241904
+Distance 62161.5058299
+Distance 62055.6549354
+Distance 62050.1993914
+Distance 62027.691632
+Distance 62024.7385665
+Distance 62021.2988442
+Distance 61986.4710166
+Distance 61863.835724
+Distance 61861.9273164
+Distance 61726.381796
+Distance 61718.7543891
+Distance 61717.6429471
+Distance 61705.0616284
+Distance 61699.3458144
+Distance 61691.3709442
+Distance 61645.8374767
+Distance 61480.0988566
+Distance 61466.2224104
+Distance 61459.5855608
+Distance 61195.8499627
+Distance 61194.8795851
+Distance 60879.6634277
+Distance 60835.229622
+Distance 60831.2138663
+Distance 60797.4445431
+Distance 60790.3117645
+Distance 60750.6396624
+Distance 60686.5829556
+Distance 60666.1771766
+Distance 60661.0624514
+Distance 60660.9859719
+Distance 60653.5665993
+Distance 60653.1229153
+Distance 60653.1062274
+Distance 60642.4861188
+Distance 60638.6205261
+Distance 60605.8162644
+Distance 60594.5006305
+Distance 60593.1757226
+Distance 60587.4281461
+Distance 60389.832605
+Distance 60380.9337599
+Distance 60358.803567
+Distance 60355.4694237
+Distance 60207.8855157
+Distance 60187.086188
+Distance 60145.477662
+Distance 60122.4518592
+Distance 60118.5387275
+Distance 60114.5908419
+Distance 60113.5623703
+Distance 60090.5486355
+Distance 60086.1929211
+Distance 60021.2366235
+Distance 60021.1894505
+Distance 60019.3340834
+Distance 60002.9036465
+Distance 60002.4035078
+Distance 59999.4649496
+Distance 59976.3017987
+Distance 59904.7513
+Distance 59902.7253392
+Distance 59774.8294489
+Distance 59774.3293102
+Distance 59679.1948807
+Distance 59606.7827019
+Distance 59606.5371734
+Distance 59605.4097984
+Distance 59493.0471467
+Distance 59399.4803604
+Distance 59320.5150986
+Distance 59221.8153775
+Distance 59205.8944248
+Distance 59196.1822841
+Distance 59192.3368293
+Distance 59096.5585065
+Distance 59094.7176607
+Distance 59084.7991613
+Distance 59081.3493746
+Distance 58888.0757005
+Distance 58886.9808228
+Distance 58703.9351467
+Distance 58703.4579666
+Distance 58544.6392172
+Distance 58365.3925084
+Distance 58163.2398765
+Distance 58161.1973985
+Distance 57899.5815466
+Distance 57896.5071071
+Distance 57883.4875376
+Distance 57879.6757647
+Distance 57879.6106409
+Distance 57756.4860619
+Distance 57756.4503408
+Distance 57672.3887376
+Distance 57671.8082771
+Distance 57651.106026
+Distance 57355.8215789
+Distance 57276.129007
+Distance 57276.0638832
+Distance 57273.3758803
+Distance 56970.2452297
+Distance 56952.4466436
+Distance 56950.4437416
+Distance 56678.9640224
+Distance 56601.6688451
+Distance 56595.1207478
+Distance 56399.1280991
+Distance 56397.1367076
+Distance 56391.2965095
+Distance 56385.9530669
+Distance 56190.6472769
+Distance 56012.0527703
+Distance 56003.722863
+Distance 56003.077949
+Distance 56002.879526
+Distance 56001.7914633
+Distance 55998.9403004
+Distance 55984.5988579
+Distance 55807.2238518
+Distance 55743.7553006
+Distance 55640.5015298
+Distance 55630.4944316
+Distance 55614.508995
+Distance 55613.9366512
+Distance 55573.9710039
+Distance 55474.2719158
+Distance 55437.3452978
+Distance 55437.3204369
+Distance 55410.1193221
+Distance 55403.7391489
+Distance 55218.5144789
+Distance 55102.9789022
+Distance 55085.4494819
+Distance 55084.982652
+Distance 54987.3785855
+Distance 54986.0879942
+Distance 54950.5122189
+Distance 54854.8633826
+Distance 54854.1296725
+Distance 54848.1027595
+Distance 54845.7545217
+Distance 54748.3241427
+Distance 54745.88636
+Distance 54652.9134028
+Distance 54649.8387153
+Distance 54643.4259838
+Distance 54641.3387322
+Distance 54640.0133534
+Distance 54501.1595943
+Distance 54484.5098041
+Distance 54481.2332878
+Distance 54480.4234905
+Distance 54371.7334463
+Distance 54345.2254522
+Distance 54136.1077221
+Distance 53914.5246182
+Distance 53905.1260271
+Distance 53903.2523123
+Distance 53770.2979271
+Distance 53765.4109979
+Distance 53761.5943545
+Distance 53741.2608499
+Distance 53739.3776247
+Distance 53739.3132293
+Distance 53723.1122522
+Distance 53712.40097
+Distance 53652.0686893
+Distance 53387.3074249
+Distance 53387.3046259
+Distance 53223.224538
+Distance 53068.4225585
+Distance 53068.1016771
+Distance 52957.7132599
+Distance 52948.2880812
+Distance 52839.6450201
+Distance 52838.2488013
+Distance 52817.7826066
+Distance 52811.2586067
+Distance 52649.7360407
+Distance 52590.3678764
+Distance 52586.8502086
+Distance 52586.7708387
+Distance 52453.6086514
+Distance 52451.3353046
+Distance 52306.9441238
+Distance 52306.9116863
+Distance 52299.9217637
+Distance 52170.6805518
+Distance 52123.4635918
+Distance 52119.9099244
+Distance 52114.6993428
+Distance 52112.2233806
+Distance 52061.2243517
+Distance 52054.1028865
+Distance 52050.1728915
+Distance 52043.7807789
+Distance 52016.946134
+Distance 52010.9866639
+Distance 52010.695551
+Distance 52000.6149719
+Distance 51998.7909256
+Distance 51997.5808672
+Distance 51957.0037656
+Distance 51949.6091389
+Distance 51791.2888001
+Distance 51775.4196257
+Distance 51775.0396746
+Distance 51773.2008228
+Distance 51771.6260649
+Distance 51607.2538833
+Distance 51603.592139
+Distance 51495.0239706
+Distance 51494.7604623
+Distance 51492.6638694
+Distance 51445.2123179
+Distance 51412.5785009
+Distance 51334.2955539
+Distance 51331.0856221
+Distance 51218.3125752
+Distance 51213.093561
+Distance 51189.9841494
+Distance 51170.8156664
+Distance 51165.7914217
+Distance 51164.995427
+Distance 51159.1458359
+Distance 51158.7907663
+Distance 51141.0438982
+Distance 51103.984053
+Distance 51098.9598083
+Distance 50964.1935425
+Distance 50954.6759001
+Distance 50948.3130388
+Distance 50931.74792
+Distance 50878.8671379
+Distance 50866.0360974
+Distance 50747.4890814
+Distance 50739.4397353
+Distance 50706.4462234
+Distance 50696.9670858
+Distance 50694.3370014
+count is:1
+Best case recieved is:
+[('Bombay',  7.2820e+01,  18.96) ('Shanghai',  1.2147e+02,  31.23)
+ ('Karachi',  6.7010e+01,  24.86) ('Buenos Aires', -5.8370e+01, -34.61)
+ ('Istanbul',  2.9000e+01,  41.1 ) ('Delhi',  7.7210e+01,  28.67)
+ ('Manila',  1.2097e+02,  14.62) ('Sao Paulo', -4.6630e+01, -23.53)
+ ('Moscow',  3.7620e+01,  55.75) ('Soul',  1.2699e+02,  37.56)
+ ('Dhaka',  9.0390e+01,  23.7 ) ('Kinshasa',  1.5320e+01,  -4.31)
+ ('Mexico City', -9.9140e+01,  19.43) ('Lagos',  3.3500e+00,   6.5 )
+ ('Jakarta',  1.0683e+02,  -6.18) ('Tokyo',  1.3977e+02,  35.67)
+ ('Tehran',  5.1430e+01,  35.67) ('Cairo',  3.1250e+01,  30.06)
+ ('Lima', -7.7050e+01, -12.07) ('New York', -7.3940e+01,  40.67)
+ ('London', -1.0000e-01,  51.52) ('Peking',  1.1640e+02,  39.93)
+ ('Lahore',  7.4350e+01,  31.56) ('Rio de Janeiro', -4.3200e+01, -22.91)
+ ('Bogota', -7.4090e+01,   4.63) ('Bagdad',  4.4440e+01,  33.33)
+ ('Bangalore',  7.7560e+01,  12.97) ('Bangkok',  1.0050e+02,  13.73)
+ ('Singapore',  1.0385e+02,   1.3 ) ('Santiago', -7.0640e+01, -33.46)
+ ('Toronto', -7.9380e+01,  43.65) ('Calcutta',  8.8360e+01,  22.57)
+ ('Rangoon',  9.6150e+01,  16.79) ('Riyadh',  4.6770e+01,  24.65)
+ ('Ibadan',  3.9300e+00,   7.38) ('Madras',  8.0270e+01,  13.09)
+ ('Ho Chi Minh Cit',  1.0669e+02,  10.78)
+ ('Chongqing',  1.0658e+02,  29.57) ('Wuhan',  1.1427e+02,  30.58)
+ ('Xian',  1.0890e+02,  34.27) ('Saint Petersbur',  3.0320e+01,  59.93)
+ ('Alexandria',  2.9950e+01,  31.22) ('Chengdu',  1.0407e+02,  30.67)
+ ('Hyderabad',  7.8480e+01,  17.4 ) ('Ahmadabad',  7.2580e+01,  23.03)
+ ('Ankara',  3.2850e+01,  39.93) ('Los Angeles', -1.1841e+02,  34.11)
+ ('Abidjan', -4.0300e+00,   5.33) ('Chattagam',  9.1810e+01,  22.33)
+ ('Tianjin',  1.1720e+02,  39.13) ('Yokohama',  1.3962e+02,  35.47)
+ ('Sydney',  1.5121e+02, -33.87) ('Melbourne',  1.4496e+02, -37.81)
+ ('Berlin',  1.3380e+01,  52.52) ('Shenyang',  1.2345e+02,  41.8 )
+ ('Pusan',  1.2903e+02,  35.11) ('Montreal', -7.3570e+01,  45.52)
+ ('Cape Town',  1.8460e+01, -33.93) ('Durban',  3.0990e+01, -29.87)
+ ('Gizeh',  3.1210e+01,  30.01) ('Harbin',  1.2665e+02,  45.75)
+ ('Nanjing',  1.1878e+02,  32.05) ('Pune',  7.3840e+01,  18.53)
+ ('Surat',  7.2820e+01,  21.2 ) ('Addis Abeba',  3.8740e+01,   9.03)
+ ('Casablanca', -7.6200e+00,  33.6 ) ('Madrid', -3.7100e+00,  40.42)
+ ('Pyongyang',  1.2575e+02,  39.02) ('Guangzhou',  1.1325e+02,  23.12)
+ ('Kanpur',  8.0330e+01,  26.47) ('Nairobi',  3.6820e+01,  -1.29)
+ ('Jiddah',  3.9170e+01,  21.5 ) ('Jaipur',  7.5800e+01,  26.92)
+ ('Dar es Salaam',  3.9280e+01,  -6.82) ('Salvador', -3.8500e+01, -12.97)
+ ('Chicago', -8.7680e+01,  41.84) ('Faisalabad',  7.3110e+01,  31.41)
+ ('al-Mawsil',  4.3140e+01,  36.34) ('Izmir',  2.7150e+01,  38.43)
+ ('Taiyuan',  1.1255e+02,  37.87) ('Taibei',  1.2145e+02,  25.02)
+ ('Osaka',  1.3550e+02,  34.68) ('Inchon',  1.2664e+02,  37.48)
+ ('Changchun',  1.2535e+02,  43.87) ('Lakhnau',  8.0920e+01,  26.85)
+ ('Luanda',  1.3240e+01,  -8.82) ('Kiev',  3.0520e+01,  50.43)
+ ('Rome',  1.2500e+01,  41.89) ('Dakar', -1.7480e+01,  14.72)
+ ('Mashhad',  5.9570e+01,  36.27) ('Kabul',  6.9170e+01,  34.53)
+ ('Fortaleza', -3.8590e+01,  -3.78)
+ ('Belo Horizonte', -4.3940e+01, -19.92)
+ ('Santo Domingo', -6.9910e+01,  18.48) ('Maracaibo', -7.1660e+01,  10.73)
+ ('Brasilia', -4.7910e+01, -15.78) ('Umm Durman',  3.2480e+01,  15.65)
+ ('Nagpur',  7.9080e+01,  21.16) ('Taegu',  1.2860e+02,  35.87)
+ ('Surabaya',  1.1274e+02,  -7.24) ('Kano',  8.5200e+00,  12.  )
+ ('Medellin', -7.5540e+01,   6.29) ('Accra', -2.0000e-01,   5.56)
+ ('Benin',  5.6200e+00,   6.34) ('Shijiazhuang',  1.1448e+02,  38.05)
+ ('Nagoya',  1.3691e+02,  35.15) ('Changsha',  1.1297e+02,  28.2 )
+ ('Khartoum',  3.2520e+01,  15.58) ('Houston', -9.5390e+01,  29.77)
+ ('Guayaquil', -7.9900e+01,  -2.21) ('Cali', -7.6520e+01,   3.44)
+ ('Jinan',  1.1700e+02,  36.67) ('Algiers',  3.0400e+00,  36.77)
+ ('Havanna', -8.2390e+01,  23.13) ('Paris',  2.3400e+00,  48.86)
+ ('Tashkent',  6.9300e+01,  41.31) ('Jilin',  1.2655e+02,  43.85)
+ ('Dalian',  1.2165e+02,  38.92) ('Zhengzhou',  1.1367e+02,  34.75)
+ ('Nanchang',  1.1588e+02,  28.68) ('Bayrut',  3.5500e+01,  33.89)
+ ('Vancouver', -1.2313e+02,  49.28) ('Douala',  9.7100e+00,   4.06)
+ ('Johannesburg',  2.8040e+01, -26.19) ('Jiulong',  1.1417e+02,  22.32)
+ ('Kaduna',  7.4400e+00,  10.52) ('Ecatepec', -9.9050e+01,  19.6 )
+ ('Caracas', -6.6930e+01,  10.54) ('Port Harcourt',  7.0100e+00,   4.81)
+ ('Bucharest',  2.6100e+01,  44.44) ('Sapporo',  1.4134e+02,  43.06)
+ ('Hangzhou',  1.2017e+02,  30.25) ('Rawalpindi',  7.3040e+01,  33.6 )
+ ("San'a",  4.4210e+01,  15.38) ('Curitiba', -4.9290e+01, -25.42)
+ ('Conakry', -1.3670e+01,   9.55) ('al-Basrah',  4.7820e+01,  30.53)
+ ('Xinyang',  1.1407e+02,  32.13) ('Brisbane',  1.5302e+02, -27.46)
+ ('Medan',  9.8670e+01,   3.59) ('Indore',  7.5860e+01,  22.72)
+ ('Kumasi', -1.6300e+00,   6.69) ('Manaus', -6.0020e+01,  -3.12)
+ ('Rabat', -6.8400e+00,  34.02) ('Minsk',  2.7550e+01,  53.91)
+ ('Hamburg',  1.0000e+01,  53.55) ('Valencia', -6.7980e+01,  10.23)
+ ('Soweto',  2.7840e+01, -26.28) ('Bhopal',  7.7400e+01,  23.24)
+ ('Patna',  8.5130e+01,  25.62) ('Qingdao',  1.2032e+02,  36.07)
+ ('Warsaw',  2.1020e+01,  52.26) ('Vienna',  1.6370e+01,  48.22)
+ ('Yaounde',  1.1520e+01,   3.87) ('Aleppo',  3.7170e+01,  36.23)
+ ('Dubai',  5.5330e+01,  25.27) ('Bekasi',  1.0697e+02,  -6.22)
+ ('Thana',  7.2970e+01,  19.2 ) ('Budapest',  1.9080e+01,  47.51)
+ ('Bamako', -7.9900e+00,  12.65) ('Harare',  3.1050e+01, -17.82)
+ ('Esfahan',  5.1680e+01,  32.68) ('Ludhiana',  7.5840e+01,  30.91)
+ ('Bandung',  1.0760e+02,  -6.91) ('Barcelona',  2.1700e+00,  41.4 )
+ ('Lubumbashi',  2.7480e+01, -11.66) ('Pretoria',  2.8220e+01, -25.73)
+ ('Guadalajara', -1.0335e+02,  20.67) ('Muqdisho',  4.5330e+01,   2.05)
+ ('Tangshan',  1.1819e+02,  39.62) ('Damascus',  3.6320e+01,  33.5 )
+ ('Quito', -7.8500e+01,  -0.19) ('Phoenix', -1.1207e+02,  33.54)
+ ('Urumqi',  8.7580e+01,  43.8 ) ('Agra',  7.8010e+01,  27.19)
+ ('Antananarivo',  4.7510e+01, -18.89) ('Davao',  1.2563e+02,   7.11)
+ ('Kobe',  1.3517e+02,  34.68) ('Santa Cruz', -6.3210e+01, -17.77)
+ ('Tijuana', -1.1702e+02,  32.53) ('Juarez', -1.0649e+02,  31.74)
+ ('Recife', -3.4920e+01,  -8.08) ('Multan',  7.1450e+01,  30.2 )
+ ('Gaoxiong',  1.2027e+02,  22.63) ('Ha Noi',  1.0584e+02,  21.03)
+ ('Cordoba', -6.4190e+01, -31.4 ) ('Belem', -4.8500e+01,  -1.44)
+ ('Lome',  1.3500e+00,   6.17) ('Kampala',  3.2580e+01,   0.32)
+ ('Hyderabad',  6.8370e+01,  25.38) ('Vadodara',  7.3180e+01,  22.31)
+ ('Suzhou',  1.2062e+02,  31.3 ) ('Gujranwala',  7.4180e+01,  32.16)
+ ('Mbuji-Mayi',  2.3590e+01,  -6.13) ('Bursa',  2.9080e+01,  40.2 )
+ ('Karaj',  5.0970e+01,  35.8 ) ('Pimpri',  7.3800e+01,  18.62)
+ ('Tangerang',  1.0663e+02,  -6.18) ('Kyoto',  1.3575e+02,  35.01)
+ ('Kharkiv',  3.6220e+01,  49.98) ('Puebla', -9.8220e+01,  19.05)
+ ('Aba',  7.3500e+00,   5.1 ) ('Kuala Lumpur',  1.0171e+02,   3.16)
+ ('Nashik',  7.3780e+01,  20.01) ('Philadelphia', -7.5130e+01,  40.01)
+ ('Fukuoka',  1.3041e+02,  33.59) ('Taejon',  1.2743e+02,  36.33)
+ ('Lanzhou',  1.0368e+02,  36.05) ('Mecca',  3.9820e+01,  21.43)
+ ('Shantou',  1.1667e+02,  23.37) ('Hefei',  1.1728e+02,  31.85)
+ ('Koyang',  1.2693e+02,  37.7 ) ('Novosibirsk',  8.2930e+01,  55.04)
+ ('Tabriz',  4.6300e+01,  38.08) ('Adana',  3.5320e+01,  37.  )
+ ('Porto Alegre', -5.1220e+01, -30.04) ('Faridabad',  7.7300e+01,  28.38)
+ ('Narayanganj',  9.0500e+01,  23.62) ('Phnum Penh',  1.0492e+02,  11.57)
+ ('Makasar',  1.1941e+02,  -5.14) ('Fushun',  1.2388e+02,  41.87)
+ ('Luoyang',  1.1247e+02,  34.68) ('Khulna',  8.9560e+01,  22.84)
+ ('Lusaka',  2.8290e+01, -15.42) ('Depok',  1.0683e+02,  -6.39)
+ ('Handan',  1.1448e+02,  36.58) ('San Antonio', -9.8510e+01,  29.46)
+ ('Ghaziabad',  7.7410e+01,  28.66) ('Kawasaki',  1.3970e+02,  35.53)
+ ('Kwangju',  1.2691e+02,  35.16) ('Peshawar',  7.1540e+01,  34.01)
+ ('Rajkot',  7.0790e+01,  22.31) ('Mandalay',  9.6090e+01,  21.98)
+ ('Suwon',  1.2701e+02,  37.26) ('Almaty',  7.6920e+01,  43.32)
+ ('Munich',  1.1580e+01,  48.14) ('Milan',  9.1900e+00,  45.48)
+ ('Baotou',  1.1005e+02,  40.6 ) ('Mirat',  7.7700e+01,  28.99)
+ ('Kalyan',  7.3160e+01,  19.25) ('Xianggangdao',  1.1414e+02,  22.27)
+ ('Rongcheng',  1.1634e+02,  23.54) ('Yekaterinburg',  6.0600e+01,  56.85)
+ ('Ouagadougou', -1.5300e+00,  12.37) ('Guarulhos', -4.6490e+01, -23.46)
+ ('Montevideo', -5.6170e+01, -34.87) ('Xuzhou',  1.1718e+02,  34.27)
+ ('Palembang',  1.0475e+02,  -2.99) ('Semarang',  1.1042e+02,  -6.97)
+ ('Perth',  1.1584e+02, -31.96) ('Stockholm',  1.8070e+01,  59.33)
+ ('Dallas', -9.6770e+01,  32.79) ('San Diego', -1.1714e+02,  32.81)
+ ('Goiania', -4.9260e+01, -16.72) ('Gaziantep',  3.7390e+01,  37.07)
+ ('Nizhniy Novgoro',  4.4000e+01,  56.33) ('Fuzhou',  1.1930e+02,  26.08)
+ ('Rosario', -6.0670e+01, -32.94) ('Nezahualcoyotl', -9.9030e+01,  19.41)
+ ('Shiraz',  5.2570e+01,  29.63) ('Shenzhen',  1.1413e+02,  22.53)
+ ('Saitama',  1.3964e+02,  35.87) ('Tripoli',  1.3180e+01,  32.87)
+ ('Yerevan',  4.4520e+01,  40.17) ('Baku',  4.9860e+01,  40.39)
+ ('Varanasi',  8.3010e+01,  25.32) ('Guiyang',  1.0672e+02,  26.58)
+ ('Anshan',  1.2295e+02,  41.12) ('Wuxi',  1.2030e+02,  31.58)
+ ('Subang Jaya',  1.0153e+02,   3.15) ('Brazzaville',  1.5260e+01,  -4.25)
+ ('Leon', -1.0169e+02,  21.12) ('Prague',  1.4430e+01,  50.08)
+ ('Amritsar',  7.4870e+01,  31.64) ('Huainan',  1.1698e+02,  32.63)
+ ('Hiroshima',  1.3244e+02,  34.39) ('Monrovia', -1.0800e+01,   6.31)
+ ('Barranquilla', -7.4800e+01,  10.96) ('Tbilisi',  4.4790e+01,  41.72)
+ ("'Amman",  3.5930e+01,  31.95) ('Abuja',  7.4900e+00,   9.06)
+ ('Omsk',  7.3400e+01,  55.  ) ('Aurangabad',  7.5320e+01,  19.89)
+ ('Navi Mumbai',  7.3060e+01,  19.11) ('Sofia',  2.3310e+01,  42.69)
+ ('Monterrey', -1.0032e+02,  25.67)
+ ('Port Elizabeth',  2.5590e+01, -33.96) ('Maputo',  3.2570e+01, -25.95)
+ ('Allahabad',  8.1840e+01,  25.45) ('Samara',  5.0150e+01,  53.2 )
+ ('Belgrade',  2.0500e+01,  44.83) ('Campinas', -4.7080e+01, -22.91)
+ ('Sholapur',  7.5890e+01,  17.67) ('Kazan',  4.9130e+01,  55.75)
+ ('Irbil',  4.4010e+01,  36.18) ('Barquisimeto', -6.9300e+01,  10.05)
+ ('K?benhavn',  1.2580e+01,  55.67) ('Baoding',  1.1548e+02,  38.87)
+ ('Xianyang',  1.0870e+02,  34.37) ('Maceio', -3.5750e+01,  -9.65)
+ ('Nova Iguacu', -4.3470e+01, -22.74) ('Guatemala', -9.0550e+01,  14.63)
+ ('Maiduguri',  1.3160e+01,  11.85) ('Kunming',  1.0270e+02,  25.05)
+ ('Taizhong',  1.2068e+02,  24.15) ('Datong',  1.1330e+02,  40.08)
+ ('Dublin', -6.2500e+00,  53.33) ('Visakhapatnam',  8.3300e+01,  17.73)
+ ('Jabalpur',  7.9940e+01,  23.17) ('Rostov-na-Donu',  3.9710e+01,  47.24)
+ ("Dnipropetrovs'k",  3.4980e+01,  48.45)
+ ('Shubra-El-Khema',  3.1250e+01,  30.11)
+ ('Srinagar',  7.4790e+01,  34.09) ('Benxi',  1.2375e+02,  41.33)
+ ('Chelyabinsk',  6.1430e+01,  55.15) ('al-Madinah',  3.9590e+01,  24.48)
+ ('Brussels',  4.3300e+00,  50.83) ('Calgary', -1.1406e+02,  51.05)
+ ('Zapopan', -1.0340e+02,  20.72) ('Haora',  8.8330e+01,  22.58)
+ ('Adelaide',  1.3860e+02, -34.93) ('Sendai',  1.4089e+02,  38.26)
+ ('Songnam',  1.2715e+02,  37.44) ('Ranchi',  8.5330e+01,  23.36)
+ ('Ilorin',  4.5500e+00,   8.49) ('Tegucigalpa', -8.7220e+01,  14.09)
+ ('Fez', -5.0000e+00,  34.05) ('Ahvaz',  4.8720e+01,  31.28)
+ ('Ufa',  5.6040e+01,  54.78) ('Chandigarh',  7.6780e+01,  30.75)
+ ('Klang',  1.0145e+02,   3.04) ('Koyampattur',  7.6960e+01,  11.01)
+ ('Qom',  5.0950e+01,  34.65) ('Cologne',  6.9700e+00,  50.95)
+ ('Odesa',  3.0730e+01,  46.47) ('Donetsk',  3.7820e+01,  48.  )
+ ('Jodhpur',  7.3020e+01,  26.29) ('Sao Goncalo', -4.3070e+01, -22.84)
+ ('Sao Luis', -4.4300e+01,  -2.5 ) ('Perm',  5.6250e+01,  58.  )
+ ('Huaibei',  1.1675e+02,  33.95) ('Kitakyushu',  1.3086e+02,  33.88)
+ ('Changzhou',  1.1997e+02,  31.78) ('Guwahati',  9.1750e+01,  26.19)
+ ('Maisuru',  7.6650e+01,  12.31) ('Volgograd',  4.4480e+01,  48.71)
+ ('Naples',  1.4270e+01,  40.85) ('Konya',  3.2480e+01,  37.88)
+ ('Vijayawada',  8.0630e+01,  16.52) ('Ulsan',  1.2931e+02,  35.55)
+ ('Birmingham', -1.9100e+00,  52.48) ('San Jose', -1.2185e+02,  37.3 )
+ ('Ciudad Guayana', -6.2620e+01,   8.37) ('Kolwezi',  2.5660e+01, -10.7 )
+ ('Padang',  1.0035e+02,  -0.95) ('Chiba',  1.4011e+02,  35.61)
+ ('Mendoza', -6.8830e+01, -32.89) ('Managua', -8.6270e+01,  12.15)
+ ('Biskek',  7.4570e+01,  42.87) ('Kathmandu',  8.5310e+01,  27.71)
+ ('Gwalior',  7.8170e+01,  26.23) ('Niamey',  2.1200e+00,  13.52)
+ ('El Alto', -6.8170e+01, -16.5 ) ('Kigali',  3.0060e+01,  -1.94)
+ ('Qiqihar',  1.2400e+02,  47.35) ('Ulaanbaatar',  1.0691e+02,  47.93)
+ ('Krasnoyarsk',  9.3060e+01,  56.02) ('Madurai',  7.8120e+01,   9.92)
+ ('Asgabat',  5.8380e+01,  37.95) ('al-H?artum Bah?',  3.2520e+01,  15.64)
+ ('Arequipa', -7.1530e+01, -16.39) ('Edmonton', -1.1354e+02,  53.57)
+ ('Marrakesh', -8.0000e+00,  31.63) ('Pingdingshan',  1.1330e+02,  33.73)
+ ('Bandar Lampung',  1.0527e+02,  -5.44) ('Hubli',  7.5130e+01,  15.36)
+ ('La Paz', -6.8150e+01, -16.5 ) ('Cartagena', -7.5500e+01,  10.4 )
+ ('Ottawa', -7.5710e+01,  45.42) ('Wenzhou',  1.2065e+02,  28.02)
+ ('Johor Bahru',  1.0375e+02,   1.48) ('Mombasa',  3.9660e+01,  -4.04)
+ ('Lilongwe',  3.3800e+01, -13.97)
+ ('Duque de Caxias', -4.3310e+01, -22.77) ('Turin',  7.6800e+00,  45.08)
+ ('Jalandhar',  7.5570e+01,  31.33) ('Abu Dhabi',  5.4370e+01,  24.48)
+ ('Warri',  5.7600e+00,   5.52) ('Valencia', -3.9000e-01,  39.48)
+ ('Oslo',  1.0750e+01,  59.91) ('ad-Dammam',  5.0100e+01,  26.43)
+ ('Mira Bhayandar',  7.2850e+01,  19.29) ('Taian',  1.1712e+02,  36.2 )
+ ('Salem',  7.8160e+01,  11.67) ('Pietermaritzbur',  3.0390e+01, -29.61)
+ ('Naucalpan', -9.9230e+01,  19.48) ('H?ims',  3.6720e+01,  34.73)
+ ('Bhubaneswar',  8.5840e+01,  20.27) ('Hamamatsu',  1.3773e+02,  34.72)
+ ('Saratov',  4.6030e+01,  51.57) ('Kirkuk',  4.4390e+01,  35.47)
+ ('Detroit', -8.3100e+01,  42.38) ('Onitsha',  6.7800e+00,   6.14)
+ ('Quetta',  6.7020e+01,  30.21) ('Aligarh',  7.8060e+01,  27.89)
+ ('Sakai',  1.3548e+02,  34.57) ('Voronezh',  3.9260e+01,  51.72)
+ ('Freetown', -1.3240e+01,   8.49) ('Tucuman', -6.5220e+01, -26.83)
+ ('Bogor',  1.0679e+02,  -6.58) ('Niigata',  1.3904e+02,  37.92)
+ ('Jacksonville', -8.1660e+01,  30.33)
+ ('Thiruvananthapu',  7.6950e+01,   8.51) ('Cebu',  1.2390e+02,  10.32)
+ ('Bareli',  7.9410e+01,  28.36) ('Natal', -3.5220e+01,  -5.8 )
+ ('Kota',  7.5830e+01,  25.18) ('Puchon',  1.2677e+02,  37.48)
+ ('Shihung',  1.2689e+02,  37.46) ('Tiruchchirappal',  7.8690e+01,  10.81)
+ ('Sharjah',  5.5410e+01,  25.37) ('Trujillo', -7.9030e+01,  -8.11)
+ ('Kermanshah',  4.7060e+01,  34.38) ('Qinhuangdao',  1.1962e+02,  39.93)
+ ('Anyang',  1.1435e+02,  36.08) ('Bhiwandi',  7.3050e+01,  19.3 )
+ ('an-Najaf',  4.4340e+01,  32.  ) ('Teresina', -4.2800e+01,  -5.1 )
+ ('Sao Bernardo do', -4.6540e+01, -23.71) ('Nanning',  1.0832e+02,  22.82)
+ ('Antalya',  3.0710e+01,  36.89) ('Indianapolis', -8.6150e+01,  39.78)
+ ('Campo Grande', -5.4630e+01, -20.45) ('Jaboatao', -3.5020e+01,  -8.11)
+ ('Hohhot',  1.1164e+02,  40.82) ('Zaporizhzhya',  3.5170e+01,  47.85)
+ ('Marseille',  5.3700e+00,  43.31) ('Moradabad',  7.8760e+01,  28.84)
+ ('Zhangjiakou',  1.1493e+02,  40.83) ('Liuzhou',  1.0925e+02,  24.28)
+ ('Rajshahi',  8.8590e+01,  24.37) ('Nouakchott', -1.5980e+01,  18.09)
+ ('Xining',  1.0177e+02,  36.62) ('Tainan',  1.2019e+02,  23.  )
+ ('Yantai',  1.2140e+02,  37.53) ('Hegang',  1.3037e+02,  47.4 )
+ ('Port-au-Prince', -7.2340e+01,  18.54) ('Akure',  5.1900e+00,   7.25)
+ ("N'Djamena",  1.5050e+01,  12.11) ('Guadalupe', -1.0026e+02,  25.68)
+ ('Cracow',  1.9960e+01,  50.06) ('Malang',  1.1262e+02,  -7.98)
+ ('Hengyang',  1.1262e+02,  26.89) ('Puyang',  1.1498e+02,  35.7 )
+ ('Jerusalem',  3.5220e+01,  31.78) ('Athens',  2.3730e+01,  37.98)
+ ('San Francisco', -1.2245e+02,  37.77) ('Amsterdam',  4.8900e+00,  52.37)
+ ('?odz',  1.9460e+01,  51.77) ('Austin', -9.7750e+01,  30.31)
+ ('Merida', -8.9620e+01,  20.97) ('Abeokuta',  3.3500e+00,   7.16)
+ ('Raipur',  8.1630e+01,  21.24) ('Xinxiang',  1.1387e+02,  35.32)
+ ('Tunis',  1.0220e+01,  36.84) ('Columbus', -8.2990e+01,  39.99)
+ ('Chihuahua', -1.0608e+02,  28.63) ('Cotonou',  2.4400e+00,   6.36)
+ ("L'viv",  2.4000e+01,  49.83) ('Pekan Baru',  1.0143e+02,   0.56)
+ ('Blantyre',  3.4990e+01, -15.79) ('Bulawayo',  2.8580e+01, -20.17)
+ ('La Plata', -5.7960e+01, -34.92) ('Tangier', -5.8100e+00,  35.79)
+ ('Kayseri',  3.5480e+01,  38.74) ('Tolyatti',  4.9510e+01,  53.48)
+ ('Langfang',  1.1668e+02,  39.52) ('Ningbo',  1.2155e+02,  29.88)
+ ('Ampang Jaya',  1.0177e+02,   3.15) ('Foshan',  1.1312e+02,  23.03)
+ ('Liaoyang',  1.2318e+02,  41.28) ('Riga',  2.4130e+01,  56.97)
+ ('Kryvyy Rih',  3.3350e+01,  47.92) ('Changzhi',  1.1175e+02,  35.22)
+ ('Chonju',  1.2714e+02,  35.83) ('Zamboanga',  1.2208e+02,   6.92)
+ ('as-Sulaymaniyah',  4.5430e+01,  35.56) ('Osasco', -4.6780e+01, -23.53)
+ ('Libreville',  9.4500e+00,   0.39) ('Gorakhpur',  8.3360e+01,  26.76)
+ ('Fort Worth', -9.7340e+01,  32.75)
+ ('San Luis Potosi', -1.0098e+02,  22.16)
+ ('Tlalnepantla', -9.9190e+01,  19.54) ('Sevilla', -5.9800e+00,  37.4 )
+ ('Zagreb',  1.5970e+01,  45.8 ) ('Huangshi',  1.1510e+02,  30.22)
+ ('Zhuzhou',  1.1315e+02,  27.83) ('Shaoguan',  1.1358e+02,  24.8 )
+ ('Guilin',  1.1028e+02,  25.28) ('Matola',  3.2460e+01, -25.97)
+ ('Puente Alto', -7.0570e+01, -33.61)
+ ('Aguascalientes', -1.0230e+02,  21.88) ('Benghazi',  2.0070e+01,  32.12)
+ ('Fuxin',  1.2165e+02,  42.01) ('Shizuoka',  1.3839e+02,  34.98)
+ ('Ipoh',  1.0107e+02,   4.6 ) ('Contagem', -4.4100e+01, -19.91)
+ ('Joao Pessoa', -3.4860e+01,  -7.12) ('Dushanbe',  6.8780e+01,  38.57)
+ ('Zhanjiang',  1.1038e+02,  21.2 ) ('Xingtai',  1.1449e+02,  37.07)
+ ('Okayama',  1.3392e+02,  34.67) ('Yogyakarta',  1.1037e+02,  -7.78)
+ ('Bhilai',  8.1380e+01,  21.21) ('Mudanjiang',  1.2960e+02,  44.58)
+ ('Zigong',  1.0478e+02,  29.4 ) ('Colombo',  7.9850e+01,   6.93)
+ ('Wahran', -6.2000e-01,  35.7 ) ('Enugu',  7.5100e+00,   6.44)
+ ('Santo Andre', -4.6530e+01, -23.65)
+ ('Chimalhuacan', -9.8960e+01,  19.44) ('Memphis', -9.0010e+01,  35.11)
+ ('Shatian',  1.1419e+02,  22.38) ('Kumamoto',  1.3071e+02,  32.8 )
+ ('Zhangdian',  1.1806e+02,  36.8 )
+ ('Sao Jose dos Ca', -4.5880e+01, -23.2 )
+ ('Acapulco', -9.9920e+01,  16.85) ('Quebec', -7.1230e+01,  46.82)
+ ('Zaria',  7.7100e+00,  11.08) ('Dasmarinas',  1.2093e+02,  14.33)
+ ('Nantong',  1.2082e+02,  32.02) ('Xiangtan',  1.1290e+02,  27.85)
+ ('Shaoyang',  1.1120e+02,  27.  ) ('Pointe Noire',  1.1870e+01,  -4.77)
+ ('Queretaro', -1.0040e+02,  20.59) ('Charlotte', -8.0830e+01,  35.2 )
+ ('Panjin',  1.2205e+02,  41.18) ('Hamilton', -7.9850e+01,  43.26)
+ ('Saltillo', -1.0100e+02,  25.42) ('Islamabad',  7.3060e+01,  33.72)
+ ('Ansan',  1.2686e+02,  37.35) ('Jamshedpur',  8.6200e+01,  22.79)
+ ('Cancun', -8.6830e+01,  21.17) ('Zaragoza', -8.9000e-01,  41.65)
+ ('Frankfurt',  8.6800e+00,  50.12) ('Palermo',  1.3360e+01,  38.12)
+ ('Dandong',  1.2440e+02,  40.13) ('Haikou',  1.1032e+02,  20.05)
+ ('Amravati',  7.7760e+01,  20.95) ("'Adan",  4.5030e+01,  12.79)
+ ('Winnipeg', -9.7170e+01,  49.88) ('Zhangzhou',  1.1767e+02,  24.52)
+ ('Sagamihara',  1.3938e+02,  35.58) ('Kuching',  1.1034e+02,   1.55)
+ ('Kataka',  8.5880e+01,  20.47) ('Gazzah',  3.4440e+01,  31.53)
+ ('El Paso', -1.0644e+02,  31.85) ('Wroc?aw',  1.7030e+01,  51.11)
+ ('Krasnodar',  3.8980e+01,  45.03) ('Zhenjiang',  1.1943e+02,  32.22)
+ ('Asmara',  3.8940e+01,  15.33) ('Benoni',  2.8330e+01, -26.15)
+ ('Baltimore', -7.6610e+01,  39.3 ) ('Mersin',  3.4630e+01,  36.81)
+ ('Izhevsk',  5.3230e+01,  56.85) ('Yancheng',  1.2012e+02,  33.39)
+ ('Yuanlong',  1.1402e+02,  22.44) ('Uberlandia', -4.8280e+01, -18.9 )
+ ('Hermosillo', -1.1097e+02,  29.07) ('Ulyanovsk',  4.8400e+01,  54.33)
+ ('Bouake', -5.0300e+00,   7.69) ('Santiago', -7.0690e+01,  19.48)
+ ('Mexicali', -1.1547e+02,  32.65) ('Hai Phong',  1.0668e+02,  20.86)
+ ('Anyang',  1.2692e+02,  37.39) ('Dadiangas',  1.2525e+02,   6.1 )
+ ('Jos',  8.8900e+00,   9.93) ('Oshogbo',  4.5600e+00,   7.77)
+ ('Sorocaba', -4.7470e+01, -23.49) ('Morelia', -1.0118e+02,  19.72)
+ ("al-'Ayn",  5.5740e+01,  24.23) ('Bikaner',  7.3320e+01,  28.03)
+ ('Taizhou',  1.1990e+02,  32.49) ('Chongju',  1.2750e+02,  36.64)
+ ('Xiamen',  1.1808e+02,  24.45) ('Antipolo',  1.2118e+02,  14.59)
+ ('Cochabamba', -6.6170e+01, -17.38) ('Culiacan', -1.0739e+02,  24.8 )
+ ('Kagoshima',  1.3056e+02,  31.59) ('Siping',  1.2433e+02,  43.17)
+ ('Yingkou',  1.2228e+02,  40.67) ('Luancheng',  1.1465e+02,  37.88)
+ ('Banjarmasin',  1.1459e+02,  -3.33) ('Orumiyeh',  4.5000e+01,  37.53)
+ ('Diyarbak?r',  4.0230e+01,  37.92) ('Yaroslavl',  3.9870e+01,  57.62)
+ ('Chisinau',  2.8830e+01,  47.03) ('Djibouti',  4.3150e+01,  11.59)
+ ('Mixco', -9.0600e+01,  14.64) ('Seattle', -1.2235e+02,  47.62)
+ ('Rotterdam',  4.4800e+00,  51.93) ('Stuttgart',  9.1900e+00,  48.79)
+ ('Khabarovsk',  1.3512e+02,  48.42) ('Jinzhou',  1.2110e+02,  41.12)
+ ('San Pedro Sula', -8.8030e+01,  15.47)
+ ('Kisangani',  2.5190e+01,   0.53) ('Bengbu',  1.1733e+02,  32.95)
+ ('Irkutsk',  1.0424e+02,  52.33) ('Shihezi',  8.6030e+01,  44.3 )
+ ('Maracay', -6.7470e+01,  10.33) ('Cucuta', -7.2510e+01,   7.88)
+ ('Bhavnagar',  7.2130e+01,  21.79) ('Port Said',  3.2290e+01,  31.26)
+ ('Genoa',  8.9300e+00,  44.42) ('Denver', -1.0487e+02,  39.77)
+ ('Dortmund',  7.4800e+00,  51.51) ('Barnaul',  8.3750e+01,  53.36)
+ ('Jiangmen',  1.1308e+02,  22.58) ('Veracruz', -9.6140e+01,  19.19)
+ ('Washington', -7.7020e+01,  38.91) ('Vladivostok',  1.3190e+02,  43.13)
+ ('Ribeirao Preto', -4.7800e+01, -21.17)
+ ('Mar del Plata', -5.7580e+01, -38.  ) ('Boston', -7.1020e+01,  42.34)
+ ('Eskisehir',  3.0520e+01,  39.79) ('Warangal',  7.9580e+01,  18.01)
+ ('Zahedan',  6.0830e+01,  29.5 ) ('Dusseldorf',  6.7900e+00,  51.24)
+ ('Essen',  7.0000e+00,  51.47) ('Kaifeng',  1.1435e+02,  34.85)
+ ('Glasgow', -4.2700e+00,  55.87) ('Kingston', -7.6800e+01,  17.99)
+ ('Shah Alam',  1.0156e+02,   3.07) ('Maoming',  1.1087e+02,  21.92)
+ ('Hachioji',  1.3933e+02,  35.66) ('Funabashi',  1.3999e+02,  35.7 )
+ ('Hamhung',  1.2754e+02,  39.91) ('Sargodha',  7.2670e+01,  32.08)
+ ('Meknes', -5.5600e+00,  33.9 ) ('Las Vegas', -1.1522e+02,  36.21)
+ ('Villa Nueva', -9.0590e+01,  14.53) ('Resht',  4.9630e+01,  37.3 )
+ ('Cangzhou',  1.1687e+02,  38.32) ('Tanggu',  1.1767e+02,  39.  )
+ ('Helsinki',  2.4940e+01,  60.17) ('Malaga', -4.4200e+00,  36.72)
+ ('Milwaukee', -8.7970e+01,  43.06) ('Nashville', -8.6780e+01,  36.17)
+ ('Ife',  4.5600e+00,   7.48) ("at-Ta'if",  4.0380e+01,  21.26)
+ ('Changde',  1.1168e+02,  29.03) ('Surakarta',  1.1082e+02,  -7.57)
+ ('Bloemfontein',  2.6230e+01, -29.15) ('Poznan',  1.6900e+01,  52.4 )
+ ('Barcelona', -6.4720e+01,  10.13) ('Reynosa', -9.8280e+01,  26.08)
+ ('Lopez Mateos', -9.9260e+01,  19.57) ('Cuiaba', -5.6090e+01, -15.61)
+ ('Bangui',  1.8560e+01,   4.36) ('Xigong',  1.1425e+02,  22.33)
+ ('Shiliguri',  8.8420e+01,  26.73) ('Oklahoma City', -9.7510e+01,  35.47)
+ ('Louisville', -8.5740e+01,  38.22) ('Jiamusi',  1.3035e+02,  46.83)
+ ('Huaiyin',  1.1903e+02,  33.58) ('Welkom',  2.6730e+01, -27.97)
+ ('Kolhapur',  7.4220e+01,  16.7 ) ('Rajpur',  8.8440e+01,  22.44)
+ ('Ulhasnagar',  7.3150e+01,  19.23) ('Bremen',  8.8100e+00,  53.08)
+ ('San Salvador', -8.9190e+01,  13.69) ('Tembisa',  2.8220e+01, -25.99)
+ ('Banqiao',  1.2144e+02,  25.02) ('Maanshan',  1.1848e+02,  31.73)
+ ('Portland', -1.2266e+02,  45.54) ('Toluca', -9.9670e+01,  19.29)
+ ('Gold Coast',  1.5344e+02, -28.07)
+ ('Kota Kinabalu',  1.1607e+02,   5.97) ('Agadir', -9.6100e+00,  30.42)
+ ('Vilnius',  2.5270e+01,  54.7 ) ('Orenburg',  5.5100e+01,  51.78)
+ ('Ajmer',  7.4640e+01,  26.45) ('Guntur',  8.0440e+01,  16.31)
+ ('Neijiang',  1.0505e+02,  29.58) ('Durgapur',  8.7310e+01,  23.5 )
+ ('Salta', -6.5410e+01, -24.79) ('Novokuznetsk',  8.7100e+01,  53.75)
+ ('Yangzhou',  1.1943e+02,  32.4 ) ('Shashi',  1.1223e+02,  30.32)
+ ('Aparecida de Go', -4.9240e+01, -16.82)
+ ('Asuncion', -5.7630e+01, -25.3 )
+ ('Ribeirao das Ne', -4.4080e+01, -19.76)
+ ('Sangli-Miraj',  7.4570e+01,  16.86)
+ ('Petaling Jaya',  1.0162e+02,   3.1 ) ('Dehra Dun',  7.8050e+01,  30.34)
+ ('Maturin', -6.3170e+01,   9.75) ('Torreon', -1.0343e+02,  25.55)
+ ('Jiaozuo',  1.1322e+02,  35.25) ('Zhuhai',  1.1357e+02,  22.28)
+ ('Nanded',  7.7290e+01,  19.17) ('Tyumen',  6.5530e+01,  57.15)
+ ('Albuquerque', -1.0662e+02,  35.12) ('Suez',  3.2540e+01,  29.98)
+ ('Cagayan',  1.2467e+02,   8.45) ('Mwanza',  3.2890e+01,  -2.52)
+ ('Petare', -6.6830e+01,  10.52) ('Soledad', -7.4770e+01,  10.92)
+ ('Uijongbu',  1.2704e+02,  37.74) ('Yueyang',  1.1310e+02,  29.38)
+ ("Ta'izz",  4.4040e+01,  13.6 ) ('Feira de Santan', -3.8970e+01, -12.25)
+ ('Tucson', -1.1089e+02,  32.2 ) ('Naberezhnyye Ch',  5.2320e+01,  55.69)
+ ('Matsuyama',  1.3277e+02,  33.84) ('Kerman',  5.7080e+01,  30.3 )
+ ('Garoua',  1.3390e+01,   9.3 ) ('Tuxtla Gutierre', -9.3120e+01,  16.75)
+ ('Tlaquepaque', -1.0332e+02,  20.64) ('Jammu',  7.4850e+01,  32.71)
+ ('Gulbarga',  7.6820e+01,  17.34) ('Jamnagar',  7.0070e+01,  22.47)
+ ('Hanover',  9.7300e+00,  52.4 ) ('Chiclayo', -7.9840e+01,  -6.76)
+ ('Bucaramanga', -7.3130e+01,   7.13) ('Goteborg',  1.2010e+01,  57.72)
+ ('Ryazan',  3.9740e+01,  54.62) ('Bahawalpur',  7.1670e+01,  29.39)
+ ('Bhatpara',  8.8420e+01,  22.89) ('Zhunmen',  1.1398e+02,  22.41)
+ ('Calamba',  1.2115e+02,  14.21) ('Changwon',  1.2862e+02,  35.27)
+ ('Zunyi',  1.0692e+02,  27.7 ) ('Lipetsk',  3.9620e+01,  52.62)
+ ('Dresden',  1.3740e+01,  51.05) ('Aracaju', -3.7070e+01, -10.91)
+ ('H?amah',  3.6730e+01,  35.15) ('Saharanpur',  7.7540e+01,  29.97)
+ ('Niyala',  2.4890e+01,  12.06) ('San Nicolas de ', -1.0030e+02,  25.75)
+ ('Leipzig',  1.2400e+01,  51.35) ('al-H?illah',  4.4430e+01,  32.48)
+ ('Xuchang',  1.1382e+02,  34.02) ('Higashiosaka',  1.3559e+02,  34.67)
+ ('Wuhu',  1.1837e+02,  31.35) ('Kananga',  2.2400e+01,  -5.89)
+ ('Boma',  1.3050e+01,  -5.85) ('Atlanta', -8.4420e+01,  33.76)
+ ('Tabuk',  3.6570e+01,  28.39) ('Mykolayiv',  3.2000e+01,  46.97)
+ ('Nuremberg',  1.1050e+01,  49.45)
+ ('Cuautitlan Izca', -9.9250e+01,  19.65)
+ ('Santa Fe', -6.0690e+01, -31.6 ) ('Londrina', -5.1180e+01, -23.3 )
+ ('Bombay',  7.2820e+01,  18.96)]
+random start point being given row=28
